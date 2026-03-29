@@ -27,23 +27,31 @@
     .subtitle {
       color: rgba(255,255,255,0.8);
       font-size: 0.95rem;
-      margin-bottom: 30px;
+      margin-bottom: 6px;
+    }
+
+    .total-count {
+      color: rgba(255,255,255,0.65);
+      font-size: 0.8rem;
+      margin-bottom: 24px;
     }
 
     .tabs {
       display: flex;
-      gap: 10px;
-      margin-bottom: 24px;
+      gap: 8px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+      justify-content: center;
     }
 
     .tab {
-      padding: 8px 20px;
+      padding: 8px 18px;
       border-radius: 20px;
       border: 2px solid rgba(255,255,255,0.5);
       background: transparent;
       color: white;
       cursor: pointer;
-      font-size: 0.9rem;
+      font-size: 0.85rem;
       transition: all 0.2s;
     }
 
@@ -53,13 +61,32 @@
       border-color: white;
     }
 
+    .search-box {
+      width: 100%;
+      max-width: 480px;
+      margin-bottom: 16px;
+    }
+
+    .search-box input {
+      width: 100%;
+      padding: 10px 16px;
+      border-radius: 20px;
+      border: none;
+      background: rgba(255,255,255,0.2);
+      color: white;
+      font-size: 0.9rem;
+      outline: none;
+    }
+
+    .search-box input::placeholder { color: rgba(255,255,255,0.6); }
+
     .card-container {
       perspective: 1000px;
       width: 100%;
       max-width: 480px;
-      height: 260px;
+      height: 280px;
       cursor: pointer;
-      margin-bottom: 24px;
+      margin-bottom: 16px;
     }
 
     .card {
@@ -70,9 +97,7 @@
       transition: transform 0.55s cubic-bezier(0.4,0,0.2,1);
     }
 
-    .card.flipped {
-      transform: rotateY(180deg);
-    }
+    .card.flipped { transform: rotateY(180deg); }
 
     .card-face {
       position: absolute;
@@ -84,59 +109,36 @@
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      padding: 30px;
+      padding: 28px 24px;
       box-shadow: 0 10px 40px rgba(0,0,0,0.2);
     }
 
-    .card-front {
-      background: white;
-    }
-
-    .card-back {
-      background: #f0f0ff;
-      transform: rotateY(180deg);
-    }
+    .card-front { background: white; }
+    .card-back { background: #f0f0ff; transform: rotateY(180deg); }
 
     .japanese {
-      font-size: 2rem;
+      font-size: 1.75rem;
       font-weight: bold;
       color: #333;
       margin-bottom: 8px;
       text-align: center;
+      line-height: 1.4;
     }
 
-    .hiragana {
-      font-size: 1.1rem;
-      color: #888;
-      margin-bottom: 4px;
-    }
-
-    .hint {
-      font-size: 0.85rem;
-      color: #aaa;
-      margin-top: 16px;
-    }
+    .hiragana { font-size: 1rem; color: #888; margin-bottom: 4px; text-align: center; }
+    .hint { font-size: 0.8rem; color: #aaa; margin-top: 14px; }
 
     .meaning {
-      font-size: 1.4rem;
+      font-size: 1.3rem;
       font-weight: bold;
       color: #764ba2;
-      margin-bottom: 8px;
+      margin-bottom: 10px;
       text-align: center;
+      line-height: 1.4;
     }
 
-    .romaji {
-      font-size: 0.95rem;
-      color: #888;
-      text-align: center;
-    }
-
-    .pronunciation {
-      font-size: 0.9rem;
-      color: #aaa;
-      margin-top: 6px;
-      text-align: center;
-    }
+    .romaji { font-size: 0.9rem; color: #888; text-align: center; }
+    .pronunciation { font-size: 0.85rem; color: #aaa; margin-top: 6px; text-align: center; }
 
     .category-badge {
       position: absolute;
@@ -144,19 +146,37 @@
       right: 14px;
       background: #764ba2;
       color: white;
-      font-size: 0.72rem;
+      font-size: 0.7rem;
       padding: 3px 10px;
       border-radius: 12px;
+    }
+
+    .progress-bar {
+      width: 100%;
+      max-width: 480px;
+      height: 5px;
+      background: rgba(255,255,255,0.25);
+      border-radius: 3px;
+      margin-bottom: 16px;
+      overflow: hidden;
+    }
+
+    .progress-fill {
+      height: 100%;
+      background: white;
+      border-radius: 3px;
+      transition: width 0.3s;
     }
 
     .controls {
       display: flex;
       align-items: center;
       gap: 16px;
+      margin-bottom: 10px;
     }
 
     .btn {
-      padding: 10px 28px;
+      padding: 10px 26px;
       border-radius: 24px;
       border: none;
       font-size: 1rem;
@@ -176,40 +196,64 @@
       text-align: center;
     }
 
-    .progress-bar {
-      width: 100%;
-      max-width: 480px;
-      height: 6px;
-      background: rgba(255,255,255,0.25);
-      border-radius: 3px;
-      margin-bottom: 18px;
-      overflow: hidden;
-    }
-
-    .progress-fill {
-      height: 100%;
-      background: white;
-      border-radius: 3px;
-      transition: width 0.3s;
-    }
-
     .flip-hint {
-      color: rgba(255,255,255,0.6);
-      font-size: 0.8rem;
+      color: rgba(255,255,255,0.55);
+      font-size: 0.78rem;
+      margin-top: 10px;
+    }
+
+    .shuffle-btn {
       margin-top: 14px;
+      background: rgba(255,255,255,0.15);
+      color: white;
+      border: 1px solid rgba(255,255,255,0.3);
+      padding: 6px 18px;
+      border-radius: 16px;
+      font-size: 0.82rem;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .shuffle-btn:hover { background: rgba(255,255,255,0.28); }
+
+    .loading {
+      color: rgba(255,255,255,0.8);
+      font-size: 1.1rem;
+      margin-top: 60px;
+    }
+
+    .updated-at {
+      color: rgba(255,255,255,0.4);
+      font-size: 0.72rem;
+      margin-top: 18px;
+    }
+
+    /* 모바일 최적화 */
+    @media (max-width: 480px) {
+      body { padding: 20px 14px; }
+      h1 { font-size: 1.4rem; }
+      .card-container { height: 260px; }
+      .japanese { font-size: 1.45rem; }
+      .meaning { font-size: 1.1rem; }
+      .btn { padding: 9px 20px; font-size: 0.95rem; }
     }
   </style>
 </head>
 <body>
 
 <h1>🇯🇵 소희의 일본어 플래시카드</h1>
-<p class="subtitle">카드를 클릭하면 뒤집혀요!</p>
+<p class="subtitle">카드를 탭하면 뒤집혀요!</p>
+<p class="total-count" id="totalCount">로딩 중...</p>
 
 <div class="tabs">
   <button class="tab active" onclick="filterCards('all', this)">전체</button>
   <button class="tab" onclick="filterCards('sentence', this)">문장</button>
   <button class="tab" onclick="filterCards('word', this)">단어</button>
   <button class="tab" onclick="filterCards('grammar', this)">문법</button>
+</div>
+
+<div class="search-box">
+  <input type="text" id="searchInput" placeholder="🔍 일본어 / 한국어로 검색..." oninput="handleSearch()" />
 </div>
 
 <div class="progress-bar">
@@ -220,7 +264,7 @@
   <div class="card" id="card">
     <div class="card-face card-front">
       <span class="category-badge" id="badge">문장</span>
-      <div class="japanese" id="japanese"></div>
+      <div class="japanese" id="japanese">로딩 중...</div>
       <div class="hiragana" id="hiragana"></div>
       <div class="hint">👆 탭하면 답이 나와요</div>
     </div>
@@ -235,78 +279,113 @@
 
 <div class="controls">
   <button class="btn btn-prev" onclick="prevCard()">← 이전</button>
-  <span class="counter" id="counter">1 / 1</span>
+  <span class="counter" id="counter">- / -</span>
   <button class="btn btn-next" onclick="nextCard()">다음 →</button>
 </div>
 
-<p class="flip-hint">← → 키로도 넘길 수 있어요</p>
+<p class="flip-hint">← → 키로도 넘길 수 있어요 · 스와이프도 돼요</p>
+<button class="shuffle-btn" onclick="shuffleCards()">🔀 섞기</button>
+<p class="updated-at" id="updatedAt"></p>
 
 <script>
-const allCards = [
-  // 문장
-  { category: "sentence", japanese: "オヤコドンを食べました。", hiragana: "おやこどんをたべました", romaji: "oyakodon o tabemashita", pronunciation: "오야코돈오 타베마시타", meaning: "오야코돈을 먹었습니다" },
-  { category: "sentence", japanese: "まだ食べていません。", hiragana: "まだたべていません", romaji: "Mada tabete imasen", pronunciation: "마다 타베테 이마센", meaning: "아직 안 먹었어요" },
-  { category: "sentence", japanese: "金曜日は英語教室に行きます。", hiragana: "きんようびはえいごきょうしつにいきます", romaji: "kinyoubi wa eigo kyoushitsu ni ikimasu", pronunciation: "킨요오비와 에이고 쿄오시츠니 이키마스", meaning: "금요일은 영어 교실에 갑니다" },
-  { category: "sentence", japanese: "コーヒーを飲んだり音楽を聞いたりします。", hiragana: "こーひーをのんだりおんがくをきいたりします", romaji: "koohii o nondari ongaku o kiitari shimasu", pronunciation: "코오히이오 논다리 온가쿠오 키이타리 시마스", meaning: "커피를 마시거나 음악을 듣기도 합니다" },
-  { category: "sentence", japanese: "メニューがちがいます。", hiragana: "めにゅーがちがいます", romaji: "menyuu ga chigaimasu", pronunciation: "메뉴가 치가이마스", meaning: "메뉴가 달라요" },
-  { category: "sentence", japanese: "両親の誕生日なので、故郷に行く予定です。", hiragana: "りょうしんのたんじょうびなので、こきょうにいくよていです", romaji: "ryoushin no tanjoubi na node, kokyou ni iku yotei desu", pronunciation: "료오신노 탄죠오비나노데, 코쿄우니 이쿠 요테이데스", meaning: "부모님 생신이라 고향에 갈 예정입니다" },
-  { category: "sentence", japanese: "友達に会ったり旅行したりしました。", hiragana: "ともだちにあったりりょこうしたりしました", romaji: "tomodachi ni attari ryokou shitari shimashita", pronunciation: "토모다치니 앗따리 료코오 시따리 시마시타", meaning: "친구를 만나기도 하고 여행도 했습니다" },
-  { category: "sentence", japanese: "카페에서 커피를 마시면서 책을 읽었어요。", hiragana: "かふぇでこーひーをのみながらほんをよみました", romaji: "kafe de koohii o nominagara hon o yomimashita", pronunciation: "카페데 코오히이오 노미나가라 혼오 요미마시타", meaning: "카페에서 커피를 마시면서 책을 읽었어요" },
-  { category: "sentence", japanese: "今日は一日中雨が降っています。", hiragana: "きょうはいちにちじゅうあめがふっています", romaji: "kyou wa ichinichijuu ame ga futte imasu", pronunciation: "쿄우와 이치니치쥬우 아메가 훗테이마스", meaning: "오늘은 하루 종일 비가 와요" },
-  { category: "sentence", japanese: "週末に映画を見ました。", hiragana: "しゅうまつにえいがをみました", romaji: "shuumatsu ni eiga o mimashita", pronunciation: "슈우마츠니 에이가오 미마시타", meaning: "주말에 영화를 봤어요" },
-  { category: "sentence", japanese: "映画を見に行きます。", hiragana: "えいがをみにいきます", romaji: "eiga o mi ni ikimasu", pronunciation: "에이가 오 미 니 이키마스", meaning: "영화를 보러 갑니다" },
-  { category: "sentence", japanese: "ごはんを食べに行きます。", hiragana: "ごはんをたべにいきます", romaji: "gohan o tabe ni ikimasu", pronunciation: "고한오 타베니 이키마스", meaning: "밥 먹으러 갑니다" },
-  { category: "sentence", japanese: "買い物に行きます。", hiragana: "かいものにいきます", romaji: "kaimono ni ikimasu", pronunciation: "카이모노 니 이키마스", meaning: "쇼핑하러 갑니다" },
-  { category: "sentence", japanese: "行こうと思います。", hiragana: "いこうとおもいます", romaji: "ikou to omoimasu", pronunciation: "이코우 토 오모이마스", meaning: "가려고 합니다 / 갈 생각입니다" },
-  { category: "sentence", japanese: "３０分ぐらい遅れそうです。", hiragana: "さんじゅっぷんぐらいおくれそうです", romaji: "sanjuppun gurai okuresou desu", pronunciation: "산쥽뿡 구라이 오쿠레소우데스", meaning: "30분 정도 늦을 것 같아요" },
-
-  // 단어
-  { category: "word", japanese: "春", hiragana: "はる", romaji: "haru", pronunciation: "하루", meaning: "봄" },
-  { category: "word", japanese: "夏", hiragana: "なつ", romaji: "natsu", pronunciation: "나츠", meaning: "여름" },
-  { category: "word", japanese: "秋", hiragana: "あき", romaji: "aki", pronunciation: "아키", meaning: "가을" },
-  { category: "word", japanese: "冬", hiragana: "ふゆ", romaji: "fuyu", pronunciation: "후유", meaning: "겨울" },
-  { category: "word", japanese: "牛肉", hiragana: "ぎゅうにく", romaji: "gyuuniku", pronunciation: "규우니쿠", meaning: "소고기" },
-  { category: "word", japanese: "豚肉", hiragana: "ぶたにく", romaji: "butaniku", pronunciation: "부타니쿠", meaning: "돼지고기" },
-  { category: "word", japanese: "鶏肉", hiragana: "とりにく", romaji: "toriniku", pronunciation: "토리니쿠", meaning: "닭고기" },
-  { category: "word", japanese: "高い", hiragana: "たかい", romaji: "takai", pronunciation: "타카이", meaning: "높다, 비싸다" },
-  { category: "word", japanese: "低い", hiragana: "ひくい", romaji: "hikui", pronunciation: "히쿠이", meaning: "낮다" },
-  { category: "word", japanese: "楽しい", hiragana: "たのしい", romaji: "tanoshii", pronunciation: "타노시이", meaning: "즐겁다" },
-  { category: "word", japanese: "優しい", hiragana: "やさしい", romaji: "yasashii", pronunciation: "야사시이", meaning: "상냥하다, 쉬운" },
-  { category: "word", japanese: "大好き", hiragana: "だいすき", romaji: "daisuki", pronunciation: "다이스키", meaning: "아주 좋아하다" },
-
-  // 문법
-  { category: "grammar", japanese: "〜に行く", hiragana: "〜にいく", romaji: "~ni iku", pronunciation: "~니 이쿠", meaning: "~하러 가다 (동사 ます형 어간 + に行く)" },
-  { category: "grammar", japanese: "〜たり〜たりします", hiragana: "〜たり〜たりします", romaji: "~tari ~tari shimasu", pronunciation: "~타리 ~타리 시마스", meaning: "~하기도 하고 ~하기도 합니다" },
-  { category: "grammar", japanese: "〜と思います", hiragana: "〜とおもいます", romaji: "~to omoimasu", pronunciation: "~토 오모이마스", meaning: "~라고 생각합니다 / ~할 것 같아요" },
-  { category: "grammar", japanese: "〜そうです", hiragana: "〜そうです", romaji: "~sou desu", pronunciation: "~소우데스", meaning: "~할 것 같아요 (겉모습 추측) / ~라고 해요 (전달)" },
-  { category: "grammar", japanese: "〜んです", hiragana: "〜んです", romaji: "~n desu", pronunciation: "~응데스", meaning: "~인 거예요 (설명·강조)" },
-  { category: "grammar", japanese: "〜ておく", hiragana: "〜ておく", romaji: "~te oku", pronunciation: "~테 오쿠", meaning: "미리 ~해 두다" },
-];
-
-let filtered = [...allCards];
+let allCards = [];
+let filtered = [];
 let current = 0;
 let flipped = false;
+let activeCategory = 'all';
+let touchStartX = 0;
+
+// JSON에서 데이터 로드
+async function loadCards() {
+  try {
+    const res = await fetch('../japanese_sentences.json?t=' + Date.now());
+    const data = await res.json();
+    const sentences = data.sentences || [];
+
+    // category 추론: 의미가 짧고 히라가나만이면 단어, ~します/~ます 패턴이면 문법, 나머지 문장
+    allCards = sentences.map(s => {
+      let category = 'sentence';
+      const jp = s.jp || '';
+      const meaning = s.meaning || '';
+      // 단어: 일본어가 짧고(5자 이하) 의미도 짧음
+      if (jp.length <= 6 && meaning.length <= 12 && !jp.includes('。') && !jp.includes('、')) {
+        category = 'word';
+      }
+      // 문법 패턴: ~로 시작하는 패턴
+      if (jp.startsWith('〜') || jp.startsWith('～')) {
+        category = 'grammar';
+      }
+      return {
+        category,
+        japanese: jp,
+        hiragana: s.hira || '',
+        romaji: s.roma || '',
+        pronunciation: s.pron || '',
+        meaning: meaning
+      };
+    });
+
+    filtered = [...allCards];
+    document.getElementById('totalCount').textContent =
+      `총 ${allCards.length}개 카드 · 매일 자동 업데이트`;
+
+    if (data.updatedAt) {
+      document.getElementById('updatedAt').textContent =
+        '마지막 업데이트: ' + new Date(data.updatedAt).toLocaleDateString('ko-KR');
+    }
+
+    renderCard();
+  } catch (e) {
+    document.getElementById('japanese').textContent = '데이터 로드 실패 😢';
+    document.getElementById('totalCount').textContent = '파일을 불러올 수 없어요';
+  }
+}
 
 function filterCards(type, btn) {
   document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
   btn.classList.add('active');
-  filtered = type === 'all' ? [...allCards] : allCards.filter(c => c.category === type);
+  activeCategory = type;
+  applyFilter();
+}
+
+function applyFilter() {
+  const q = document.getElementById('searchInput').value.trim().toLowerCase();
+  filtered = allCards.filter(c => {
+    const catOk = activeCategory === 'all' || c.category === activeCategory;
+    const searchOk = !q || c.japanese.includes(q) || c.meaning.toLowerCase().includes(q) ||
+      c.pronunciation.includes(q) || c.romaji.toLowerCase().includes(q);
+    return catOk && searchOk;
+  });
   current = 0;
   flipped = false;
   document.getElementById('card').classList.remove('flipped');
   renderCard();
 }
 
+function handleSearch() { applyFilter(); }
+
 function renderCard() {
+  if (!filtered.length) {
+    document.getElementById('japanese').textContent = '검색 결과 없음';
+    document.getElementById('hiragana').textContent = '';
+    document.getElementById('meaning').textContent = '';
+    document.getElementById('romaji').textContent = '';
+    document.getElementById('pronunciation').textContent = '';
+    document.getElementById('badge').textContent = '-';
+    document.getElementById('badge2').textContent = '-';
+    document.getElementById('counter').textContent = '0 / 0';
+    document.getElementById('progressFill').style.width = '0%';
+    return;
+  }
   const c = filtered[current];
-  const categoryLabel = c.category === 'sentence' ? '문장' : c.category === 'word' ? '단어' : '문법';
+  const label = c.category === 'sentence' ? '문장' : c.category === 'word' ? '단어' : '문법';
   document.getElementById('japanese').textContent = c.japanese;
   document.getElementById('hiragana').textContent = c.hiragana;
   document.getElementById('meaning').textContent = c.meaning;
   document.getElementById('romaji').textContent = c.romaji;
   document.getElementById('pronunciation').textContent = c.pronunciation;
-  document.getElementById('badge').textContent = categoryLabel;
-  document.getElementById('badge2').textContent = categoryLabel;
+  document.getElementById('badge').textContent = label;
+  document.getElementById('badge2').textContent = label;
   document.getElementById('counter').textContent = `${current + 1} / ${filtered.length}`;
   const pct = ((current + 1) / filtered.length * 100).toFixed(1);
   document.getElementById('progressFill').style.width = pct + '%';
@@ -318,6 +397,7 @@ function flipCard() {
 }
 
 function nextCard() {
+  if (!filtered.length) return;
   current = (current + 1) % filtered.length;
   flipped = false;
   document.getElementById('card').classList.remove('flipped');
@@ -325,19 +405,46 @@ function nextCard() {
 }
 
 function prevCard() {
+  if (!filtered.length) return;
   current = (current - 1 + filtered.length) % filtered.length;
   flipped = false;
   document.getElementById('card').classList.remove('flipped');
   renderCard();
 }
 
+function shuffleCards() {
+  for (let i = filtered.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [filtered[i], filtered[j]] = [filtered[j], filtered[i]];
+  }
+  current = 0;
+  flipped = false;
+  document.getElementById('card').classList.remove('flipped');
+  renderCard();
+}
+
+// 키보드
 document.addEventListener('keydown', e => {
   if (e.key === 'ArrowRight') nextCard();
   else if (e.key === 'ArrowLeft') prevCard();
   else if (e.key === ' ') { e.preventDefault(); flipCard(); }
 });
 
-renderCard();
+// 스와이프
+document.querySelector('.card-container').addEventListener('touchstart', e => {
+  touchStartX = e.touches[0].clientX;
+}, { passive: true });
+
+document.querySelector('.card-container').addEventListener('touchend', e => {
+  const dx = e.changedTouches[0].clientX - touchStartX;
+  if (Math.abs(dx) > 50) {
+    dx < 0 ? nextCard() : prevCard();
+  } else {
+    flipCard();
+  }
+});
+
+loadCards();
 </script>
 </body>
 </html>
