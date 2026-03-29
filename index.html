@@ -260,7 +260,7 @@
   <div class="progress-fill" id="progressFill"></div>
 </div>
 
-<div class="card-container" onclick="flipCard()">
+<div class="card-container" id="cardContainer">
   <div class="card" id="card">
     <div class="card-face card-front">
       <span class="category-badge" id="badge">문장</span>
@@ -430,19 +430,37 @@ document.addEventListener('keydown', e => {
   else if (e.key === ' ') { e.preventDefault(); flipCard(); }
 });
 
-// 스와이프
-document.querySelector('.card-container').addEventListener('touchstart', e => {
+// 터치 이벤트 (스와이프 + 탭 분리)
+const cardContainer = document.getElementById('cardContainer');
+let touchStartY = 0;
+let touchMoved = false;
+
+cardContainer.addEventListener('touchstart', e => {
   touchStartX = e.touches[0].clientX;
+  touchStartY = e.touches[0].clientY;
+  touchMoved = false;
 }, { passive: true });
 
-document.querySelector('.card-container').addEventListener('touchend', e => {
+cardContainer.addEventListener('touchmove', e => {
+  const dx = Math.abs(e.touches[0].clientX - touchStartX);
+  const dy = Math.abs(e.touches[0].clientY - touchStartY);
+  if (dx > 8 || dy > 8) touchMoved = true;
+}, { passive: true });
+
+cardContainer.addEventListener('touchend', e => {
   const dx = e.changedTouches[0].clientX - touchStartX;
-  if (Math.abs(dx) > 50) {
-    dx < 0 ? nextCard() : prevCard();
-  } else {
+  if (!touchMoved) {
+    // 탭: 즉시 뒤집기
     flipCard();
+  } else if (Math.abs(dx) > 50) {
+    // 스와이프
+    dx < 0 ? nextCard() : prevCard();
   }
-});
+  e.preventDefault();
+}, { passive: false });
+
+// 클릭 (PC)
+cardContainer.addEventListener('click', flipCard);
 
 loadCards();
 </script>
