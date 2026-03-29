@@ -298,7 +298,7 @@ let touchStartX = 0;
 // JSON에서 데이터 로드
 async function loadCards() {
   try {
-    const res = await fetch('../japanese_sentences.json?t=' + Date.now());
+    const res = await fetch('./japanese_sentences.json?t=' + Date.now());
     const data = await res.json();
     const sentences = data.sentences || [];
 
