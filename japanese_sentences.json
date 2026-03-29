@@ -1,0 +1,4401 @@
+{
+  "sentences": [
+    {
+      "jp": "オヤコドンを食べました。",
+      "hira": "おやこどんをたべました",
+      "roma": "oyakodon o tabemashita",
+      "pron": "오야코돈오 타베마시타",
+      "meaning": "오야코돈을 먹었습니다"
+    },
+    {
+      "jp": "両親の誕生日なので、故郷に行く予定です。",
+      "hira": "りょうしんのたんじょうびなので、こきょうにいくよていです",
+      "roma": "ryoushin no tanjoubi na node, kokyou ni iku yotei desu",
+      "pron": "료오신노 탄죠오비나노데, 코쿄우니 이쿠 요테이데스",
+      "meaning": "부모님 생신이라 고향에 갈 예정입니다"
+    },
+    {
+      "jp": "金曜日は英語教室に行きます。",
+      "hira": "きんようびはえいごきょうしつにいきます",
+      "roma": "kinyoubi wa eigo kyoushitsu ni ikimasu",
+      "pron": "킨요오비와 에이고 쿄오시츠니 이키마스",
+      "meaning": "금요일은 영어 교실에 갑니다"
+    },
+    {
+      "jp": "友達に会ったり旅行したりしました。",
+      "hira": "ともだちにあったりりょこうしたりしました",
+      "roma": "tomodachi ni attari ryokou shitari shimashita",
+      "pron": "토모다치니 앗따리 료코오 시따리 시마시타",
+      "meaning": "친구를 만나기도 하고 여행도 했습니다"
+    },
+    {
+      "jp": "コーヒーを飲んだり音楽を聞いたりします。",
+      "hira": "こーひーをのんだりおんがくをきいたりします",
+      "roma": "koohii o nondari ongaku o kiitari shimasu",
+      "pron": "코오히이오 논다리 온가쿠오 키이타리 시마스",
+      "meaning": "커피를 마시거나 음악을 듣기도 합니다"
+    },
+    {
+      "jp": "メニューがちがいます。",
+      "hira": "めにゅーがちがいます。",
+      "roma": "menyuu ga chigaimasu",
+      "pron": "메뉴가 치가이마스",
+      "meaning": "메뉴가 달라요"
+    },
+    {
+      "jp": "ごはんを食べに行きます。",
+      "hira": "ごはんをたべにいきます。",
+      "roma": "gohan o tabe ni ikimasu",
+      "pron": "고한 오 타베 니 이키마스",
+      "meaning": "밥 먹으러 갑니다"
+    },
+    {
+      "jp": "映画を見に行きます。",
+      "hira": "えいがをみにいきます。",
+      "roma": "eiga o mi ni ikimasu",
+      "pron": "에이가 오 미 니 이키마스",
+      "meaning": "영화를 보러 갑니다"
+    },
+    {
+      "jp": "買い物に行きます。",
+      "hira": "かいものにいきます。",
+      "roma": "kaimono ni ikimasu",
+      "pron": "카이모노 니 이키마스",
+      "meaning": "쇼핑하러 갑니다"
+    },
+    {
+      "jp": "写真をとりに行きます。",
+      "hira": "しゃしんをとりにいきます。",
+      "roma": "shashin o tori ni ikimasu",
+      "pron": "샤신오 토리니 이키마스",
+      "meaning": "사진 찍으러 갑니다"
+    },
+    {
+      "jp": "今日は雨でした。",
+      "hira": "きょうはあめでした。",
+      "roma": "kyou wa ame deshita",
+      "pron": "쿄우와 아메데시타",
+      "meaning": "오늘은 비였습니다 / 오늘은 비가 왔습니다"
+    },
+    {
+      "jp": "今はやんでいます。",
+      "hira": "いまはやんでいます。",
+      "roma": "ima wa yande imasu",
+      "pron": "이마와 얀데이마스",
+      "meaning": "지금은 (비가) 그치고 있습니다"
+    },
+    {
+      "jp": "ご飯を食べに行く",
+      "hira": "ごはんをたべにいく",
+      "roma": "gohan o tabe ni iku",
+      "pron": "고한오 타베니 이쿠",
+      "meaning": "밥을 먹으러 가다"
+    },
+    {
+      "jp": "本を借りに行く",
+      "hira": "ほんをかりにいく",
+      "roma": "hon o kari ni iku",
+      "pron": "혼오 카리니 이쿠",
+      "meaning": "책을 빌리러 가다"
+    },
+    {
+      "jp": "写真をとりに行く",
+      "hira": "しゃしんをとりにいく",
+      "roma": "shashin o tori ni iku",
+      "pron": "샤신오 토리니 이쿠",
+      "meaning": "사진 찍으러 가다"
+    },
+    {
+      "jp": "今日は休みの日です。",
+      "hira": "きょうはやすみのひです。",
+      "roma": "kyou wa yasumi no hi desu",
+      "pron": "쿄우와 야스미노 히데스",
+      "meaning": "오늘은 쉬는 날이에요"
+    },
+    {
+      "jp": "月に一度金曜日に休みます。",
+      "hira": "つきにいちどきんようびにやすみます。",
+      "roma": "tsuki ni ichido kin'youbi ni yasumimasu",
+      "pron": "츠키니 이치도 킨요오비니 야스미마스",
+      "meaning": "한 달에 한 번 금요일에 쉬어요"
+    },
+    {
+      "jp": "今日は一日中雨が降っています。",
+      "hira": "きょうはいちにちじゅうあめがふっています。",
+      "roma": "kyou wa ichinichijuu ame ga futte imasu",
+      "pron": "쿄우와 이치니치쥬우 아메가 훗테이마스",
+      "meaning": "오늘은 하루 종일 비가 와요"
+    },
+    {
+      "jp": "お金をかせぎに行く",
+      "hira": "おかねをかせぎにいく",
+      "roma": "okane o kasegi ni iku",
+      "pron": "오카네오 카세기니 이쿠",
+      "meaning": "돈 벌러 가다"
+    },
+    {
+      "jp": "本を読んでおく",
+      "hira": "ほんをよんでおく",
+      "roma": "hon o yonde oku",
+      "pron": "혼오 욘데 오쿠",
+      "meaning": "책을 읽어 두다"
+    },
+    {
+      "jp": "ご飯を作っておきます",
+      "hira": "ごはんをつくっておきます",
+      "roma": "gohan o tsukutte okimasu",
+      "pron": "고한오 츠쿳테 오키마스",
+      "meaning": "밥을 미리 만들어 둡니다"
+    },
+    {
+      "jp": "お金をかせいでおきます",
+      "hira": "おかねをかせいでおきます",
+      "roma": "okane o kaseide okimasu",
+      "pron": "오카네오 카세이데 오키마스",
+      "meaning": "돈을 벌어 두겠습니다"
+    },
+    {
+      "jp": "宿題をしておきます",
+      "hira": "しゅくだいをしておきます",
+      "roma": "shukudai o shite okimasu",
+      "pron": "슈쿠다이오 시테 오키마스",
+      "meaning": "숙제를 해 둡니다"
+    },
+    {
+      "jp": "お腹すいていないんですか",
+      "hira": "おなかすいていないんですか",
+      "roma": "Onaka suite inai n desu ka",
+      "pron": "오나카 스이테 이나이응 데스카",
+      "meaning": "배 안 고프세요?"
+    },
+    {
+      "jp": "朴さんお元気でしたか",
+      "hira": "ぱくさん おげんきでしたか",
+      "roma": "Paku-san ogenki deshita ka",
+      "pron": "박쿠상 오겐키 데시타카",
+      "meaning": "박 씨, 잘 지내셨어요? / 건강하셨나요?"
+    },
+    {
+      "jp": "駅の前で会いましょう",
+      "hira": "えきのまえで あいましょう",
+      "roma": "Eki no mae de aimashou",
+      "pron": "에키노 마에데 아이마쇼-",
+      "meaning": "역 앞에서 만납시다 / 역 앞에서 만나자"
+    },
+    {
+      "jp": "一人でできるように勉強しました",
+      "hira": "ひとりで できるように べんきょうしました",
+      "roma": "Hitori de dekiru you ni benkyou shimashita",
+      "pron": "히토리데 데키루 요우니 벤쿄우 시마시타",
+      "meaning": "혼자서 할 수 있도록 공부했습니다"
+    },
+    {
+      "jp": "鈴木さんにいっておきます",
+      "hira": "すずきさんに いっておきます",
+      "roma": "Suzuki-san ni itte okimasu",
+      "pron": "스즈키상 니 잇테 오키마스",
+      "meaning": "스즈키 씨에게 (미리) 말해 둘게요"
+    },
+    {
+      "jp": "おいしい食堂があるそうです",
+      "hira": "おいしい しょくどうが あるそうです",
+      "roma": "Oishii shokudou ga aru sou desu",
+      "pron": "오이시 쇼쿠도가 아루 소우 데스",
+      "meaning": "맛있는 식당이 있다고 하네요"
+    },
+    {
+      "jp": "行こうと思います",
+      "hira": "いこうと おもいます",
+      "roma": "Ikou to omoimasu",
+      "pron": "이코우토 오모이마스",
+      "meaning": "가려고 생각합니다"
+    },
+    {
+      "jp": "駅から5分ぐらい歩くと",
+      "hira": "えきから ごふんぐらい あるくと",
+      "roma": "Eki kara gofun gurai aruku to",
+      "pron": "에키카라 고훈 구라이 아루쿠토",
+      "meaning": "역에서 5분 정도 걸어가면"
+    },
+    {
+      "jp": "いきます",
+      "hira": "いきます",
+      "roma": "ikimasu",
+      "pron": "이키마스",
+      "meaning": "갑니다 / 가요 (단순 사실·정중체)"
+    },
+    {
+      "jp": "いくんです",
+      "hira": "いくんです",
+      "roma": "ikundesu",
+      "pron": "이쿤데스",
+      "meaning": "가는 거예요 / 갈 거라니까요 (설명·강조)"
+    },
+    {
+      "jp": "いきません",
+      "hira": "いきません",
+      "roma": "ikimasen",
+      "pron": "이키마센",
+      "meaning": "가지 않습니다 / 안 가요 (단순 사실·정중체)"
+    },
+    {
+      "jp": "いかないんです",
+      "hira": "いかないんです",
+      "roma": "ikanain desu",
+      "pron": "이카나인 데스",
+      "meaning": "안 가는 거예요 / 가지 않는 겁니다 (설명·강조)"
+    },
+    {
+      "jp": "おいしい食堂があるそうですね",
+      "hira": "おいしい しょくどう が あるそうですね",
+      "roma": "oishii shokudou ga arusou desu ne",
+      "pron": "오이시이 쇼쿠도우 가 아루소우데스네",
+      "meaning": "맛있는 식당이 있다고 하네요 / 있다고 들었어요"
+    },
+    {
+      "jp": "あしたいこうとおもいますが",
+      "hira": "あした いこうと おもいます が",
+      "roma": "ashita ikou to omoimasu ga",
+      "pron": "아시타 이코우토 오모이마스가",
+      "meaning": "내일 가려고 생각합니다만…"
+    },
+    {
+      "jp": "行きました",
+      "hira": "いきました",
+      "roma": "ikimashita",
+      "pron": "이키마시타",
+      "meaning": "갔습니다 / 갔어요 (단순 사실·정중체)"
+    },
+    {
+      "jp": "行ったんです",
+      "hira": "いったんです",
+      "roma": "ittan desu",
+      "pron": "잇탄데스",
+      "meaning": "간 거예요 / 갔던 겁니다 (설명·강조)"
+    },
+    {
+      "jp": "いかなかったんです",
+      "hira": "いかなかったんです",
+      "roma": "ikanakattan desu",
+      "pron": "이카나캇탄 데스",
+      "meaning": "안 갔던 거예요 / 가지 않았던 겁니다"
+    },
+    {
+      "jp": "行けないと思います",
+      "hira": "いけない と おもいます",
+      "roma": "ikenai to omoimasu",
+      "pron": "이케나이 토 오모이마스",
+      "meaning": "못 갈 것 같다고 생각합니다"
+    },
+    {
+      "jp": "行けなさそうです",
+      "hira": "いけなさそうです",
+      "roma": "ikenasasou desu",
+      "pron": "이케나사 소우 데스",
+      "meaning": "못 갈 것 같아 보여요 (겉으로 판단)"
+    },
+    {
+      "jp": "行けないみたいです",
+      "hira": "いけない みたいです",
+      "roma": "ikenai mitai desu",
+      "pron": "이케나이 미타이 데스",
+      "meaning": "못 갈 것 같아요 (상황·간접 정보 기반)"
+    },
+    {
+      "jp": "待つと思います",
+      "hira": "まつ と おもいます",
+      "roma": "matsu to omoimasu",
+      "pron": "마츠 토 오모이마스",
+      "meaning": "기다릴 거라고 생각합니다"
+    },
+    {
+      "jp": "待ちそうです",
+      "hira": "まちそうです",
+      "roma": "machisou desu",
+      "pron": "마치소우 데스",
+      "meaning": "기다릴 것처럼 보여요"
+    },
+    {
+      "jp": "待つみたいです",
+      "hira": "まつ みたいです",
+      "roma": "matsu mitai desu",
+      "pron": "마츠 미타이 데스",
+      "meaning": "기다릴 것 같아요 (들으니 / 상황 보니)"
+    },
+    {
+      "jp": "今会いました",
+      "hira": "いま あいました",
+      "roma": "ima aimashita",
+      "pron": "이마 아이마시타",
+      "meaning": "지금 만났습니다 / 지금 만났어요 (단순 사실)"
+    },
+    {
+      "jp": "今あったんです",
+      "hira": "いま あったんです",
+      "roma": "ima attan desu",
+      "pron": "이마 앗탄 데스",
+      "meaning": "지금 만난 거예요 / 지금 만난 겁니다 (설명·강조)"
+    },
+    {
+      "jp": "今食べました",
+      "hira": "いま たべました",
+      "roma": "ima tabemashita",
+      "pron": "이마 타베마시타",
+      "meaning": "지금 먹었어요 / 지금 먹었습니다"
+    },
+    {
+      "jp": "食べようと思います",
+      "hira": "たべよう と おもいます",
+      "roma": "tabeyou to omoimasu",
+      "pron": "타베요우 토 오모이마스",
+      "meaning": "먹으려고 합니다 / 먹을 생각입니다"
+    },
+    {
+      "jp": "勉強しようと思います",
+      "hira": "べんきょうしよう と おもいます",
+      "roma": "benkyou shiyou to omoimasu",
+      "pron": "벤쿄우 시요우 토 오모이마스",
+      "meaning": "공부하려고 합니다 / 공부할 생각입니다"
+    },
+    {
+      "jp": "読もうと思います",
+      "hira": "よもう と おもいます",
+      "roma": "yomou to omoimasu",
+      "pron": "요모우 토 오모이마스",
+      "meaning": "읽으려고 합니다 / 읽을 생각입니다"
+    },
+    {
+      "jp": "会おうと思います",
+      "hira": "あおう と おもいます",
+      "roma": "aou to omoimasu",
+      "pron": "아오우 토 오모이마스",
+      "meaning": "만나려고 합니다 / 만날 생각입니다"
+    },
+    {
+      "jp": "これからタクシーで行こうと思います",
+      "hira": "これから たくしーで いこう と おもいます",
+      "roma": "korekara takushii de ikou to omoimasu",
+      "pron": "코레카라 타쿠시이 데 이코우 토 오모이마스",
+      "meaning": "이제부터 택시로 가려고 합니다 / 갈 생각입니다"
+    },
+    {
+      "jp": "待つそうです",
+      "hira": "まつそうです",
+      "roma": "matsu sou desu",
+      "pron": "마츠 소우 데스",
+      "meaning": "기다린다고 해요 / 기다린대요 (전해 들은 정보)"
+    },
+    {
+      "jp": "行けないそうです",
+      "hira": "いけない そうです",
+      "roma": "ikenai sou desu",
+      "pron": "이케나이 소우데스",
+      "meaning": "못 간다고 해요 / 못 간대요"
+    },
+    {
+      "jp": "会いました",
+      "hira": "あいました",
+      "roma": "aimashita",
+      "pron": "아이마시타",
+      "meaning": "만났습니다 / 만났어요"
+    },
+    {
+      "jp": "今、あったんです",
+      "hira": "いま、あったんです",
+      "roma": "ima, attan desu",
+      "pron": "이마 앗탄데스",
+      "meaning": "지금 만난 거예요 / 지금 막 만났습니다"
+    },
+    {
+      "jp": "３０分ぐらい遅れそうです",
+      "hira": "さんじゅっぷん ぐらい おくれそうです",
+      "roma": "sanjuppun gurai okuresou desu",
+      "pron": "산쥽뿡 구라이 오쿠레소우데스",
+      "meaning": "30분 정도 늦을 것 같아요"
+    },
+    {
+      "jp": "会ったんです",
+      "hira": "あったんです",
+      "roma": "attan desu",
+      "pron": "앗탄데스",
+      "meaning": "만난 거예요 (설명·강조)"
+    },
+    {
+      "jp": "会わなかったんです",
+      "hira": "あわなかったんです",
+      "roma": "awanakattan desu",
+      "pron": "아와나캇탄데스",
+      "meaning": "안 만난 거예요 / 만나지 않았습니다"
+    },
+    {
+      "jp": "行かなかったんです",
+      "hira": "いかなかったんです",
+      "roma": "ikanakattan desu",
+      "pron": "이카나캇탄데스",
+      "meaning": "안 간 거예요"
+    },
+    {
+      "jp": "どうやって食べられますか",
+      "hira": "どうやって たべられますか",
+      "roma": "douyatte taberaremasu ka",
+      "pron": "도우얏떼 타베라레마스카",
+      "meaning": "어떻게 먹을 수 있어요?"
+    },
+    {
+      "jp": "どうやって会えますか",
+      "hira": "どうやって あえますか",
+      "roma": "douyatte aemasu ka",
+      "pron": "도우얏떼 아에마스카",
+      "meaning": "어떻게 만날 수 있어요?"
+    },
+    {
+      "jp": "仕事で遅れそうです",
+      "hira": "しごとで おくれそうです",
+      "roma": "shigoto de okuresou desu",
+      "pron": "시고토 데 오쿠레소우데스",
+      "meaning": "일 때문에 늦을 것 같아요"
+    },
+    {
+      "jp": "すみませんが３０分ぐらい遅れそうです。",
+      "hira": "すみませんが さんじゅっぷんぐらい おくれそうです。",
+      "roma": "sumimasen ga sanjuppun gurai okuresou desu",
+      "pron": "스미마센가 산쥬쁜구라이 오쿠레소우데스",
+      "meaning": "죄송하지만 약 30분 정도 늦을 것 같아요"
+    },
+    {
+      "jp": "承知しました",
+      "hira": "しょうちしました",
+      "roma": "shouchi shimashita",
+      "pron": "쇼치시마시타",
+      "meaning": "알겠습니다 / 이해했습니다"
+    },
+    {
+      "jp": "かしこまりました",
+      "hira": "かしこまりました",
+      "roma": "kashikomarimashita",
+      "pron": "카시키코마리마시타",
+      "meaning": "알겠습니다 / 명심했습니다"
+    },
+    {
+      "jp": "了解です",
+      "hira": "りょうかいです",
+      "roma": "ryoukai desu",
+      "pron": "료오카이데스",
+      "meaning": "알겠습니다 / 이해했습니다"
+    },
+    {
+      "jp": "オッケーです",
+      "hira": "おっけーです",
+      "roma": "okkee desu",
+      "pron": "옷케에데스",
+      "meaning": "오케이예요 / 괜찮아요"
+    },
+    {
+      "jp": "明日は雨が降るそうです。",
+      "hira": "あしたは あめが ふるそうです。",
+      "roma": "ashita wa ame ga furu sou desu",
+      "pron": "아시타와 아메가 후루소우데스",
+      "meaning": "내일 비가 온다고 해요"
+    },
+    {
+      "jp": "雨は降らないそうです。",
+      "hira": "あめは ふらないそうです。",
+      "roma": "ame wa furanai sou desu",
+      "pron": "아메와 후라나이 소우데스",
+      "meaning": "비가 안 온다고 해요"
+    },
+    {
+      "jp": "雨が降ったそうです。",
+      "hira": "あめが ふったそうです。",
+      "roma": "ame ga futta sou desu",
+      "pron": "아메가 훗타 소우데스",
+      "meaning": "비가 내렸다고 해요"
+    },
+    {
+      "jp": "キムさんが行くそうです。",
+      "hira": "きむさんが いくそうです。",
+      "roma": "Kimu-san ga iku sou desu",
+      "pron": "키무상가 이쿠소우데스",
+      "meaning": "김상이 간다고 해요"
+    },
+    {
+      "jp": "キムさんは行かないそうです。",
+      "hira": "きむさんは いかないそうです。",
+      "roma": "Kimu-san wa ikanai sou desu",
+      "pron": "키무상와 이카나이 소우데스",
+      "meaning": "김상이 안 간다고 해요"
+    },
+    {
+      "jp": "キムさんは行ったそうです。",
+      "hira": "きむさんは いったそうです。",
+      "roma": "Kimu-san wa itta sou desu",
+      "pron": "키무상와 잇따 소우데스",
+      "meaning": "김상이 갔다고 해요"
+    },
+    {
+      "jp": "さっき 会(あ)った ばかりです。",
+      "hira": "さっき あった ばかりです。",
+      "roma": "sakki atta bakari desu",
+      "pron": "삿키 앗따 바카리 데스",
+      "meaning": "아까 막 만났어요."
+    },
+    {
+      "jp": "さっき ごはん を 食(た)べました。",
+      "hira": "さっき ごはん を たべました。",
+      "roma": "sakki gohan o tabemashita",
+      "pron": "삿키 고한 오 타베마시타",
+      "meaning": "아까 밥 먹었어요."
+    },
+    {
+      "jp": "さっき 電話(でんわ) が ありました。",
+      "hira": "さっき でんわ が ありました。",
+      "roma": "sakki denwa ga arimashita",
+      "pron": "삿키 덴와 가 아리마시타",
+      "meaning": "아까 전화가 왔어요."
+    },
+    {
+      "jp": "仕事で遅れるそうです",
+      "hira": "しごとでおくれるそうです",
+      "roma": "shigoto de okureru sō desu",
+      "pron": "시고토데 오쿠레루 소우데스",
+      "meaning": "일 때문에 늦을 것 같아요 / 늦는다고 해요"
+    },
+    {
+      "jp": "そろそろ行かないと間に合いません",
+      "hira": "そろそろいかないとまにあいません",
+      "roma": "sorosoro ikanai to maniaimasen",
+      "pron": "소로소로 이카나이토 마니아이마센",
+      "meaning": "슬슬 가지 않으면 늦어요 / 이제 가야 시간에 맞아요"
+    },
+    {
+      "jp": "雨が降るそうです",
+      "hira": "あめがふるそうです",
+      "roma": "ame ga furu sō desu",
+      "pron": "아메가 후루 소우데스",
+      "meaning": "비가 온다고 해요"
+    },
+    {
+      "jp": "雨が降ったそうです",
+      "hira": "あめがふったそうです",
+      "roma": "ame ga futta sō desu",
+      "pron": "아메가 훗따 소우데스",
+      "meaning": "비가 왔다고 해요"
+    },
+    {
+      "jp": "雨が降らないそうです",
+      "hira": "あめがふらないそうです",
+      "roma": "ame ga furanai sō desu",
+      "pron": "아메가 후라나이 소우데스",
+      "meaning": "비가 안 온다고 해요 / 비가 안 올 거래요"
+    },
+    {
+      "jp": "雨が降らなかったそうです",
+      "hira": "あめがふらなかったそうです",
+      "roma": "ame ga furanakatta sō desu",
+      "pron": "아메가 후라나캇따 소우데스",
+      "meaning": "비가 안 왔다고 해요"
+    },
+    {
+      "jp": "行くそうです",
+      "hira": "いくそうです",
+      "roma": "iku sō desu",
+      "pron": "이쿠 소우데스",
+      "meaning": "간다고 해요 / 갈 거래요"
+    },
+    {
+      "jp": "行かないそうです",
+      "hira": "いかないそうです",
+      "roma": "ikanai sō desu",
+      "pron": "이카나이 소우데스",
+      "meaning": "안 간다고 해요 / 안 갈 거래요"
+    },
+    {
+      "jp": "行ったそうです",
+      "hira": "いったそうです",
+      "roma": "itta sō desu",
+      "pron": "잇따 소우데스",
+      "meaning": "갔다고 해요"
+    },
+    {
+      "jp": "行かなかったそうです",
+      "hira": "いかなかったそうです",
+      "roma": "ikanakatta sō desu",
+      "pron": "이카나캇따 소우데스",
+      "meaning": "안 갔다고 해요"
+    },
+    {
+      "jp": "待ったそうです",
+      "hira": "まったそうです",
+      "roma": "matta sō desu",
+      "pron": "맛따 소우데스",
+      "meaning": "기다렸다고 합니다 / 기다렸대요"
+    },
+    {
+      "jp": "待たなかったそうです",
+      "hira": "またなかったそうです",
+      "roma": "matanakatta sō desu",
+      "pron": "마타나캇따 소우데스",
+      "meaning": "기다리지 않았다고 합니다 / 안 기다렸대요"
+    },
+    {
+      "jp": "만난대요",
+      "hira": "会うそうです",
+      "roma": "",
+      "pron": "아우 소우데스",
+      "meaning": "만난다고 해요"
+    },
+    {
+      "jp": "만났대요",
+      "hira": "会ったそうです",
+      "roma": "",
+      "pron": "앗따 소우데스",
+      "meaning": "만났다고 해요"
+    },
+    {
+      "jp": "안 만난대요",
+      "hira": "会わないそうです",
+      "roma": "",
+      "pron": "아와나이 소우데스",
+      "meaning": "안 만난다고 해요"
+    },
+    {
+      "jp": "안 만났대요",
+      "hira": "会わなかったそうです",
+      "roma": "",
+      "pron": "아와나캇따 소우데스",
+      "meaning": "안 만났다고 해요"
+    },
+    {
+      "jp": "家で休もうと思います",
+      "hira": "いえでやすもうとおもいます",
+      "roma": "ie de yasumō to omoimasu",
+      "pron": "이에데 야스모오 토 오모이마스",
+      "meaning": "집에서 쉬려고 해요 / 집에서 쉴 생각이에요"
+    },
+    {
+      "jp": "コーヒーを飲もうと思います",
+      "hira": "こーひーをのもうとおもいます",
+      "roma": "kōhī o nomō to omoimasu",
+      "pron": "코오히이오 노모오 토 오모이마스",
+      "meaning": "커피를 마시려고 생각해요 / 커피를 마시려고 해요"
+    },
+    {
+      "jp": "友だちを信じようと思います",
+      "hira": "ともだちをしんじようとおもいます",
+      "roma": "tomodachi o shinjiyō to omoimasu",
+      "pron": "토모다치오 신지요오 토 오모이마스",
+      "meaning": "친구를 믿으려고 생각합니다 / 친구를 믿으려고 해요"
+    },
+    {
+      "jp": "明日は早く来ようと思います",
+      "hira": "あしたははやくこようとおもいます",
+      "roma": "ashita wa hayaku koyō to omoimasu",
+      "pron": "아시타와 하야쿠 코요오 토 오모이마스",
+      "meaning": "내일은 일찍 오려고 생각합니다 / 내일은 일찍 오려고 해요"
+    },
+    {
+      "jp": "待つそうです。",
+      "hira": "まつそうです。",
+      "roma": "matsu sō desu",
+      "pron": "마츠 소우데스",
+      "meaning": "기다린다고 합니다"
+    },
+    {
+      "jp": "待たないそうです。",
+      "hira": "またないそうです。",
+      "roma": "matanai sō desu",
+      "pron": "마타나이 소우데스",
+      "meaning": "기다리지 않는다고 합니다"
+    },
+    {
+      "jp": "待ったそうです。",
+      "hira": "まったそうです。",
+      "roma": "matta sō desu",
+      "pron": "맛타 소우데스",
+      "meaning": "기다렸다고 합니다"
+    },
+    {
+      "jp": "待たなかったそうです。",
+      "hira": "またなかったそうです。",
+      "roma": "matanakatta sō desu",
+      "pron": "마타나캇타 소우데스",
+      "meaning": "기다리지 않았다고 합니다"
+    },
+    {
+      "jp": "あうそうです。",
+      "hira": "あうそうです。",
+      "roma": "au sō desu",
+      "pron": "아우 소우데스",
+      "meaning": "만난다고 합니다"
+    },
+    {
+      "jp": "あわないです。",
+      "hira": "あわないです。",
+      "roma": "awanai desu",
+      "pron": "아와나이 데스",
+      "meaning": "만나지 않는다고 합니다"
+    },
+    {
+      "jp": "あったそうです。",
+      "hira": "あったそうです。",
+      "roma": "atta sō desu",
+      "pron": "앗타 소우데스",
+      "meaning": "만났다고 합니다"
+    },
+    {
+      "jp": "会わなかったです。",
+      "hira": "あわなかったです。",
+      "roma": "awanakatta desu",
+      "pron": "아와나캇타 데스",
+      "meaning": "만나지 않았다고 합니다"
+    },
+    {
+      "jp": "週末は家で休もうと思います。",
+      "hira": "しゅうまつは いえで やすもうと おもいます。",
+      "roma": "shūmatsu wa ie de yasumō to omoimasu",
+      "pron": "슈우마츠와 이에데 야스모오 토 오모이마스",
+      "meaning": "주말에는 집에서 쉬려고 합니다"
+    },
+    {
+      "jp": "コーヒーを飲もうと思います。",
+      "hira": "コーヒーを のもうと おもいます。",
+      "roma": "kōhī o nomō to omoimasu",
+      "pron": "코오히이오 노모오 토 오모이마스",
+      "meaning": "커피를 마시려고 합니다"
+    },
+    {
+      "jp": "朝起きるといつもコーヒーを飲みます。",
+      "hira": "あさ おきると いつも コーヒーを のみます。",
+      "roma": "asa okiru to itsumo kōhī o nomimasu",
+      "pron": "아사 오키루토 이츠모 코오히이오 노미마스",
+      "meaning": "아침에 일어나면 항상 커피를 마십니다"
+    },
+    {
+      "jp": "冬になりました。",
+      "hira": "ふゆに なりました。",
+      "roma": "fuyu ni narimashita",
+      "pron": "후유니 나리마시타",
+      "meaning": "겨울이 되었어요"
+    },
+    {
+      "jp": "今から行くんです。",
+      "hira": "いまから いくんです。",
+      "roma": "ima kara ikun desu",
+      "pron": "이마카라 이쿤데스",
+      "meaning": "지금부터 갈 거예요"
+    },
+    {
+      "jp": "きれいなんです",
+      "hira": "きれいなんです",
+      "roma": "kirei nan desu",
+      "pron": "키레이난데스",
+      "meaning": "예뻐요 / 깨끗해요"
+    },
+    {
+      "jp": "きれいじゃないんです",
+      "hira": "きれいじゃないんです",
+      "roma": "kirei ja nai n desu",
+      "pron": "키레이쟈나인데스",
+      "meaning": "예쁘지 않아요 / 깨끗하지 않아요"
+    },
+    {
+      "jp": "きれいだったんです",
+      "hira": "きれいだったんです",
+      "roma": "kirei dattan desu",
+      "pron": "키레이닷탄데스",
+      "meaning": "예뻤어요 / 깨끗했어요"
+    },
+    {
+      "jp": "きれいじゃなかったんです",
+      "hira": "きれいじゃなかったんです",
+      "roma": "kirei ja nakattan desu",
+      "pron": "키레이쟈나캇탄데스",
+      "meaning": "예쁘지 않았어요 / 깨끗하지 않았어요"
+    },
+    {
+      "jp": "高いんです",
+      "hira": "たかいんです",
+      "roma": "takai n desu",
+      "pron": "타카인데스",
+      "meaning": "비싸요 / 높아요"
+    },
+    {
+      "jp": "高くないんです",
+      "hira": "たかくないんです",
+      "roma": "takaku nai n desu",
+      "pron": "타카쿠나인데스",
+      "meaning": "비싸지 않아요 / 높지 않아요"
+    },
+    {
+      "jp": "高かったんです",
+      "hira": "たかかったんです",
+      "roma": "takakattan desu",
+      "pron": "타카캇탄데스",
+      "meaning": "비쌌어요 / 높았어요"
+    },
+    {
+      "jp": "高くなかったんです",
+      "hira": "たかくなかったんです",
+      "roma": "takaku nakattan desu",
+      "pron": "타카쿠나캇탄데스",
+      "meaning": "비싸지 않았어요 / 높지 않았어요"
+    },
+    {
+      "jp": "季節の中でいつが一番好きですか。",
+      "hira": "きせつのなかで いつが いちばん すきですか。",
+      "roma": "kisetsu no naka de itsu ga ichiban suki desu ka",
+      "pron": "키세츠노 나카데 이츠가 이치방 스키데스카",
+      "meaning": "계절 중에서 언제(어느 계절)을 가장 좋아하십니까?"
+    },
+    {
+      "jp": "冬が一番好きです。",
+      "hira": "ふゆが いちばん すきです。",
+      "roma": "fuyu ga ichiban suki desu",
+      "pron": "후유가 이치방 스키데스",
+      "meaning": "겨울을 가장 좋아해요"
+    },
+    {
+      "jp": "あつさよりは寒さのほうが好きです。",
+      "hira": "あつさよりは さむさのほうが すきです。",
+      "roma": "atsusa yori wa samusa no hō ga suki desu",
+      "pron": "아츠사 요리와 사무사노 호오가 스키데스",
+      "meaning": "더위보다 추위를 더 좋아해요"
+    },
+    {
+      "jp": "休みなんです",
+      "hira": "やすみなんです",
+      "roma": "yasumi nan desu",
+      "pron": "야스미난데스",
+      "meaning": "쉬는 날이에요"
+    },
+    {
+      "jp": "休みじゃないんです",
+      "hira": "やすみじゃないんです",
+      "roma": "yasumi ja nai n desu",
+      "pron": "야스미쟈나인데스",
+      "meaning": "쉬는 날이 아니에요"
+    },
+    {
+      "jp": "休みだったんです",
+      "hira": "やすみだったんです",
+      "roma": "yasumi dattan desu",
+      "pron": "야스미닷탄데스",
+      "meaning": "쉬는 날이었어요"
+    },
+    {
+      "jp": "休みじゃなかったんです",
+      "hira": "やすみじゃなかったんです",
+      "roma": "yasumi ja nakattan desu",
+      "pron": "야스미쟈나캇탄데스",
+      "meaning": "쉬는 날이 아니었어요"
+    },
+    {
+      "jp": "寒いんです",
+      "hira": "さむいんです",
+      "roma": "samui n desu",
+      "pron": "사무이인데스",
+      "meaning": "추워요"
+    },
+    {
+      "jp": "寒くないんです",
+      "hira": "さむくないんです",
+      "roma": "samuku nai n desu",
+      "pron": "사무쿠나인데스",
+      "meaning": "춥지 않아요"
+    },
+    {
+      "jp": "寒かったんです",
+      "hira": "さむかったんです",
+      "roma": "samukattan desu",
+      "pron": "사무캇탄데스",
+      "meaning": "추웠어요"
+    },
+    {
+      "jp": "寒くなかったんです",
+      "hira": "さむくなかったんです",
+      "roma": "samuku nakattan desu",
+      "pron": "사무쿠나캇탄데스",
+      "meaning": "춥지 않았어요"
+    },
+    {
+      "jp": "ヤンさんは仕事で遅れるそうです。",
+      "hira": "やんさんは しごとで おくれるそうです",
+      "roma": "yan san wa shigoto de okureru sō desu",
+      "pron": "얀상와 시고토데 오쿠레루소우데스",
+      "meaning": "양빈 씨는 일 때문에 늦는다고 해요"
+    },
+    {
+      "jp": "天気予報によると、明日は雨だそうです。",
+      "hira": "てんきよほうによると、あしたは あめだそうです",
+      "roma": "tenkiyohō ni yoru to, ashita wa ame da sō desu",
+      "pron": "텐키요호오니 요루토 아시타와 아메다소우데스",
+      "meaning": "일기예보에 따르면 내일은 비가 온다고 해요"
+    },
+    {
+      "jp": "鈴木さんは来月韓国に行くそうです。",
+      "hira": "すずきさんは らいげつ かんこくに いくそうです",
+      "roma": "suzuki san wa raigetsu kankoku ni iku sō desu",
+      "pron": "스즈키상와 라이게츠 칸코쿠니 이쿠소우데스",
+      "meaning": "스즈키 씨는 다음 달에 한국에 간다고 해요"
+    },
+    {
+      "jp": "使い方をちゃんと説明したそうです。",
+      "hira": "つかいかたを ちゃんと せつめいしたそうです",
+      "roma": "tsukaikata o chanto setsumei shita sō desu",
+      "pron": "츠카이카타오 찬토 세츠메이시타소우데스",
+      "meaning": "사용법을 확실히 설명했다고 해요"
+    },
+    {
+      "jp": "일본어 표기",
+      "hira": "ひらがな",
+      "roma": "로마자",
+      "pron": "한글 발음",
+      "meaning": "의미 / 용법"
+    },
+    {
+      "jp": "雨が降るんです",
+      "hira": "あめが ふるんです",
+      "roma": "ame ga furun desu",
+      "pron": "아메가 후룬데스",
+      "meaning": "비가 내려요"
+    },
+    {
+      "jp": "雨が降らないんです",
+      "hira": "あめが ふらないんです",
+      "roma": "ame ga furanai n desu",
+      "pron": "아메가 후라나인데스",
+      "meaning": "비가 안 내려요"
+    },
+    {
+      "jp": "雨が降ったんです",
+      "hira": "あめが ふったんです",
+      "roma": "ame ga futtan desu",
+      "pron": "아메가 훗탄데스",
+      "meaning": "비가 내렸어요"
+    },
+    {
+      "jp": "雨が降らなかったんです",
+      "hira": "あめが ふらなかったんです",
+      "roma": "ame ga furanakattan desu",
+      "pron": "아메가 후라나캇탄데스",
+      "meaning": "비가 안 내렸어요"
+    },
+    {
+      "jp": "歩くんです",
+      "hira": "あるくんです",
+      "roma": "aruku n desu",
+      "pron": "아루쿤데스",
+      "meaning": "걸어요"
+    },
+    {
+      "jp": "歩かないんです",
+      "hira": "あるかないんです",
+      "roma": "aruka nai n desu",
+      "pron": "아루카나인데스",
+      "meaning": "안 걸어요"
+    },
+    {
+      "jp": "歩いたんです",
+      "hira": "あるいたんです",
+      "roma": "aruita n desu",
+      "pron": "아루이탄데스",
+      "meaning": "걸었어요"
+    },
+    {
+      "jp": "歩かなかったんです",
+      "hira": "あるかなかったんです",
+      "roma": "aruka nakattan desu",
+      "pron": "아루카나캇탄데스",
+      "meaning": "안 걸었어요"
+    },
+    {
+      "jp": "遅れるそうです。",
+      "hira": "おくれるそうです。",
+      "roma": "okureru sō desu",
+      "pron": "오쿠레루 소우데스",
+      "meaning": "늦는다고 해요"
+    },
+    {
+      "jp": "遅れないそうです。",
+      "hira": "おくれないそうです。",
+      "roma": "okurenai sō desu",
+      "pron": "오쿠레나이 소우데스",
+      "meaning": "안 늦는다고 해요"
+    },
+    {
+      "jp": "遅れたそうです。",
+      "hira": "おくれたそうです。",
+      "roma": "okureta sō desu",
+      "pron": "오쿠레타 소우데스",
+      "meaning": "늦었다고 해요"
+    },
+    {
+      "jp": "遅れなかったそうです。",
+      "hira": "おくれなかったそうです。",
+      "roma": "okurenakatta sō desu",
+      "pron": "오쿠레나캇타 소우데스",
+      "meaning": "늦지 않았다고 해요"
+    },
+    {
+      "jp": "休むんです。",
+      "hira": "やすむんです。",
+      "roma": "yasumun desu",
+      "pron": "야스문데스",
+      "meaning": "쉬어요 / 쉽니다"
+    },
+    {
+      "jp": "休まないんです。",
+      "hira": "やすまないんです。",
+      "roma": "yasumanain desu",
+      "pron": "야스마나인데스",
+      "meaning": "쉬지 않아요"
+    },
+    {
+      "jp": "休んだんです。",
+      "hira": "やすんだんです。",
+      "roma": "yasundan desu",
+      "pron": "야순단데스",
+      "meaning": "쉬었어요"
+    },
+    {
+      "jp": "休まなかったんです。",
+      "hira": "やすまなかったんです。",
+      "roma": "yasumanakattan desu",
+      "pron": "야스마나캇탄데스",
+      "meaning": "쉬지 않았어요"
+    },
+    {
+      "jp": "休みなんです。",
+      "hira": "やすみなんです。",
+      "roma": "yasumi nan desu",
+      "pron": "야스미 난데스",
+      "meaning": "쉬는 날이에요 / 휴일이에요"
+    },
+    {
+      "jp": "休みじゃないんです。",
+      "hira": "やすみじゃないんです。",
+      "roma": "yasumi janain desu",
+      "pron": "야스미 자나인데스",
+      "meaning": "쉬는 날이 아니에요"
+    },
+    {
+      "jp": "休みだったんです。",
+      "hira": "やすみだったんです。",
+      "roma": "yasumi dattan desu",
+      "pron": "야스미 닷탄데스",
+      "meaning": "쉬는 날이었어요"
+    },
+    {
+      "jp": "休みじゃなかったんです。",
+      "hira": "やすみじゃなかったんです。",
+      "roma": "yasumi janakattan desu",
+      "pron": "야스미 자나캇탄데스",
+      "meaning": "쉬는 날이 아니었어요"
+    },
+    {
+      "jp": "今日は休みだそうです。",
+      "hira": "きょうは やすみだそうです。",
+      "roma": "kyō wa yasumi da sō desu",
+      "pron": "쿄와 야스미 다 소우데스",
+      "meaning": "오늘은 휴일이라고 해요"
+    },
+    {
+      "jp": "今日は休みじゃないそうです。",
+      "hira": "きょうは やすみじゃないそうです。",
+      "roma": "kyō wa yasumi janai sō desu",
+      "pron": "쿄와 야스미 자나이 소우데스",
+      "meaning": "오늘은 휴일이 아니라고 해요"
+    },
+    {
+      "jp": "今日は休みだったそうです。",
+      "hira": "きょうは やすみだったそうです。",
+      "roma": "kyō wa yasumi datta sō desu",
+      "pron": "쿄와 야스미 닷타 소우데스",
+      "meaning": "오늘은 휴일이었다고 해요"
+    },
+    {
+      "jp": "今日は休みじゃなかったそうです。",
+      "hira": "きょうは やすみじゃなかったそうです。",
+      "roma": "kyō wa yasumi janakatta sō desu",
+      "pron": "쿄와 야스미 자나캇타 소우데스",
+      "meaning": "오늘은 휴일이 아니었다고 해요"
+    },
+    {
+      "jp": "親切だそうです。",
+      "hira": "しんせつだそうです。",
+      "roma": "shinsetsu da sō desu",
+      "pron": "신세츠 다 소우데스",
+      "meaning": "친절하다고 해요"
+    },
+    {
+      "jp": "親切じゃないそうです。",
+      "hira": "しんせつじゃないそうです。",
+      "roma": "shinsetsu janai sō desu",
+      "pron": "신세츠 자나이 소우데스",
+      "meaning": "친절하지 않다고 해요"
+    },
+    {
+      "jp": "親切だったそうです。",
+      "hira": "しんせつだったそうです。",
+      "roma": "shinsetsu datta sō desu",
+      "pron": "신세츠 닷타 소우데스",
+      "meaning": "친절했다고 해요"
+    },
+    {
+      "jp": "親切じゃなかったそうです。",
+      "hira": "しんせつじゃなかったそうです。",
+      "roma": "shinsetsu janakatta sō desu",
+      "pron": "신세츠 자나캇타 소우데스",
+      "meaning": "친절하지 않았다고 해요"
+    },
+    {
+      "jp": "忙しいそうです。",
+      "hira": "いそがしいそうです。",
+      "roma": "isogashii sō desu",
+      "pron": "이소가시이 소우데스",
+      "meaning": "바쁘다고 해요"
+    },
+    {
+      "jp": "忙しくないそうです。",
+      "hira": "いそがしくないそうです。",
+      "roma": "isogashikunai sō desu",
+      "pron": "이소가시쿠나이 소우데스",
+      "meaning": "바쁘지 않다고 해요"
+    },
+    {
+      "jp": "忙しかったそうです。",
+      "hira": "いそがしかったそうです。",
+      "roma": "isogashikatta sō desu",
+      "pron": "이소가시캇타 소우데스",
+      "meaning": "바빴다고 해요"
+    },
+    {
+      "jp": "忙しくなかったそうです。",
+      "hira": "いそがしくなかったそうです。",
+      "roma": "isogashikunakatta sō desu",
+      "pron": "이소가시쿠나캇타 소우데스",
+      "meaning": "바쁘지 않았다고 해요"
+    },
+    {
+      "jp": "休むそうです。",
+      "hira": "やすむそうです。",
+      "roma": "yasumu sō desu",
+      "pron": "야스무 소우데스",
+      "meaning": "쉰다고 해요 / 쉰답니다"
+    },
+    {
+      "jp": "休まないそうです。",
+      "hira": "やすまないそうです。",
+      "roma": "yasumanai sō desu",
+      "pron": "야스마나이 소우데스",
+      "meaning": "쉬지 않는다고 해요"
+    },
+    {
+      "jp": "休んだそうです。",
+      "hira": "やすんだそうです。",
+      "roma": "yasunda sō desu",
+      "pron": "야순다 소우데스",
+      "meaning": "쉬었다고 해요"
+    },
+    {
+      "jp": "休まなかったそうです。",
+      "hira": "やすまなかったそうです。",
+      "roma": "yasumanakatta sō desu",
+      "pron": "야스마나캇타 소우데스",
+      "meaning": "쉬지 않았다고 해요"
+    },
+    {
+      "jp": "行くそうです。",
+      "hira": "いくそうです。",
+      "roma": "iku sō desu",
+      "pron": "이쿠 소우데스",
+      "meaning": "간다고 해요"
+    },
+    {
+      "jp": "行かないそうです。",
+      "hira": "いかないそうです。",
+      "roma": "ikanai sō desu",
+      "pron": "이카나이 소우데스",
+      "meaning": "안 간다고 해요"
+    },
+    {
+      "jp": "行ったそうです。",
+      "hira": "いったそうです。",
+      "roma": "itta sō desu",
+      "pron": "잇타 소우데스",
+      "meaning": "갔다고 해요"
+    },
+    {
+      "jp": "行かなかったそうです。",
+      "hira": "いかなかったそうです。",
+      "roma": "ikanakatta sō desu",
+      "pron": "이카나캇타 소우데스",
+      "meaning": "안 갔다고 해요"
+    },
+    {
+      "jp": "話すそうです。",
+      "hira": "はなすそうです。",
+      "roma": "hanasu sō desu",
+      "pron": "하나스 소우데스",
+      "meaning": "이야기한다고 해요"
+    },
+    {
+      "jp": "話さないそうです。",
+      "hira": "はなさないそうです。",
+      "roma": "hanasanai sō desu",
+      "pron": "하나사나이 소우데스",
+      "meaning": "이야기하지 않는다고 해요"
+    },
+    {
+      "jp": "話したそうです。",
+      "hira": "はなしたそうです。",
+      "roma": "hanashita sō desu",
+      "pron": "하나시타 소우데스",
+      "meaning": "이야기했다고 해요"
+    },
+    {
+      "jp": "話さなかったそうです。",
+      "hira": "はなさなかったそうです。",
+      "roma": "hanasanakatta sō desu",
+      "pron": "하나사나캇타 소우데스",
+      "meaning": "이야기하지 않았다고 해요"
+    },
+    {
+      "jp": "今日休むそうです。",
+      "hira": "きょう やすむそうです。",
+      "roma": "kyō yasumu sō desu",
+      "pron": "쿄 야스무 소우데스",
+      "meaning": "오늘 쉰다고 해요."
+    },
+    {
+      "jp": "ヤンさんはバスが来なくて遅れるそうです。",
+      "hira": "やんさんは ばすが こなくて おくれるそうです。",
+      "roma": "yan san wa basu ga konakute okureru sō desu",
+      "pron": "얀상와 바스가 코나쿠테 오쿠레루 소우데스",
+      "meaning": "양 씨는 버스가 안 와서 늦는다고 해요"
+    },
+    {
+      "jp": "旅行に行こうと思います。",
+      "hira": "りょこうにいこうとおもいます。",
+      "roma": "ryokō ni ikō to omoimasu",
+      "pron": "료코우니 이코우토 오모이마스",
+      "meaning": "여행을 가려고 생각합니다"
+    },
+    {
+      "jp": "紹介されました。",
+      "hira": "しょうかいされました。",
+      "roma": "shōkai saremashita",
+      "pron": "쇼우카이사레마시타",
+      "meaning": "소개받았어요."
+    },
+    {
+      "jp": "予約しないで食べられますか。",
+      "hira": "よやくしないでたべられますか。",
+      "roma": "yoyaku shinaide taberaremasu ka",
+      "pron": "요야쿠 시나이데 타베라레마스카",
+      "meaning": "예약 안 하고 먹을 수 있나요?"
+    },
+    {
+      "jp": "注意されました。",
+      "hira": "ちゅういされました。",
+      "roma": "chūi saremashita",
+      "pron": "츄우이 사레마시타",
+      "meaning": "주의를 받았어요 / 혼났어요"
+    },
+    {
+      "jp": "招待されました。",
+      "hira": "しょうたいされました。",
+      "roma": "shōtai saremashita",
+      "pron": "쇼우타이 사레마시타",
+      "meaning": "초대받았어요"
+    },
+    {
+      "jp": "感動されました。",
+      "hira": "かんどうされました。",
+      "roma": "kandō saremashita",
+      "pron": "칸도우 사레마시타",
+      "meaning": "감동하셨습니다 (높임 표현)"
+    },
+    {
+      "jp": "会わなければなりません。",
+      "hira": "あわなければなりません。",
+      "roma": "awanakereba narimasen",
+      "pron": "아와나케레바 나리마센",
+      "meaning": "만나지 않으면 안 돼요 / 꼭 만나야 해요"
+    },
+    {
+      "jp": "背が高くて髪が長くないから",
+      "hira": "せがたかくてかみがながくないから",
+      "roma": "se ga takakute kami ga nagakunai kara",
+      "pron": "세가 타카쿠테 카미가 나가쿠나이카라",
+      "meaning": "키가 크고 머리카락이 길지 않아서"
+    },
+    {
+      "jp": "健康のためには野菜がいいです。",
+      "hira": "けんこうのためにはやさいがいいです。",
+      "roma": "kenkō no tame ni wa yasai ga ii desu",
+      "pron": "켄코오노 타메니와 야사이가 이이데스",
+      "meaning": "건강을 위해서는 야채가 좋아요"
+    },
+    {
+      "jp": "安いものは少なく高いものばかりですね",
+      "hira": "やすいものはすくなくたかいものばかりですね",
+      "roma": "yasui mono wa sukunaku takai mono bakari desu ne",
+      "pron": "야스이 모노와 스쿠나쿠 타카이 모노 바카리데스네",
+      "meaning": "싼 것은 적고 비싼 것만 있네요"
+    },
+    {
+      "jp": "さいふはこれだけでしょう。もうないです。",
+      "hira": "さいふはこれだけでしょう。もうないです。",
+      "roma": "saifu wa kore dake deshō. mō nai desu.",
+      "pron": "사이후와 코레다케 데쇼오. 모오 나이데스.",
+      "meaning": "지갑은 이게 전부겠네요. 더는 없어요."
+    },
+    {
+      "jp": "ご注文のすき焼きでございます。",
+      "hira": "ごちゅうもんのすきやきでございます。",
+      "roma": "gochūmon no sukiyaki de gozaimasu",
+      "pron": "고츄우몬노 스키야키데고자이마스",
+      "meaning": "주문하신 스키야키입니다."
+    },
+    {
+      "jp": "ごゆっくりどうぞ。",
+      "hira": "ごゆっくりどうぞ。",
+      "roma": "go yukkuri dōzo",
+      "pron": "고 윳쿠리 도우조",
+      "meaning": "천천히 즐기세요. / 편하게 드세요."
+    },
+    {
+      "jp": "あ、お肉が とても やわらかく なりましたね。",
+      "hira": "あ、おにくが とても やわらかく なりましたね。",
+      "roma": "a, oniku ga totemo yawarakaku narimashita ne",
+      "pron": "아, 오니쿠가 토테모 야와라카쿠 나리마시타네",
+      "meaning": "아, 고기가 아주 부드러워졌네요."
+    },
+    {
+      "jp": "食べすぎてしまうから 気をつけなければなりません。",
+      "hira": "たべすぎてしまうから きをつけなければなりません。",
+      "roma": "tabesugite shimau kara ki o tsukenakereba narimasen",
+      "pron": "타베스기테 시마우카라 키오 츠케나케레바 나리마센",
+      "meaning": "너무 많이 먹어버리니까 조심해야 합니다."
+    },
+    {
+      "jp": "生たまご",
+      "hira": "なまたまご",
+      "roma": "nama tamago",
+      "pron": "나마 타마고",
+      "meaning": "날달걀"
+    },
+    {
+      "jp": "生ビール",
+      "hira": "なまびーる",
+      "roma": "nama bīru",
+      "pron": "나마 비이루",
+      "meaning": "생맥주"
+    },
+    {
+      "jp": "どうやって 会えますか。",
+      "hira": "どうやって あえますか。",
+      "roma": "dō yatte aemasu ka",
+      "pron": "도우얏테 아에마스카",
+      "meaning": "어떻게 만날 수 있어요?"
+    },
+    {
+      "jp": "もっときれいになる",
+      "hira": "もっと きれいに なる",
+      "roma": "motto kirei ni naru",
+      "pron": "못또 키레이니 나루",
+      "meaning": "더 예뻐지다"
+    },
+    {
+      "jp": "もっと上手になる",
+      "hira": "もっと じょうず に なる",
+      "roma": "motto jōzu ni naru",
+      "pron": "못또 죠오즈니 나루",
+      "meaning": "더 잘하게 되다"
+    },
+    {
+      "jp": "もっと忙しくなる",
+      "hira": "もっと いそがしく なる",
+      "roma": "motto isogashiku naru",
+      "pron": "못또 이소가시쿠 나루",
+      "meaning": "더 바빠진다"
+    },
+    {
+      "jp": "お金を使いすぎてしまうから",
+      "hira": "おかねを つかいすぎて しまう から",
+      "roma": "okane o tsukaisugite shimau kara",
+      "pron": "오카네오 츠카이수기테 시마우카라",
+      "meaning": "돈을 너무 써버리니까 / 돈을 너무 써버려서"
+    },
+    {
+      "jp": "飲みすぎてしまうから",
+      "hira": "のみすぎて しまう から",
+      "roma": "nomisugite shimau kara",
+      "pron": "노미수기테 시마우카라",
+      "meaning": "너무 마셔버리니까 / 너무 마셔서"
+    },
+    {
+      "jp": "しかられます",
+      "hira": "しかられます",
+      "roma": "shikararemasu",
+      "pron": "시카라레마스",
+      "meaning": "야단맞아요 / 혼나요"
+    },
+    {
+      "jp": "柔らかい",
+      "hira": "やわらかい",
+      "roma": "yawarakai",
+      "pron": "야와라카이",
+      "meaning": "부드럽다, 말랑하다"
+    },
+    {
+      "jp": "食べ過ぎてしまう。",
+      "hira": "たべすぎてしまう。",
+      "roma": "tabesugite shimau",
+      "pron": "타베스기테 시마우",
+      "meaning": "너무 많이 먹어버리다 / 과식하게 된다"
+    },
+    {
+      "jp": "もっときれいになります。",
+      "hira": "もっときれいになります。",
+      "roma": "motto kirei ni narimasu",
+      "pron": "못또 키레이 니 나리마스",
+      "meaning": "더 예뻐집니다 / 더 깨끗해집니다"
+    },
+    {
+      "jp": "すてちゃいます。",
+      "hira": "すてちゃいます。",
+      "roma": "sutechaimasu",
+      "pron": "스테챠이마스",
+      "meaning": "버려버려요 / 버릴 거예요"
+    },
+    {
+      "jp": "レストランは 父の 名前で 予約されました。",
+      "hira": "レストランは ちちの なまえで よやくされました。",
+      "roma": "resutoran wa chichi no namae de yoyaku saremashita",
+      "pron": "레스토랑와 치치노 나마에데 요야쿠 사레마시타",
+      "meaning": "레스토랑은 아버지의 이름으로 예약되었어요."
+    },
+    {
+      "jp": "柔らかくなります",
+      "hira": "やわらかくなります",
+      "roma": "yawarakaku narimasu",
+      "pron": "야와라카쿠 나리마스",
+      "meaning": "부드러워집니다 / 부드러워진다"
+    },
+    {
+      "jp": "雨に ふられました",
+      "hira": "あめに ふられました",
+      "roma": "ame ni furaremashita",
+      "pron": "아메니 후라레마시타",
+      "meaning": "비를 맞았어요 / 비를 당했어요"
+    },
+    {
+      "jp": "10年前に 建てられました",
+      "hira": "じゅうねんまえに たてられました",
+      "roma": "jūnen mae ni tateraremashita",
+      "pron": "주우넨마에니 타테라레마시타",
+      "meaning": "10년 전에 세워졌어요"
+    },
+    {
+      "jp": "来られて困りました",
+      "hira": "こられて こまりました",
+      "roma": "korarete komarimashita",
+      "pron": "코라레테 코마리마시타",
+      "meaning": "찾아와서 곤란했습니다"
+    },
+    {
+      "jp": "ぬすまれます",
+      "hira": "ぬすまれます",
+      "roma": "nusumaremasu",
+      "pron": "누스마레마스",
+      "meaning": "도둑맞아요 / 도둑을 당해요"
+    },
+    {
+      "jp": "かまれます",
+      "hira": "かまれます",
+      "roma": "kamaremasu",
+      "pron": "카마레마스",
+      "meaning": "물려요 / 물리다 (물림을 당하다)"
+    },
+    {
+      "jp": "いやされます",
+      "hira": "いやされます",
+      "roma": "iyasaremasu",
+      "pron": "이야사레마스",
+      "meaning": "치유받아요 / 위로받아요"
+    },
+    {
+      "jp": "たのまれます",
+      "hira": "たのまれます",
+      "roma": "tanomaremasu",
+      "pron": "타노마레마스",
+      "meaning": "부탁받아요 / 부탁을 받다"
+    },
+    {
+      "jp": "盗まれる",
+      "hira": "ぬすまれる",
+      "roma": "nusumareru",
+      "pron": "누스마레루",
+      "meaning": "도둑맞다"
+    },
+    {
+      "jp": "噛まれる",
+      "hira": "かまれる",
+      "roma": "kamareru",
+      "pron": "카마레루",
+      "meaning": "물리다"
+    },
+    {
+      "jp": "癒される",
+      "hira": "いやされる",
+      "roma": "iyasareru",
+      "pron": "이야사레루",
+      "meaning": "치유받다"
+    },
+    {
+      "jp": "頼まれる",
+      "hira": "たのまれる",
+      "roma": "tanomareru",
+      "pron": "타노마레루",
+      "meaning": "부탁받다"
+    },
+    {
+      "jp": "姉はいつも母に褒められます。",
+      "hira": "あね は いつも はは に ほめられます",
+      "roma": "ane wa itsumo haha ni homeraremasu",
+      "pron": "아네 와 이츠모 하하 니 호메라레마스",
+      "meaning": "언니는 항상 엄마에게 칭찬을 받아요"
+    },
+    {
+      "jp": "雨に降られる",
+      "hira": "あめ に ふられる",
+      "roma": "ame ni furareru",
+      "pron": "아메 니 후라레루",
+      "meaning": "비를 맞다 / 비를 당하다"
+    },
+    {
+      "jp": "１０年前に建てられました",
+      "hira": "じゅうねん まえ に たてられました",
+      "roma": "jūnen mae ni tateraremashita",
+      "pron": "주우넨 마에 니 타테라레마시타",
+      "meaning": "10년 전에 지어졌어요"
+    },
+    {
+      "jp": "元彼女に来られて困りました",
+      "hira": "もとかのじょ に こられて こまりました",
+      "roma": "motokanojo ni korarete komarimashita",
+      "pron": "모토카노조 니 코라레테 코마리마시타",
+      "meaning": "전 여자친구가 찾아와서 곤란했습니다"
+    },
+    {
+      "jp": "叱らないで褒めました",
+      "hira": "しからないで ほめました",
+      "roma": "shikaranaide homemashita",
+      "pron": "시카라나이데 호메마시타",
+      "meaning": "야단치지 않고 칭찬했어요"
+    },
+    {
+      "jp": "1. 朝ごはんを食べないで出かけます。",
+      "hira": "あさごはんを たべないで でかけます",
+      "roma": "asagohan o tabenaide dekakemasu",
+      "pron": "아사가혼오 타베나이데 데카케마스",
+      "meaning": "아침을 먹지 않고 나가요"
+    },
+    {
+      "jp": "2. 傘を持たないで家を出ます。",
+      "hira": "かさを もたないで いえを でます",
+      "roma": "kasa o motanaide ie o demasu",
+      "pron": "카사오 모타나이데 이에오 데마스",
+      "meaning": "우산을 안 가지고 집을 나가요"
+    },
+    {
+      "jp": "3. 手を洗わないで料理します。",
+      "hira": "てを あらわないで りょうりします",
+      "roma": "te o arawanaide ryōri shimasu",
+      "pron": "테오 아라와나이데 료오리시마스",
+      "meaning": "손을 씻지 않고 요리해요"
+    },
+    {
+      "jp": "4. 読まないで提出します。",
+      "hira": "よまないで ていしゅつします",
+      "roma": "yomanaide teishutsu shimasu",
+      "pron": "요마나이데 테이슈츠시마스",
+      "meaning": "읽지 않고 제출해요"
+    },
+    {
+      "jp": "5. 叱らないで話します。",
+      "hira": "しからないで はなします",
+      "roma": "shikaranaide hanashimasu",
+      "pron": "시카라나이데 하나시마스",
+      "meaning": "야단치지 않고 말해요"
+    },
+    {
+      "jp": "6. 泳がないで見ています。",
+      "hira": "およがないで みています",
+      "roma": "oyoganaide mite imasu",
+      "pron": "오요가나이데 미테이마스",
+      "meaning": "수영하지 않고 보고 있어요"
+    },
+    {
+      "jp": "7. 休まないで働きます。",
+      "hira": "やすまないで はたらきます",
+      "roma": "yasumanaide hatarakimasu",
+      "pron": "야스마나이데 하타라키마스",
+      "meaning": "쉬지 않고 일해요"
+    },
+    {
+      "jp": "8. 連絡しないで来ます。",
+      "hira": "れんらくしないで きます",
+      "roma": "renraku shinaide kimasu",
+      "pron": "렌라쿠 시나이데 키마스",
+      "meaning": "연락하지 않고 와요"
+    },
+    {
+      "jp": "9. 泣かないで話します。",
+      "hira": "なかないで はなします",
+      "roma": "nakanaide hanashimasu",
+      "pron": "나카나이데 하나시마스",
+      "meaning": "울지 않고 말해요"
+    },
+    {
+      "jp": "10. 焦らないで進みます。",
+      "hira": "あせらないで すすみます",
+      "roma": "aseranaide susumimasu",
+      "pron": "아세라나이데 스스미마스",
+      "meaning": "서두르지 않고 나아가요"
+    },
+    {
+      "jp": "あなたに会うために今まで待っていました。",
+      "hira": "あなたに あうために いままで まっていました",
+      "roma": "anata ni au tame ni ima made matte imashita",
+      "pron": "아나타니 아우 타메니 이마마데 맛테이마시타",
+      "meaning": "당신을 만나기 위해서 지금까지 기다렸습니다"
+    },
+    {
+      "jp": "日本語が上手になるために",
+      "hira": "にほんごが じょうずに なる ために",
+      "roma": "nihongo ga jōzu ni naru tame ni",
+      "pron": "니홍고가 죠오즈니 나루 타메니",
+      "meaning": "일본어를 잘하기 위해서"
+    },
+    {
+      "jp": "会えるために",
+      "hira": "あえる ために",
+      "roma": "aeru tame ni",
+      "pron": "아에루 타메니",
+      "meaning": "만날 수 있기 위해"
+    },
+    {
+      "jp": "粘り強く勉強します。",
+      "hira": "ねばりづよく べんきょうします",
+      "roma": "nebarizuyoku benkyō shimasu",
+      "pron": "네바리즈요쿠 벤쿄오시마스",
+      "meaning": "끈질기게 공부합니다"
+    },
+    {
+      "jp": "彼は我慢強い人です。",
+      "hira": "かれは がまんつよい ひとです",
+      "roma": "kare wa gamantsuyoi hito desu",
+      "pron": "카레와 가만츠요이 히토데스",
+      "meaning": "그는 참을성 많은 사람입니다"
+    },
+    {
+      "jp": "毎日勉強してください",
+      "hira": "まいにち べんきょうしてください",
+      "roma": "mainichi benkyō shite kudasai",
+      "pron": "마이니치 벤쿄오 시테 쿠다사이",
+      "meaning": "매일 공부해주세요"
+    },
+    {
+      "jp": "朝7時に家を出なければなりません",
+      "hira": "あさ しちじに いえを でなければ なりません",
+      "roma": "asa shichiji ni ie o denakereba narimasen",
+      "pron": "아사 시치지니 이에오 데나케레바 나리마센",
+      "meaning": "아침 7시에 집을 나서지 않으면 안 돼요"
+    },
+    {
+      "jp": "宿題をしなければなりません",
+      "hira": "しゅくだいを しなければ なりません",
+      "roma": "shukudai o shinakereba narimasen",
+      "pron": "슈쿠다이오 시나케레바 나리마센",
+      "meaning": "숙제를 하지 않으면 안 돼요"
+    },
+    {
+      "jp": "早く寝なければなりません",
+      "hira": "はやく ねなければ なりません",
+      "roma": "hayaku nenakereba narimasen",
+      "pron": "하야쿠 네나케레바 나리마센",
+      "meaning": "빨리 자지 않으면 안 돼요"
+    },
+    {
+      "jp": "明日までにレポートを出さなければなりません",
+      "hira": "あしたまでに れぽーとを ださなければ なりません",
+      "roma": "ashita made ni repōto o dasanakereba narimasen",
+      "pron": "아시타마데니 레포오토오 다사나케레바 나리마센",
+      "meaning": "내일까지 레포트를 제출하지 않으면 안 돼요"
+    },
+    {
+      "jp": "会社に連絡しなければなりません",
+      "hira": "かいしゃに れんらく しなければ なりません",
+      "roma": "kaisha ni renraku shinakereba narimasen",
+      "pron": "카이샤니 렌라쿠 시나케레바 나리마센",
+      "meaning": "회사에 연락하지 않으면 안 돼요"
+    },
+    {
+      "jp": "パスポートを持って行かなければなりません",
+      "hira": "ぱすぽーとを もって いかなければ なりません",
+      "roma": "pasupōto o motte ikanakereba narimasen",
+      "pron": "파스포오토오 못테 이카나케레바 나리마센",
+      "meaning": "여권을 가져가지 않으면 안 돼요"
+    },
+    {
+      "jp": "野菜を食べなければなりません",
+      "hira": "やさいを たべなければ なりません",
+      "roma": "yasai o tabenakereba narimasen",
+      "pron": "야사이오 타베나케레바 나리마센",
+      "meaning": "채소를 먹지 않으면 안 돼요"
+    },
+    {
+      "jp": "電車に乗らなければなりません",
+      "hira": "でんしゃに のらなければ なりません",
+      "roma": "densha ni noranakereba narimasen",
+      "pron": "덴샤니 노라나케레바 나리마센",
+      "meaning": "전철을 타지 않으면 안 돼요"
+    },
+    {
+      "jp": "時間を守らなければなりません",
+      "hira": "じかんを まもらなければ なりません",
+      "roma": "jikan o mamoranakereba narimasen",
+      "pron": "지칸오 마모라나케레바 나리마센",
+      "meaning": "시간을 지키지 않으면 안 돼요"
+    },
+    {
+      "jp": "家に帰らなければなりません",
+      "hira": "いえに かえらなければ なりません",
+      "roma": "ie ni kaeranakereba narimasen",
+      "pron": "이에니 카에라나케레바 나리마센",
+      "meaning": "집에 돌아가지 않으면 안 돼요"
+    },
+    {
+      "jp": "健康のために運動しなければなりません",
+      "hira": "けんこうのために うんどう しなければ なりません",
+      "roma": "kenkō no tame ni undō shinakereba narimasen",
+      "pron": "켄코오노 타메니 운도오 시나케레바 나리마센",
+      "meaning": "건강을 위해 운동하지 않으면 안 돼요"
+    },
+    {
+      "jp": "顔を洗わなければなりません",
+      "hira": "かおを あらわなければ なりません",
+      "roma": "kao o arawanakereba narimasen",
+      "pron": "카오오 아라와나케레바 나리마센",
+      "meaning": "얼굴을 씻지 않으면 안 돼요 / 얼굴을 씻어야 해요"
+    },
+    {
+      "jp": "歯を磨かなければなりません",
+      "hira": "はを みがかなければ なりません",
+      "roma": "ha o migakanakereba narimasen",
+      "pron": "하오 미가카나케레바 나리마센",
+      "meaning": "이를 닦지 않으면 안 돼요 / 이를 닦아야 해요"
+    },
+    {
+      "jp": "働かなければなりません",
+      "hira": "はたらかなければ なりません",
+      "roma": "hatarakanakereba narimasen",
+      "pron": "하타라카나케레바 나리마센",
+      "meaning": "일하지 않으면 안 돼요 / 일해야 합니다"
+    },
+    {
+      "jp": "着替えなければなりません",
+      "hira": "きがえなければ なりません",
+      "roma": "kikaenakereba narimasen",
+      "pron": "키가에나케레바 나리마센",
+      "meaning": "갈아입지 않으면 안 돼요 / 갈아입어야 해요"
+    },
+    {
+      "jp": "歯を磨く",
+      "hira": "はを みがく",
+      "roma": "ha o migaku",
+      "pron": "하오 미가쿠",
+      "meaning": "이를 닦다"
+    },
+    {
+      "jp": "着替える",
+      "hira": "きがえる",
+      "roma": "kigaeru",
+      "pron": "키가에루",
+      "meaning": "갈아입다"
+    },
+    {
+      "jp": "マナーを守らなければなりません",
+      "hira": "まなーを まもらなければ なりません",
+      "roma": "manā o mamoranakereba narimasen",
+      "pron": "마나아오 마모라나케레바 나리마센",
+      "meaning": "매너를 지켜야 합니다"
+    },
+    {
+      "jp": "明日は会社に出勤しなければなりません。",
+      "hira": "あしたは かいしゃに しゅっきんしなければ なりません",
+      "roma": "ashita wa kaisha ni shukkin shinakereba narimasen",
+      "pron": "아시타와 카이샤니 슈킷낀 시나케레바 나리마센",
+      "meaning": "내일은 회사에 출근해야 합니다"
+    },
+    {
+      "jp": "寝なければなりません。",
+      "hira": "ねなければ なりません",
+      "roma": "nenakereba narimasen",
+      "pron": "네나케레바 나리마센",
+      "meaning": "자야 합니다"
+    },
+    {
+      "jp": "顔を洗わなければなりません。",
+      "hira": "かおを あらわなければ なりません",
+      "roma": "kao o arawanakereba narimasen",
+      "pron": "카오오 아라와나케레바 나리마센",
+      "meaning": "얼굴을 씻어야 합니다"
+    },
+    {
+      "jp": "働かなければなりません。",
+      "hira": "はたらかなければ なりません",
+      "roma": "hatarakana kereba narimasen",
+      "pron": "하타라카나케레바 나리마센",
+      "meaning": "일해야 합니다(✔ 올바른 표현)"
+    },
+    {
+      "jp": "11月24日 月曜日",
+      "hira": "じゅういちがつ にじゅうよっか げつようび",
+      "roma": "jūichigatsu nijūyokka getsuyōbi",
+      "pron": "쥬이치가츠 니쥬욧카 게츠요오비",
+      "meaning": "11월 24일 월요일"
+    },
+    {
+      "jp": "ここは人気のある店で、テレビでも紹介されました。",
+      "hira": "ここは にんきのある みせで、てれびでも しょうかいされました",
+      "roma": "koko wa ninki no aru mise de, terebi demo shōkai saremashita",
+      "pron": "코코와 닌키노 아루 미세데, 테레비데모 쇼오카이 사레마시타",
+      "meaning": "여기는 인기 있는 가게이고, TV에서도 소개되었습니다"
+    },
+    {
+      "jp": "肉を食べ過ぎないように気を付けなければなりません。",
+      "hira": "にくを たべすぎない ように きをつけなければ なりません",
+      "roma": "niku o tabesuginai yō ni ki o tsukenakereba narimasen",
+      "pron": "니쿠오 타베스기나이 요오니 키오 츠케나케레바 나리마센",
+      "meaning": "고기를 너무 많이 먹지 않도록 조심해야 합니다"
+    },
+    {
+      "jp": "昨日から熱があるようです。",
+      "hira": "きのう から ねつ が ある ようです",
+      "roma": "kinō kara netsu ga aru yō desu",
+      "pron": "기노오 카라 네츠가 아루 요우데스",
+      "meaning": "어제부터 열이 있는 것 같아요"
+    },
+    {
+      "jp": "せきも出ますか。",
+      "hira": "せき も でます か",
+      "roma": "seki mo demasu ka",
+      "pron": "세키 모 데마스카",
+      "meaning": "기침도 나나요?"
+    },
+    {
+      "jp": "はい、薬を飲めばいいですか。",
+      "hira": "はい、くすり を のめば いい です か",
+      "roma": "hai, kusuri o nomeba ii desu ka",
+      "pron": "하이 쿠스리오 노메바 이이데스카",
+      "meaning": "네, 약을 먹으면 되나요?"
+    },
+    {
+      "jp": "風邪かもしれません。薬を飲んで休んだ方がいいですね。",
+      "hira": "かぜ かも しれません。くすり を のんで やすんだ ほう が いい です ね",
+      "roma": "kaze kamo shiremasen. kusuri o nonde yasunda hō ga ii desu ne",
+      "pron": "카제 카모 시레마센. 쿠스리오 논데 야슨다 호오가 이이데스네",
+      "meaning": "감기일지도 몰라요. 약 먹고 쉬는 편이 좋겠네요"
+    },
+    {
+      "jp": "食べ放題は、同じ料金でいくらでも食べられます。",
+      "hira": "たべほうだい は、おなじ りょうきん で いくらでも たべられます",
+      "roma": "tabehōdai wa, onaji ryōkin de ikura demo taberaremasu",
+      "pron": "타베호우다이 와, 오나지 료오킨데 이쿠라데모 타베라레마스",
+      "meaning": "먹放(뷔페)는 같은 요금으로 얼마든지 먹을 수 있다"
+    },
+    {
+      "jp": "日本人はよくお茶を飲みます。",
+      "hira": "にほんじん は よく おちゃ を のみます",
+      "roma": "nihonjin wa yoku ocha o nomimasu",
+      "pron": "니혼진와 요쿠 오챠오 노미마스",
+      "meaning": "일본인은 차를 자주 마셔요"
+    },
+    {
+      "jp": "明日は雨が降るようです。",
+      "hira": "あした は あめ が ふる よう です",
+      "roma": "ashita wa ame ga furu yō desu",
+      "pron": "아시타와 아메가 후루 요우데스",
+      "meaning": "내일은 비가 올 것 같아요"
+    },
+    {
+      "jp": "雨は降らないようです。",
+      "hira": "あめ は ふらない よう です",
+      "roma": "ame wa furanai yō desu",
+      "pron": "아메와 후라나이 요우데스",
+      "meaning": "비는 안 올 것 같아요"
+    },
+    {
+      "jp": "降ったほうがいいです。",
+      "hira": "ふった ほう が いい です",
+      "roma": "futta hō ga ii desu",
+      "pron": "훗타 호오가 이이데스",
+      "meaning": "(비가) 내린 편이 좋습니다"
+    },
+    {
+      "jp": "雨が降るかもしれません。",
+      "hira": "あめ が ふる かも しれません",
+      "roma": "ame ga furu kamo shiremasen",
+      "pron": "아메가 후루 카모 시레마센",
+      "meaning": "비가 내릴지도 몰라요"
+    },
+    {
+      "jp": "雨が降れば行きません。",
+      "hira": "あめ が ふれば いきません",
+      "roma": "ame ga fureba ikimasen",
+      "pron": "아메가 후레바 이키마센",
+      "meaning": "비가 오면 안 갈래요"
+    },
+    {
+      "jp": "雨が降れば行かないほうがいいです。",
+      "hira": "あめ が ふれば いかない ほう が いい です",
+      "roma": "ame ga fureba ikanai hō ga ii desu",
+      "pron": "아메가 후레바 이카나이 호오가 이이데스",
+      "meaning": "비가 내리면 안 가는 편이 좋습니다"
+    },
+    {
+      "jp": "頭が痛いから薬を飲みました。",
+      "hira": "あたま が いたい から くすり を のみました",
+      "roma": "atama ga itai kara kusuri o nomimashita",
+      "pron": "아타마가 이타이 카라 쿠스리오 노미마시타",
+      "meaning": "머리가 아파서 약을 먹었어요"
+    },
+    {
+      "jp": "具合が悪いから家で休みました。",
+      "hira": "ぐあい が わるい から いえ で やすみました",
+      "roma": "guai ga warui kara ie de yasumimashita",
+      "pron": "구아이 가 와루이 카라 이에데 야수미마시타",
+      "meaning": "아파서 집에서 쉬었어요"
+    },
+    {
+      "jp": "熱がある",
+      "hira": "ねつが ある",
+      "roma": "netsu ga aru",
+      "pron": "네츠가 아루",
+      "meaning": "열이 있다"
+    },
+    {
+      "jp": "頭が痛い",
+      "hira": "あたまが いたい",
+      "roma": "atama ga itai",
+      "pron": "아타마가 이타이",
+      "meaning": "머리가 아프다"
+    },
+    {
+      "jp": "喉がはれる",
+      "hira": "のどが はれる",
+      "roma": "nodo ga hareru",
+      "pron": "노도가 하레루",
+      "meaning": "목이 붓다"
+    },
+    {
+      "jp": "咳が出る",
+      "hira": "せきが でる",
+      "roma": "seki ga deru",
+      "pron": "세키가 데루",
+      "meaning": "기침이 나다"
+    },
+    {
+      "jp": "口を開ける",
+      "hira": "くちを あける",
+      "roma": "kuchi o akeru",
+      "pron": "쿠치오 아케루",
+      "meaning": "입을 열다"
+    },
+    {
+      "jp": "風邪を引く",
+      "hira": "かぜを ひく",
+      "roma": "kaze o hiku",
+      "pron": "카제오 히쿠",
+      "meaning": "감기에 걸리다"
+    },
+    {
+      "jp": "薬を飲む",
+      "hira": "くすりを のむ",
+      "roma": "kusuri o nomu",
+      "pron": "쿠스리오 노무",
+      "meaning": "약을 먹다"
+    },
+    {
+      "jp": "喉が腫れていますね。",
+      "hira": "のどが はれています ね",
+      "roma": "nodo ga hareteimasu ne",
+      "pron": "노도가 하레테이마스네",
+      "meaning": "목이 부었네요"
+    },
+    {
+      "jp": "口を大きく開けてみてください。",
+      "hira": "くちを おおきく あけて みて ください",
+      "roma": "kuchi o ōkiku akete mite kudasai",
+      "pron": "쿠치오 오오키쿠 아케테 미테 쿠다사이",
+      "meaning": "입을 크게 벌려 보세요"
+    },
+    {
+      "jp": "忘れてしまったようです。",
+      "hira": "わすれて しまった ようです",
+      "roma": "wasurete shimatta yō desu",
+      "pron": "와스레테 시맛타 요우데스",
+      "meaning": "잊어버린 것 같아요"
+    },
+    {
+      "jp": "食べてしまったようです。",
+      "hira": "たべて しまった ようです",
+      "roma": "tabete shimatta yō desu",
+      "pron": "타베테 시맛타 요우데스",
+      "meaning": "먹어버린 것 같아요"
+    },
+    {
+      "jp": "捨ててしまったようです。",
+      "hira": "すてて しまった ようです",
+      "roma": "sutete shimatta yō desu",
+      "pron": "스테테 시맛타 요우데스",
+      "meaning": "버려버린 것 같아요"
+    },
+    {
+      "jp": "覚えたほうがいいです。",
+      "hira": "おぼえた ほうが いいです",
+      "roma": "oboeta hō ga ii desu",
+      "pron": "오보에타 호오가 이이데스",
+      "meaning": "외우는 편이 좋겠다 / 외우는 게 좋다"
+    },
+    {
+      "jp": "覚えておいたほうがいいですよ。",
+      "hira": "おぼえて おいた ほうが いいですよ",
+      "roma": "oboete oita hō ga ii desu yo",
+      "pron": "오보에테 오이타 호오가 이이데스요",
+      "meaning": "기억해두는 편이 좋겠어요"
+    },
+    {
+      "jp": "風邪を引いたようです",
+      "hira": "かぜを ひいた ようです",
+      "roma": "kaze o hiita yō desu",
+      "pron": "카제오 히이타 요우데스",
+      "meaning": "감기에 걸린 것 같아요"
+    },
+    {
+      "jp": "忘れてしまったようです",
+      "hira": "わすれて しまった ようです",
+      "roma": "wasurete shimatta yō desu",
+      "pron": "와스레테 시맛타 요우데스",
+      "meaning": "잊어버린 것 같아요 / 잊어버렸나 봐요"
+    },
+    {
+      "jp": "覚えたほうがいいです",
+      "hira": "おぼえた ほうが いいです",
+      "roma": "oboeta hō ga ii desu",
+      "pron": "오보에타 호우가 이이데스",
+      "meaning": "외우는 편이 좋아요 / 외우는 게 좋아요"
+    },
+    {
+      "jp": "覚えておいたほうがいいです",
+      "hira": "おぼえて おいた ほうが いいです",
+      "roma": "oboete oita hō ga ii desu",
+      "pron": "오보에테 오이타 호우가 이이데스",
+      "meaning": "(미리) 외워 두는 편이 좋아요"
+    },
+    {
+      "jp": "1. 忘れてしまったようです。",
+      "hira": "わすれて しまった ようです",
+      "roma": "wasurete shimatta yō desu",
+      "pron": "와스레테 시맛타 요우데스",
+      "meaning": "잊어버린 것 같아요"
+    },
+    {
+      "jp": "2. 落としてしまったようです。",
+      "hira": "おとして しまった ようです",
+      "roma": "otoshite shimatta yō desu",
+      "pron": "오토시테 시맛타 요우데스",
+      "meaning": "떨어뜨린 것 같아요"
+    },
+    {
+      "jp": "3. 壊してしまったようです。",
+      "hira": "こわして しまった ようです",
+      "roma": "kowashite shimatta yō desu",
+      "pron": "코와시테 시맛타 요우데스",
+      "meaning": "망가뜨린 것 같아요"
+    },
+    {
+      "jp": "4. 消してしまったようです。",
+      "hira": "けして しまった ようです",
+      "roma": "keshite shimatta yō desu",
+      "pron": "케시테 시맛타 요우데스",
+      "meaning": "지워버린 것 같아요"
+    },
+    {
+      "jp": "5. なくしてしまったようです。",
+      "hira": "なくして しまった ようです",
+      "roma": "nakushite shimatta yō desu",
+      "pron": "나쿠시테 시맛타 요우데스",
+      "meaning": "잃어버린 것 같아요"
+    },
+    {
+      "jp": "食べておいたほうがいいです",
+      "hira": "たべておいたほうがいいです",
+      "roma": "tabete oita hōga ii desu",
+      "pron": "타베테 오이타 호오가 이이 데스",
+      "meaning": "먹어두는 편이 좋아요 / 미리 먹어두는 게 좋아요"
+    },
+    {
+      "jp": "風邪をひかないように気をつけてください",
+      "hira": "かぜをひかないように きをつけてください",
+      "roma": "kaze o hikanai yō ni ki o tsukete kudasai",
+      "pron": "카제오 히카나이 요오니 키오 츠케테 쿠다사이",
+      "meaning": "감기 걸리지 않게 조심하세요"
+    },
+    {
+      "jp": "インフルエンザにかからないように",
+      "hira": "いんふるえんざに かからないように",
+      "roma": "infuruenza ni kakaranai yō ni",
+      "pron": "인후루엔자 니 카카라나이 요오니",
+      "meaning": "독감에 걸리지 않게"
+    },
+    {
+      "jp": "今日は早く帰ってぐっすり寝ました",
+      "hira": "きょうは はやく かえって ぐっすり ねました",
+      "roma": "kyō wa hayaku kaette gussuri nemashita",
+      "pron": "쿄오와 하야쿠 카엣테 굿스리 네마시타",
+      "meaning": "오늘 일찍 돌아와서 푹 잤어요"
+    },
+    {
+      "jp": "そっちへ行くと道がせまくなるかもしれません",
+      "hira": "そっちへ いくと みちが せまくなる かもしれません",
+      "roma": "socchi e iku to michi ga semakunaru kamoshiremasen",
+      "pron": "솟치에 이쿠토 미치가 세마쿠나루 카모시레마센",
+      "meaning": "그쪽으로 가면 길이 좁아질지도 몰라요"
+    },
+    {
+      "jp": "使い捨て用品",
+      "hira": "つかいすてようひん",
+      "roma": "tsukaisute yōhin",
+      "pron": "쓰카이스테 요오힌",
+      "meaning": "일회용품"
+    },
+    {
+      "jp": "四時半に帰ってきて５時から７時まで寝て少し勉強しました。",
+      "hira": "よじはんに かえってきて ごじから しちじまで ねて すこし べんきょうしました",
+      "roma": "yojihan ni kaette kite goji kara shichiji made nete sukoshi benkyō shimashita",
+      "pron": "요지한니 카엣테키테 고지카라 시치지마데 네테 스코시 벤쿄오시마시타",
+      "meaning": "4시 반에 돌아와서 5시부터 7시까지 자고 조금 공부했습니다"
+    },
+    {
+      "jp": "まだ夕ご飯は食べていないです。",
+      "hira": "まだ ゆうごはんは たべていないです",
+      "roma": "mada yūgohan wa tabete inai desu",
+      "pron": "마다 유우고한와 타베테이나이데스",
+      "meaning": "아직 저녁을 먹지 않았어요"
+    },
+    {
+      "jp": "風邪を引かないように気を付けてください。",
+      "hira": "かぜを ひかないように きをつけてください",
+      "roma": "kaze o hikanai yō ni ki o tsukete kudasai",
+      "pron": "카제오 히카나이요오니 키오츠케테쿠다사이",
+      "meaning": "감기 걸리지 않도록 조심하세요"
+    },
+    {
+      "jp": "インフルにかからないように",
+      "hira": "いんふるに かからないように",
+      "roma": "infuru ni kakaranai yō ni",
+      "pron": "인후루니 카카라나이요오니",
+      "meaning": "독감에 걸리지 않도록"
+    },
+    {
+      "jp": "おふろにはいる",
+      "hira": "おふろに はいる",
+      "roma": "ofuro ni hairu",
+      "pron": "오후로니 하이루",
+      "meaning": "목욕하다 / 욕조에 들어가다"
+    },
+    {
+      "jp": "昨日は早く帰ってぐっすり寝ました。",
+      "hira": "きのうは はやく かえって ぐっすり ねました",
+      "roma": "kinō wa hayaku kaette gussuri nemashita",
+      "pron": "기노우와 하야쿠 카엣테 굿스리 네마시타",
+      "meaning": "어제는 일찍 돌아와서 푹 잤어요"
+    },
+    {
+      "jp": "飲むと少し眠くなるかもしれません。",
+      "hira": "のむと すこし ねむくなる かもしれません",
+      "roma": "nomu to sukoshi nemuku naru kamoshiremasen",
+      "pron": "노무토 스코시 네무쿠나루 카모시레마센",
+      "meaning": "마시면 조금 졸릴지도 몰라요"
+    },
+    {
+      "jp": "今日は雨が降るかもしれません。",
+      "hira": "きょうは あめが ふる かもしれません",
+      "roma": "kyō wa ame ga furu kamoshiremasen",
+      "pron": "쿄오와 아메가 후루 카모시레마센",
+      "meaning": "오늘은 비가 올지도 몰라요"
+    },
+    {
+      "jp": "彼は遅れるかもしれません。",
+      "hira": "かれは おくれる かもしれません",
+      "roma": "kare wa okureru kamoshiremasen",
+      "pron": "카레와 오쿠레루 카모시레마센",
+      "meaning": "그는 늦을지도 몰라요"
+    },
+    {
+      "jp": "明日は寒いかもしれません。",
+      "hira": "あしたは さむい かもしれません",
+      "roma": "ashita wa samui kamoshiremasen",
+      "pron": "아시타와 사무이 카모시레마센",
+      "meaning": "내일은 추울지도 몰라요"
+    },
+    {
+      "jp": "この薬は眠くなるかもしれません。",
+      "hira": "このくすりは ねむくなる かもしれません",
+      "roma": "kono kusuri wa nemuku naru kamoshiremasen",
+      "pron": "코노 쿠스리와 네무쿠나루 카모시레마센",
+      "meaning": "이 약은 졸릴지도 몰라요"
+    },
+    {
+      "jp": "そこは静かかもしれません。",
+      "hira": "そこは しずか かもしれません",
+      "roma": "soko wa shizuka kamoshiremasen",
+      "pron": "소코와 시즈카 카모시레마센",
+      "meaning": "그곳은 조용할지도 몰라요"
+    },
+    {
+      "jp": "いつ行けばいいですか",
+      "hira": "いつ いけば いい です か",
+      "roma": "itsu ikeba ii desu ka",
+      "pron": "이츠 이케바 이이 데스카",
+      "meaning": "언제 가면 되나요?"
+    },
+    {
+      "jp": "いつ作ればいいですか",
+      "hira": "いつ つくれば いい です か",
+      "roma": "itsu tsukureba ii desu ka",
+      "pron": "이츠 츠쿠레바 이이 데스카",
+      "meaning": "언제 만들면 되나요?"
+    },
+    {
+      "jp": "いつ待てばいいですか",
+      "hira": "いつ まてば いい です か",
+      "roma": "itsu mateba ii desu ka",
+      "pron": "이츠 마테바 이이 데스카",
+      "meaning": "언제 기다리면 되나요?"
+    },
+    {
+      "jp": "待たないで先に行ってください",
+      "hira": "またないで さきに いって ください",
+      "roma": "matanaide sakini itte kudasai",
+      "pron": "마타나이데 사키니 잇테 쿠다사이",
+      "meaning": "기다리지 말고 먼저 가세요"
+    },
+    {
+      "jp": "歯を磨いてもいいですか",
+      "hira": "は を みがいても いい です か",
+      "roma": "ha o migaite mo ii desu ka",
+      "pron": "하 오 미가이테모 이이 데스카",
+      "meaning": "이를 닦아도 되나요?"
+    },
+    {
+      "jp": "走らないほうがいいです",
+      "hira": "はしらない ほう が いい です",
+      "roma": "hashiranai hō ga ii desu",
+      "pron": "하시라나이 호-가 이이 데스",
+      "meaning": "뛰지 않는 편이 좋아요"
+    },
+    {
+      "jp": "いつまで待てばいいですか",
+      "hira": "いつまで まてば いいですか",
+      "roma": "itsu made mateba ii desu ka",
+      "pron": "이츠마데 마테바 이이데스카",
+      "meaning": "언제까지 기다리면 되나요?"
+    },
+    {
+      "jp": "どこへ行けばいいですか",
+      "hira": "どこへ いけば いいですか",
+      "roma": "doko e ikeba ii desu ka",
+      "pron": "도코에 이케바 이이데스카",
+      "meaning": "어디로 가면 되나요?"
+    },
+    {
+      "jp": "何時に来ればいいですか",
+      "hira": "なんじに くれば いいですか",
+      "roma": "nanji ni kureba ii desu ka",
+      "pron": "난지니 쿠레바 이이데스카",
+      "meaning": "몇 시에 오면 되나요?"
+    },
+    {
+      "jp": "どうすればいいですか",
+      "hira": "どうすれば いいですか",
+      "roma": "dousureba ii desu ka",
+      "pron": "도오스레바 이이데스카",
+      "meaning": "어떻게 하면 좋을까요?"
+    },
+    {
+      "jp": "忘れないで食後に飲んでください",
+      "hira": "わすれないで しょくごに のんでください",
+      "roma": "wasurenaide shokugo ni nonde kudasai",
+      "pron": "와스레나이데 쇼쿠고니 논데 쿠다사이",
+      "meaning": "잊지 말고 식후에 드세요"
+    },
+    {
+      "jp": "捨てないで私にください",
+      "hira": "すてないで わたしに ください",
+      "roma": "sutenaide watashi ni kudasai",
+      "pron": "스테나이데 와타시니 쿠다사이",
+      "meaning": "버리지 말고 저에게 주세요"
+    },
+    {
+      "jp": "入らないほうがいいです",
+      "hira": "はいらない ほうが いいです",
+      "roma": "hairanai hou ga ii desu",
+      "pron": "하이라나이 호우가 이이데스",
+      "meaning": "들어가지 않는 편이 좋습니다 / 들어가지 않는 게 좋아요"
+    },
+    {
+      "jp": "食べないほうがいいです",
+      "hira": "たべない ほうが いいです",
+      "roma": "tabenai hou ga ii desu",
+      "pron": "타베나이 호우가 이이데스",
+      "meaning": "먹지 않는 편이 좋습니다"
+    },
+    {
+      "jp": "行かないほうがいいです",
+      "hira": "いかない ほうが いいです",
+      "roma": "ikanai hou ga ii desu",
+      "pron": "이카나이 호우가 이이데스",
+      "meaning": "가지 않는 편이 좋습니다"
+    },
+    {
+      "jp": "無理をしないほうがいいです",
+      "hira": "むりを しない ほうが いいです",
+      "roma": "muri o shinai hou ga ii desu",
+      "pron": "무리오 시나이 호우가 이이데스",
+      "meaning": "무리하지 않는 게 좋습니다"
+    },
+    {
+      "jp": "今は入らないほうがいいですよ",
+      "hira": "いまは はいらない ほうが いいですよ",
+      "roma": "ima wa hairanai hou ga ii desu yo",
+      "pron": "이마와 하이라나이 호우가 이이데스요",
+      "meaning": "지금은 들어가지 않는 게 좋을 거예요"
+    },
+    {
+      "jp": "会議はもう終わったようです",
+      "hira": "かいぎは もう おわった ようです",
+      "roma": "kaigi wa mou owatta you desu",
+      "pron": "카이기와 모오 오왓타 요오데스",
+      "meaning": "회의는 벌써 끝난 것 같아요"
+    },
+    {
+      "jp": "雪が降ったようです",
+      "hira": "ゆきが ふった ようです",
+      "roma": "yuki ga futta you desu",
+      "pron": "유키가 훗타 요오데스",
+      "meaning": "눈이 내린 것 같아요"
+    },
+    {
+      "jp": "雪が降らなかったようです",
+      "hira": "ゆきが ふらなかった ようです",
+      "roma": "yuki ga furanakatta you desu",
+      "pron": "유키가 후라나캇타 요오데스",
+      "meaning": "눈이 내리지 않았던 것 같아요"
+    },
+    {
+      "jp": "忙しいようです",
+      "hira": "いそがしい ようです",
+      "roma": "isogashii you desu",
+      "pron": "이소가시이 요오데스",
+      "meaning": "바쁜 것 같아요"
+    },
+    {
+      "jp": "忙しくないようです",
+      "hira": "いそがしくない ようです",
+      "roma": "isogashikunai you desu",
+      "pron": "이소가시쿠나이 요오데스",
+      "meaning": "안 바쁜 것 같아요"
+    },
+    {
+      "jp": "きれいなようです",
+      "hira": "きれいな ようです",
+      "roma": "kireina you desu",
+      "pron": "키레이나 요오데스",
+      "meaning": "예쁜 것 같아요"
+    },
+    {
+      "jp": "きれいじゃないようです",
+      "hira": "きれいじゃない ようです",
+      "roma": "kirei ja nai you desu",
+      "pron": "키레이자나이 요오데스",
+      "meaning": "예쁘지 않은 것 같아요"
+    },
+    {
+      "jp": "きれいだったようです",
+      "hira": "きれいだった ようです",
+      "roma": "kirei datta you desu",
+      "pron": "키레이닷타 요오데스",
+      "meaning": "예뻤던 것 같아요"
+    },
+    {
+      "jp": "きれいじゃなかったようです",
+      "hira": "きれいじゃなかった ようです",
+      "roma": "kirei ja nakatta you desu",
+      "pron": "키레이자나캇타 요오데스",
+      "meaning": "예쁘지 않았던 것 같아요"
+    },
+    {
+      "jp": "いそがしいようです",
+      "hira": "いそがしい ようです",
+      "roma": "isogashii yō desu",
+      "pron": "이소가시이 요오데스",
+      "meaning": "바쁜 것 같아요"
+    },
+    {
+      "jp": "いそがしくないようです",
+      "hira": "いそがしくない ようです",
+      "roma": "isogashikunai yō desu",
+      "pron": "이소가시쿠나이 요오데스",
+      "meaning": "안 바쁜 것 같아요"
+    },
+    {
+      "jp": "ゆきがふるようです",
+      "hira": "ゆきが ふる ようです",
+      "roma": "yuki ga furu yō desu",
+      "pron": "유키가 후루 요오데스",
+      "meaning": "눈이 내릴 것 같아요"
+    },
+    {
+      "jp": "ゆきがふったようです",
+      "hira": "ゆきが ふった ようです",
+      "roma": "yuki ga futta yō desu",
+      "pron": "유키가 훗타 요오데스",
+      "meaning": "눈이 온 것 같아요"
+    },
+    {
+      "jp": "ゆきがふらないようです",
+      "hira": "ゆきが ふらない ようです",
+      "roma": "yuki ga furanai yō desu",
+      "pron": "유키가 후라나이 요오데스",
+      "meaning": "눈이 안 내릴 것 같아요"
+    },
+    {
+      "jp": "ゆきがふらなかったようです",
+      "hira": "ゆきが ふらなかった ようです",
+      "roma": "yuki ga furanakatta yō desu",
+      "pron": "유키가 후라나캇타 요오데스",
+      "meaning": "눈이 안 온 것 같아요"
+    },
+    {
+      "jp": "牛乳を飲んだほうがいいです",
+      "hira": "ぎゅうにゅうを のんだ ほうが いいです",
+      "roma": "gyūnyū o nonda hō ga ii desu",
+      "pron": "규우뉴우오 논다 호오가 이이데스",
+      "meaning": "우유를 마시는 편이 좋아요"
+    },
+    {
+      "jp": "値段が高いかもしれません",
+      "hira": "ねだんが たかい かもしれません",
+      "roma": "nedan ga takai kamo shiremasen",
+      "pron": "네단가 타카이 카모시레마센",
+      "meaning": "가격이 비쌀지도 몰라요"
+    },
+    {
+      "jp": "明日はキムさんが来るかもしれません",
+      "hira": "あしたは きむさんが くる かもしれません",
+      "roma": "ashita wa Kimu-san ga kuru kamo shiremasen",
+      "pron": "아시타와 키무상가 쿠루 카모시레마센",
+      "meaning": "내일은 김상이 올지도 몰라요"
+    },
+    {
+      "jp": "来ないかもしれません",
+      "hira": "こない かもしれません",
+      "roma": "konai kamo shiremasen",
+      "pron": "코나이 카모시레마센",
+      "meaning": "안 올지도 몰라요"
+    },
+    {
+      "jp": "明日 雨がふれば 行きません",
+      "hira": "あした あめが ふれば いきません",
+      "roma": "ashita ame ga fureba ikimasen",
+      "pron": "아시타 아메가 후레바 이키마센",
+      "meaning": "내일 비가 오면 가지 않아요"
+    },
+    {
+      "jp": "待てば来ますよ",
+      "hira": "まてば きますよ",
+      "roma": "mateba kimasu yo",
+      "pron": "마테바 키마스요",
+      "meaning": "기다리면 올 거예요"
+    },
+    {
+      "jp": "공부하면 할수록",
+      "hira": "勉強すればするほど",
+      "roma": "べんきょうすれば するほど",
+      "pron": "benkyō sureba suru hodo",
+      "meaning": "벤쿄우 스레바 스루호도"
+    },
+    {
+      "jp": "바쁘면 바쁠수록",
+      "hira": "いそがしければいそがしいほど",
+      "roma": "いそがしければ いそがしい ほど",
+      "pron": "isogashikereba isogashii hodo",
+      "meaning": "이소가시케레바 이소가시이 호도"
+    },
+    {
+      "jp": "キムさんは来ないかもしれません",
+      "hira": "きむさんは こない かもしれません",
+      "roma": "kimu-san wa konai kamoshiremasen",
+      "pron": "키무상와 코나이 카모시레마센",
+      "meaning": "김 씨가 오지 않을지도 모릅니다"
+    },
+    {
+      "jp": "勉強すればするほど難しくなります",
+      "hira": "べんきょうすれば する ほど むずかしく なります",
+      "roma": "benkyō sureba suru hodo muzukashiku narimasu",
+      "pron": "벤쿄오 스레바 스루 호도 무즈카시쿠 나리마스",
+      "meaning": "공부하면 할수록 어려워집니다"
+    },
+    {
+      "jp": "待てば来ます",
+      "hira": "まてば きます",
+      "roma": "mateba kimasu",
+      "pron": "마테바 키마스",
+      "meaning": "기다리면 옵니다"
+    },
+    {
+      "jp": "あげれば",
+      "hira": "あげれば",
+      "roma": "agereba",
+      "pron": "아게레바",
+      "meaning": "주면 / 건네주면"
+    },
+    {
+      "jp": "いそがしければいそがしいほど",
+      "hira": "いそがしければ いそがしい ほど",
+      "roma": "isogashikereba isogashii hodo",
+      "pron": "이소가시케레바 이소가시이 호도",
+      "meaning": "바쁘면 바쁠수록"
+    },
+    {
+      "jp": "有名なら有名なほど",
+      "hira": "ゆうめいなら ゆうめいな ほど",
+      "roma": "yūmei nara yūmei na hodo",
+      "pron": "유우메이나라 유우메이나 호도",
+      "meaning": "유명하면 유명할수록"
+    },
+    {
+      "jp": "有名であれば有名であるほど",
+      "hira": "ゆうめいであれば ゆうめいである ほど",
+      "roma": "yūmei de areba yūmei de aru hodo",
+      "pron": "유우메이데아레바 유우메이데아루 호도",
+      "meaning": "유명하면 유명할수록(문어체·공식적)"
+    },
+    {
+      "jp": "会えば会うほど",
+      "hira": "あえば あう ほど",
+      "roma": "aeba au hodo",
+      "pron": "아에바 아우 호도",
+      "meaning": "만나면 만날수록"
+    },
+    {
+      "jp": "好きになるです（※자연스럽게는 好きになります）",
+      "hira": "すきに なります",
+      "roma": "suki ni narimasu",
+      "pron": "스키니 나리마스",
+      "meaning": "좋아하게 됩니다 / 좋아지게 됩니다"
+    },
+    {
+      "jp": "薬を飲めば飲むほど悪くなります",
+      "hira": "くすりを のめば のむ ほど わるく なります",
+      "roma": "kusuri o nomeba nomu hodo waruku narimasu",
+      "pron": "쿠스리오 노메바 노무 호도 와루쿠 나리마스",
+      "meaning": "약을 먹으면 먹을수록 나빠집니다"
+    },
+    {
+      "jp": "信じれば信じるほど",
+      "hira": "しんじれば しんじる ほど",
+      "roma": "shinjireba shinjiru hodo",
+      "pron": "신지레바 신지루 호도",
+      "meaning": "믿으면 믿을수록"
+    },
+    {
+      "jp": "話せば話すほど",
+      "hira": "はなせば はなす ほど",
+      "roma": "hanaseba hanasu hodo",
+      "pron": "하나세바 하나스 호도",
+      "meaning": "말을 하면 할수록"
+    },
+    {
+      "jp": "キムさんは来ないかもしれません。",
+      "hira": "きむさんは こない かもしれません",
+      "roma": "kimu-san wa konai kamoshiremasen",
+      "pron": "키무상와 코나이 카모시레마센",
+      "meaning": "김상은 안 올지도 몰라요"
+    },
+    {
+      "jp": "働けば働くほど",
+      "hira": "はたらけば はたらく ほど",
+      "roma": "hatarak-eba hataraku hodo",
+      "pron": "하타라케바 하타라쿠 호도",
+      "meaning": "일하면 일할수록"
+    },
+    {
+      "jp": "喉がはれていますね。",
+      "hira": "のどが はれていますね",
+      "roma": "nodo ga harete imasu ne",
+      "pron": "노도가 하레테 이마스네",
+      "meaning": "목이 부어 있네요"
+    },
+    {
+      "jp": "喉が痛いです。",
+      "hira": "のどが いたいです",
+      "roma": "nodo ga itai desu",
+      "pron": "노도가 이타이 데스",
+      "meaning": "목이 아파요"
+    },
+    {
+      "jp": "喉が赤いですね。",
+      "hira": "のどが あかいですね",
+      "roma": "nodo ga akai desu ne",
+      "pron": "노도가 아카이 데스네",
+      "meaning": "목이 빨갛네요"
+    },
+    {
+      "jp": "喉がはれているようです。",
+      "hira": "のどが はれているようです",
+      "roma": "nodo ga harete iru yō desu",
+      "pron": "노도가 하레테 이루 요오 데스",
+      "meaning": "목이 부어 있는 것 같아요"
+    },
+    {
+      "jp": "熱があって喉が痛いです。",
+      "hira": "ねつが あって のどが いたいです",
+      "roma": "netsu ga atte nodo ga itai desu",
+      "pron": "네츠가 앗테 노도가 이타이 데스",
+      "meaning": "열이 있고 목이 아파요"
+    },
+    {
+      "jp": "熱があって、頭が痛いです。",
+      "hira": "ねつが あって あたまが いたいです",
+      "roma": "netsu ga atte atama ga itai desu",
+      "pron": "네츠가 앗테 아타마가 이타이 데스",
+      "meaning": "열이 있고 머리가 아파요"
+    },
+    {
+      "jp": "咳が出て、喉が痛いです。",
+      "hira": "せきが でて のどが いたいです",
+      "roma": "seki ga dete nodo ga itai desu",
+      "pron": "세키가 데테 노도가 이타이 데스",
+      "meaning": "기침이 나고 목이 아파요"
+    },
+    {
+      "jp": "熱があって、体がだるいです。",
+      "hira": "ねつが あって からだが だるいです",
+      "roma": "netsu ga atte karada ga darui desu",
+      "pron": "네츠가 앗테 카라다가 다루이 데스",
+      "meaning": "열이 있고 몸이 나른해요"
+    },
+    {
+      "jp": "せきは出ますか。",
+      "hira": "せきは でますか",
+      "roma": "seki wa demasu ka",
+      "pron": "세키와 데마스까",
+      "meaning": "기침은 나나요?"
+    },
+    {
+      "jp": "熱は出ましたか。",
+      "hira": "ねつは でましたか",
+      "roma": "netsu wa demashita ka",
+      "pron": "네츠와 데마시타까",
+      "meaning": "열은 났었나요?"
+    },
+    {
+      "jp": "薬を飲むとすこし眠くなるかもしれません。",
+      "hira": "くすりを のむと すこし ねむく なるかもしれません",
+      "roma": "kusuri o nomu to sukoshi nemuku naru kamo shiremasen",
+      "pron": "쿠스리오 노무토 스코시 네무쿠 나루 카모 시레마센",
+      "meaning": "약을 먹으면 조금 졸릴지도 모릅니다"
+    },
+    {
+      "jp": "食後に飲んだほうがいいです。",
+      "hira": "しょくごに のんだ ほうが いいです。",
+      "roma": "shokugo ni nonda hō ga ii desu",
+      "pron": "쇼쿠고니 논다 호-가 이이데스",
+      "meaning": "식후에 먹는 것이 좋습니다"
+    },
+    {
+      "jp": "週末は早く出発したほうがいいです。",
+      "hira": "しゅうまつは はやく しゅっぱつ した ほうが いいです。",
+      "roma": "shūmatsu wa hayaku shuppatsu shita hō ga ii desu",
+      "pron": "슈-마츠와 하야쿠 슈빳츠 시타 호-가 이이데스",
+      "meaning": "주말에는 일찍 출발하는 것이 좋습니다"
+    },
+    {
+      "jp": "あの店は高くても人気があるようです。",
+      "hira": "あのみせは たかくても にんきがあるようです",
+      "roma": "ano mise wa takakutemo ninki ga aru you desu",
+      "pron": "아노 미세와 타카쿠테모 닌키가 아루 요우데스",
+      "meaning": "그 가게는 비싸도 인기가 있는 것 같아요"
+    },
+    {
+      "jp": "仕事があれば土曜日も休めません。",
+      "hira": "しごとがあれば どようびも やすめません",
+      "roma": "shigoto ga areba doyoubi mo yasumemasen",
+      "pron": "시고토가 아레바 도요우비모 야스메마센",
+      "meaning": "일이 있으면 토요일도 쉴 수 없어요"
+    },
+    {
+      "jp": "せきが出ます。風邪をひいたかもしれません。",
+      "hira": "せきが でます。かぜを ひいたかもしれません",
+      "roma": "seki ga demasu kaze o hiita kamo shiremasen",
+      "pron": "세키가 데마스 가제오 히이타 카모 시레마센",
+      "meaning": "기침이 나요. 감기에 걸렸는지도 몰라요"
+    },
+    {
+      "jp": "高いですが、人気があるようです。",
+      "hira": "たかいですが、にんきがあるようです",
+      "roma": "takai desu ga ninki ga aru you desu",
+      "pron": "타카이 데스가 닌키가 아루 요우데스",
+      "meaning": "비싸지만 인기가 있는 것 같아요"
+    },
+    {
+      "jp": "高くても人気があります。",
+      "hira": "たかくても にんきが あります",
+      "roma": "takakutemo ninki ga arimasu",
+      "pron": "타카쿠테모 닌키가 아리마스",
+      "meaning": "비싸도 인기가 있어요"
+    },
+    {
+      "jp": "高いですが人気があります。",
+      "hira": "たかいですが にんきが あります",
+      "roma": "takai desu ga ninki ga arimasu",
+      "pron": "타카이데스가 닌키가 아리마스",
+      "meaning": "비싸지만 인기가 있어요"
+    },
+    {
+      "jp": "もう会ったかもしれません。",
+      "hira": "もう あったかもしれません",
+      "roma": "mou atta kamo shiremasen",
+      "pron": "모우 앗타 카모 시레마센",
+      "meaning": "이미 만났을지도 몰라요"
+    },
+    {
+      "jp": "ごみはいつ出せばいいですか。",
+      "hira": "ごみは いつ だせば いいですか",
+      "roma": "gomi wa itsu daseba ii desu ka",
+      "pron": "고미와 이츠 다세바 이이데스카",
+      "meaning": "쓰레기는 언제 내면 되나요?"
+    },
+    {
+      "jp": "作ってほしいです。",
+      "hira": "つくって ほしいです",
+      "roma": "tsukutte hoshii desu",
+      "pron": "츠쿳테 호시이데스",
+      "meaning": "만들어 줬으면 좋겠어요"
+    },
+    {
+      "jp": "服を着たまま寝てしまいました。",
+      "hira": "ふくを きたまま ねて しまいました",
+      "roma": "fuku o kita mama nete shimaimashita",
+      "pron": "후쿠오 키타 마마 네테 시마이마시타",
+      "meaning": "옷을 입은 채로 자버렸어요"
+    },
+    {
+      "jp": "キムさんしか入れないです。",
+      "hira": "きむさんしか はいれないです",
+      "roma": "kimu-san shika hairenai desu",
+      "pron": "키무상 시카 하이레나이데스",
+      "meaning": "김상밖에 들어갈 수 없어요"
+    },
+    {
+      "jp": "会ったのに別れてしまった。",
+      "hira": "あった のに わかれて しまった",
+      "roma": "atta noni wakarete shimatta",
+      "pron": "앗타 노니 와카레테 시맛타",
+      "meaning": "만났는데도 결국 헤어져 버렸어"
+    },
+    {
+      "jp": "いつ閉めればいいですか。",
+      "hira": "いつ しめれば いいですか",
+      "roma": "itsu shimeraba ii desu ka",
+      "pron": "이츠 시메레바 이이데스카",
+      "meaning": "언제 닫으면 될까요?"
+    },
+    {
+      "jp": "いつ帰ればいいですか。",
+      "hira": "いつ かえれば いいですか",
+      "roma": "itsu kaereba ii desu ka",
+      "pron": "이츠 카에레바 이이데스카",
+      "meaning": "언제 돌아가면 될까요?"
+    },
+    {
+      "jp": "カードしか持ってないです。",
+      "hira": "かーどしか もってないです",
+      "roma": "kaado shika mottenai desu",
+      "pron": "카아도 시카 못테나이데스",
+      "meaning": "카드밖에 없어요"
+    },
+    {
+      "jp": "～しか～ないです",
+      "hira": "～しか～ないです",
+      "roma": "~ shika ~ nai desu",
+      "pron": "시카 ~ 나이데스",
+      "meaning": "~밖에 ~하지 않다"
+    },
+    {
+      "jp": "ゴミは木曜日しか出せないです。",
+      "hira": "ごみは もくようび しか だせないです",
+      "roma": "gomi wa mokuyōbi shika dasenai desu",
+      "pron": "고미와 모쿠요비 시카 다세나이데스",
+      "meaning": "쓰레기는 목요일에밖에 못 내요"
+    },
+    {
+      "jp": "聞いたのに忘れてしまいました。",
+      "hira": "きいた のに わすれて しまいました",
+      "roma": "kiita noni wasurete shimaimashita",
+      "pron": "키이타 노니 와스레테 시마이마시타",
+      "meaning": "들었는데도 잊어버렸어요"
+    },
+    {
+      "jp": "部屋の電気がついたままでした。",
+      "hira": "へやの でんきが ついた ままでした。",
+      "roma": "heya no denki ga tsuita mama deshita",
+      "pron": "헤야노 덴키가 츠이타 마마데시타",
+      "meaning": "방의 불이 켜진 채였습니다"
+    },
+    {
+      "jp": "これから気を付けてほしいです。",
+      "hira": "これから きをつけて ほしいです。",
+      "roma": "korekara ki o tsukete hoshii desu",
+      "pron": "코레카라 키오 츠케테 호시이데스",
+      "meaning": "앞으로 조심해 주었으면 합니다"
+    },
+    {
+      "jp": "服を着たまま寝てしまった。",
+      "hira": "ふくを きた まま ねて しまった。",
+      "roma": "fuku o kita mama nete shimatta",
+      "pron": "후쿠오 키타 마마 네테 시맛타",
+      "meaning": "옷을 입은 채로 자 버렸다"
+    },
+    {
+      "jp": "資源ごみ",
+      "hira": "しげんごみ",
+      "roma": "shigen gomi",
+      "pron": "시겐 고미",
+      "meaning": "재활용 쓰레기"
+    },
+    {
+      "jp": "燃えるゴミ",
+      "hira": "もえるごみ",
+      "roma": "moeru gomi",
+      "pron": "모에루 고미",
+      "meaning": "타는 쓰레기"
+    },
+    {
+      "jp": "燃えないゴミ",
+      "hira": "もえないごみ",
+      "roma": "moenai gomi",
+      "pron": "모에나이 고미",
+      "meaning": "안 타는 쓰레기"
+    },
+    {
+      "jp": "３０センチを超えると有料です。",
+      "hira": "さんじゅっセンチを こえると ゆうりょうです。",
+      "roma": "sanjussentchi o koeru to yūryō desu",
+      "pron": "산줏센치오 코에루토 유-료데스",
+      "meaning": "30cm를 넘으면 유료입니다"
+    },
+    {
+      "jp": "ゴミは九時を過ぎると出せません。",
+      "hira": "ごみは くじを すぎると だせません。",
+      "roma": "gomi wa kuji o sugiru to dasemasen",
+      "pron": "고미와 쿠지오 스기루토 다세마센",
+      "meaning": "쓰레기는 9시가 지나면 내놓을 수 없습니다"
+    },
+    {
+      "jp": "ゴミ袋にいれて出してください。",
+      "hira": "ごみぶくろに いれて だしてください。",
+      "roma": "gomibukuro ni irete dashite kudasai",
+      "pron": "고미부쿠로니 이레테 다시테 쿠다사이",
+      "meaning": "쓰레기봉투에 넣어서 내놓아 주세요"
+    },
+    {
+      "jp": "クレジットカードしか持てないです。",
+      "hira": "くれじっとかーど しか もてない です。",
+      "roma": "kurejitto kādo shika motenai desu",
+      "pron": "크레짓토 카도 시카 모테나이데스",
+      "meaning": "신용카드 밖에 가질 수 없습니다"
+    },
+    {
+      "jp": "まだ働けるのに、辞めるんです。",
+      "hira": "まだ はたらける のに、やめる んです。",
+      "roma": "mada hatarakeru noni, yameru n desu",
+      "pron": "마다 하타라케루 노니 야메룬데스",
+      "meaning": "아직 일할 수 있는데도 그만두는 거예요"
+    },
+    {
+      "jp": "まだ会えるのに、別れるんです。",
+      "hira": "まだ あえる のに、わかれる んです。",
+      "roma": "mada aeru noni, wakareru n desu",
+      "pron": "마다 아에루 노니 와카레룬데스",
+      "meaning": "아직 만날 수 있는데도 헤어지는 거예요"
+    },
+    {
+      "jp": "まだ使えるのに、捨てるんですか。",
+      "hira": "まだ つかえる のに、すてる んですか。",
+      "roma": "mada tsukaeru noni, suteru n desu ka",
+      "pron": "마다 츠카에루 노니 스테룬데스까",
+      "meaning": "아직 쓸 수 있는데도 버리나요?"
+    },
+    {
+      "jp": "ビンも燃えないゴミですか。",
+      "hira": "びんも もえない ごみ ですか。",
+      "roma": "bin mo moenai gomi desu ka",
+      "pron": "빈모 모에나이 고미 데스까",
+      "meaning": "병도 타지 않는 쓰레기인가요?"
+    },
+    {
+      "jp": "ゴミじゃなくて資源ゴミです。",
+      "hira": "ごみじゃなくて しげんごみ です。",
+      "roma": "gomi ja nakute shigen gomi desu",
+      "pron": "고미 자 나쿠테 시겐고미 데스",
+      "meaning": "쓰레기가 아니라 재활용 쓰레기입니다"
+    },
+    {
+      "jp": "鞄も捨てたいんですが。",
+      "hira": "かばんも すてたいんですが。",
+      "roma": "kaban mo sutetain desu ga",
+      "pron": "",
+      "meaning": "가방도 버리고 싶은데요"
+    },
+    {
+      "jp": "まだ、働けるのにやめるんですか。",
+      "hira": "まだ、はたらける のに やめるんですか。",
+      "roma": "mada hatarakeru noni yamerun desu ka",
+      "pron": "마다 하타라케루 노니 야메룬 데스까",
+      "meaning": "아직 일할 수 있는데 그만두는 건가요?"
+    },
+    {
+      "jp": "他人に迷惑をかける",
+      "hira": "たにんに めいわくを かける",
+      "roma": "tanin ni meiwaku o kakeru",
+      "pron": "타닌니 메이와쿠오 카케루",
+      "meaning": "남에게 피해를 주다 / 민폐를 끼치다"
+    },
+    {
+      "jp": "服を着たまま寝ました。",
+      "hira": "ふくを きたまま ねました。",
+      "roma": "fuku o kita mama nemashita",
+      "pron": "후쿠오 키타 마마 네마시타",
+      "meaning": "옷을 입은 채로 잤어요"
+    },
+    {
+      "jp": "ちょっといいですか。",
+      "hira": "ちょっと いいですか",
+      "roma": "chotto ii desu ka",
+      "pron": "춋또 이이데스카",
+      "meaning": "잠깐 괜찮을까요"
+    },
+    {
+      "jp": "相談したいことがあります。",
+      "hira": "そうだん したい ことが あります",
+      "roma": "sōdan shitai koto ga arimasu",
+      "pron": "소오단 시타이 코토가 아리마스",
+      "meaning": "상담하고 싶은 일이 있습니다"
+    },
+    {
+      "jp": "ちょっといいですか。相談したいことがあります。",
+      "hira": "ちょっと いいですか。そうだん したい ことが あります",
+      "roma": "chotto ii desu ka sōdan shitai koto ga arimasu",
+      "pron": "춋또 이이데스카 소오단 시타이 코토가 아리마스",
+      "meaning": "잠깐 괜찮을까요 상담하고 싶은 게 있습니다"
+    },
+    {
+      "jp": "会社の同僚とよく相談します。",
+      "hira": "かいしゃ の どうりょう と よく そうだん します",
+      "roma": "kaisha no dōryō to yoku sōdan shimasu",
+      "pron": "카이샤 노 도오료오 또 요쿠 소오단 시마스",
+      "meaning": "회사 동료와 자주 상담합니다"
+    },
+    {
+      "jp": "隣の人とよく相談します。",
+      "hira": "となり の ひと と よく そうだん します",
+      "roma": "tonari no hito to yoku sōdan shimasu",
+      "pron": "토나리 노 히토 또 요쿠 소오단 시마스",
+      "meaning": "옆에 있는 사람과 자주 상담합니다"
+    },
+    {
+      "jp": "会社では同僚とよく相談します。",
+      "hira": "かいしゃ では どうりょう と よく そうだん します",
+      "roma": "kaisha dewa dōryō to yoku sōdan shimasu",
+      "pron": "카이샤 데와 도오료오 또 요쿠 소오단 시마스",
+      "meaning": "회사에서는 동료들과 자주 상담합니다"
+    },
+    {
+      "jp": "周りの人とよく相談します。",
+      "hira": "まわり の ひと と よく そうだん します",
+      "roma": "mawari no hito to yoku sōdan shimasu",
+      "pron": "마와리 노 히토 또 요쿠 소오단 시마스",
+      "meaning": "주변 사람들과 자주 상의합니다"
+    },
+    {
+      "jp": "明けましておめでとうございます。",
+      "hira": "あけまして おめでとう ございます",
+      "roma": "akemashite omedetō gozaimasu",
+      "pron": "아케마시테 오메데토- 고자이마스",
+      "meaning": "새해 복 많이 받으세요"
+    },
+    {
+      "jp": "迷惑をかける",
+      "hira": "めいわく を かける",
+      "roma": "meiwaku o kakeru",
+      "pron": "메이와쿠오 카케루",
+      "meaning": "민폐를 끼치다"
+    },
+    {
+      "jp": "財布をなくしてしまいました。",
+      "hira": "さいふ を なくして しまいました",
+      "roma": "saifu o nakushite shimaimashita",
+      "pron": "사이후오 나쿠시테 시마이마시타",
+      "meaning": "지갑을 잃어버렸어요"
+    },
+    {
+      "jp": "鍵をなくしてしまいました。",
+      "hira": "かぎ を なくして しまいました",
+      "roma": "kagi o nakushite shimaimashita",
+      "pron": "카기오 나쿠시테 시마이마시타",
+      "meaning": "열쇠를 잃어버렸어요"
+    },
+    {
+      "jp": "うっかりなくしてしまいました。",
+      "hira": "うっかり なくして しまいました",
+      "roma": "ukkari nakushite shimaimashita",
+      "pron": "웃카리 나쿠시테 시마이마시타",
+      "meaning": "깜빡하고 잃어버렸어요"
+    },
+    {
+      "jp": "白黒料理人",
+      "hira": "しろくろ りょうりにん",
+      "roma": "shirokuro ryōrinin",
+      "pron": "시로쿠로 료-리닌",
+      "meaning": "흑백 요리사"
+    },
+    {
+      "jp": "番組の中で",
+      "hira": "ばんぐみ の なかで",
+      "roma": "bangumi no naka de",
+      "pron": "방구미 노 나카데",
+      "meaning": "프로그램 안에서 / 방송 중에"
+    },
+    {
+      "jp": "踏んでしまう",
+      "hira": "ふんで しまう",
+      "roma": "funde shimau",
+      "pron": "훈데 시마우",
+      "meaning": "(실수로) 밟아 버리다 / 밟고 말다"
+    },
+    {
+      "jp": "信じないでほしいです。",
+      "hira": "しんじないで ほしいです",
+      "roma": "shinjinaide hoshii desu",
+      "pron": "신지나이데 호시이데스",
+      "meaning": "믿지 않았으면 합니다 / 믿지 말아 주세요"
+    },
+    {
+      "jp": "隣に迷惑をかけるといけません",
+      "hira": "となり に めいわく を かける と いけません",
+      "roma": "tonari ni meiwaku o kakeru to ikemasen",
+      "pron": "토나리니 메이와쿠오 카케루토 이케마센",
+      "meaning": "옆 사람에게 폐를 끼치면 안 됩니다"
+    },
+    {
+      "jp": "あなたが気をつけてほしいです。",
+      "hira": "あなたが きをつけて ほしいです",
+      "roma": "anata ga ki o tsukete hoshii desu",
+      "pron": "아나타가 키오 츠케테 호시이데스",
+      "meaning": "네가 조심해줬으면 좋겠어"
+    },
+    {
+      "jp": "早く来てほしいです。",
+      "hira": "はやく きて ほしいです",
+      "roma": "hayaku kite hoshii desu",
+      "pron": "하야쿠 키테 호시이데스",
+      "meaning": "일찍 와줬으면 좋겠습니다"
+    },
+    {
+      "jp": "早く起きないといけません。",
+      "hira": "はやく おきない と いけません",
+      "roma": "hayaku okinai to ikemasen",
+      "pron": "하야쿠 오키나이 토 이케마센",
+      "meaning": "일찍 일어나지 않으면 안 됩니다"
+    },
+    {
+      "jp": "電気を消す",
+      "hira": "でんき を けす",
+      "roma": "denki o kesu",
+      "pron": "덴키오 케스",
+      "meaning": "전기를 끄다"
+    },
+    {
+      "jp": "電気がついたまま",
+      "hira": "でんき が ついた まま",
+      "roma": "denki ga tsuita mama",
+      "pron": "덴키가 츠이타 마마",
+      "meaning": "전기가 켜진 채로"
+    },
+    {
+      "jp": "食べたのに",
+      "hira": "たべた のに",
+      "roma": "tabeta noni",
+      "pron": "타베타 노니",
+      "meaning": "먹었는데도"
+    },
+    {
+      "jp": "食べたのに…",
+      "hira": "たべた のに…",
+      "roma": "tabeta noni…",
+      "pron": "타베타 노니…",
+      "meaning": "먹었는데도…(여운)"
+    },
+    {
+      "jp": "飲んだのに、また飲みたいです。",
+      "hira": "のんだ のに、また のみたいです",
+      "roma": "nonda noni mata nomitai desu",
+      "pron": "논다 노니 마타 노미타이데스",
+      "meaning": "마셨는데도 또 마시고 싶어요"
+    },
+    {
+      "jp": "高くないのに、買えません。",
+      "hira": "たかくない のに、かえません",
+      "roma": "takakunai noni kaemasen",
+      "pron": "타카쿠나이 노니 카에마센",
+      "meaning": "비싸지 않은데도 살 수가 없어요"
+    },
+    {
+      "jp": "きれいなのに、性格が悪い。",
+      "hira": "きれい な のに、せいかく が わるい",
+      "roma": "kirei na noni seikaku ga warui",
+      "pron": "키레이나 노니 세이카쿠가 와루이",
+      "meaning": "예쁜데도 성격이 나쁘다"
+    },
+    {
+      "jp": "おいしく作ってほしいです。",
+      "hira": "おいしく つくって ほしいです",
+      "roma": "oishiku tsukutte hoshii desu",
+      "pron": "오이시쿠 츠쿳테 호시이데스",
+      "meaning": "맛있게 만들어줬으면 좋겠습니다"
+    },
+    {
+      "jp": "飲んだのに、また飲むんですか。",
+      "hira": "のんだ のに、また のむ んですか",
+      "roma": "nonda noni mata nomu n desu ka",
+      "pron": "논다 노니 마타 노문데스카",
+      "meaning": "마셨는데도 또 마실 거예요?"
+    },
+    {
+      "jp": "きれいなのに、性格が悪いです。",
+      "hira": "きれい な のに、せいかく が わるい です",
+      "roma": "kirei na noni seikaku ga warui desu",
+      "pron": "키레이나 노니 세이카쿠가 와루이데스",
+      "meaning": "예쁜데도 성격이 나쁩니다"
+    },
+    {
+      "jp": "洗濯機を回す",
+      "hira": "せんたくき を まわす",
+      "roma": "sentakuki o mawasu",
+      "pron": "센타쿠키오 마와스",
+      "meaning": "세탁기를 돌리다"
+    },
+    {
+      "jp": "約束は守ってほしいです。",
+      "hira": "やくそく は まもって ほしいです",
+      "roma": "yakusoku wa mamotte hoshii desu",
+      "pron": "야쿠소쿠와 마못테 호시이데스",
+      "meaning": "약속은 지켜줬으면 좋겠습니다"
+    },
+    {
+      "jp": "早く帰ってほしいです。",
+      "hira": "はやく かえって ほしいです",
+      "roma": "hayaku kaette hoshii desu",
+      "pron": "하야쿠 카엣테 호시이데스",
+      "meaning": "일찍 들어왔으면 좋겠어요"
+    },
+    {
+      "jp": "帰らないでほしいです。",
+      "hira": "かえらないで ほしいです",
+      "roma": "kaeranaide hoshii desu",
+      "pron": "카에라나이데 호시이데스",
+      "meaning": "돌아가지 않았으면 좋겠어요 / 집에 가지 않았으면 해요"
+    },
+    {
+      "jp": "日本語が上手になりたいです。",
+      "hira": "にほんご が じょうず に なりたいです",
+      "roma": "nihongo ga jōzu ni naritai desu",
+      "pron": "니혼고가 조-즈니 나리타이데스",
+      "meaning": "일본어를 잘하고 싶어요"
+    },
+    {
+      "jp": "日本語が上手になれたらいいです。",
+      "hira": "にほんご が じょうず に なれたら いいです",
+      "roma": "nihongo ga jōzu ni naretara ii desu",
+      "pron": "니혼고가 조-즈니 나레타라 이이데스",
+      "meaning": "일본어를 잘하게 되면 좋겠어요"
+    },
+    {
+      "jp": "日本語が上手になってほしいです。",
+      "hira": "にほんご が じょうず に なって ほしいです",
+      "roma": "nihongo ga jōzu ni natte hoshii desu",
+      "pron": "니혼고가 조-즈니 낫테 호시이데스",
+      "meaning": "(자기 자신이) 일본어를 잘하게 됐으면 좋겠어요"
+    },
+    {
+      "jp": "背が高くなれたらいいです。",
+      "hira": "せ が たかく なれたら いいです",
+      "roma": "se ga takaku naretara ii desu",
+      "pron": "세가 타카쿠 나레타라 이이데스",
+      "meaning": "키가 커지면 좋겠어요"
+    },
+    {
+      "jp": "背が高くなってほしいです。",
+      "hira": "せ が たかく なって ほしいです",
+      "roma": "se ga takaku natte hoshii desu",
+      "pron": "세가 타카쿠 낫테 호시이데스",
+      "meaning": "키가 커졌으면 좋겠어요"
+    },
+    {
+      "jp": "約束を守る",
+      "hira": "やくそくを まもる",
+      "roma": "yakusoku o mamoru",
+      "pron": "야쿠소쿠오 마모루",
+      "meaning": "약속을 지키다"
+    },
+    {
+      "jp": "洗濯機を夜遅く回さないでほしいです。",
+      "hira": "せんたくきを よるおそく まわさないで ほしいです。",
+      "roma": "sentakuki o yoru osoku mawasanaide hoshii desu",
+      "pron": "센타쿠키오 요루 오소쿠 마와사나이데 호시이데스",
+      "meaning": "세탁기를 밤늦게 돌리지 않았으면 좋겠습니다"
+    },
+    {
+      "jp": "かえらないでほしいです。",
+      "hira": "かえらないでほしいです。",
+      "roma": "kaeranai de hoshii desu",
+      "pron": "카에라나이데 호시이데스",
+      "meaning": "돌아가지 않았으면 좋겠습니다"
+    },
+    {
+      "jp": "日本語が上手になってほしいです",
+      "hira": "にほんごが じょうずに なって ほしいです",
+      "roma": "nihongo ga jouzu ni natte hoshii desu",
+      "pron": "니혼고가 조-즈니 낫테 호시이데스",
+      "meaning": "일본어를 잘하게 되었으면 좋겠습니다"
+    },
+    {
+      "jp": "背が高くなってほしいです",
+      "hira": "せが たかく なって ほしいです",
+      "roma": "se ga takaku natte hoshii desu",
+      "pron": "세가 타카쿠 낫테 호시이데스",
+      "meaning": "키가 커졌으면 좋겠습니다"
+    },
+    {
+      "jp": "현재 문장",
+      "hira": "一日しか会えないです。",
+      "roma": "いちにちしか あえないです",
+      "pron": "ichinichi shika aenai desu",
+      "meaning": "이치니치시카 아에나이데스"
+    },
+    {
+      "jp": "더 자연스러운 표현",
+      "hira": "一日しか会えません。",
+      "roma": "いちにちしか あえません",
+      "pron": "ichinichi shika aemasen",
+      "meaning": "이치니치시카 아에마센"
+    },
+    {
+      "jp": "たくさん使ってください",
+      "hira": "たくさん つかって ください",
+      "roma": "takusan tsukatte kudasai",
+      "pron": "타쿠상 츠캇테 쿠다사이",
+      "meaning": "많이 사용해주세요"
+    },
+    {
+      "jp": "最近はどんな本を読んでいますか。",
+      "hira": "さいきんはどんなほんをよんでいますか。",
+      "roma": "saikin wa donna hon o yonde imasu ka",
+      "pron": "사이킨와 돈나 혼오 욘데 이마스까",
+      "meaning": "요즘은 어떤 책을 읽고 있나요?"
+    },
+    {
+      "jp": "旅行の本を読んでいます。",
+      "hira": "りょこうのほんをよんでいます。",
+      "roma": "ryokō no hon o yonde imasu",
+      "pron": "료코-노 혼오 욘데 이마스",
+      "meaning": "여행 책을 읽고 있어요"
+    },
+    {
+      "jp": "来週東京へ行きます。",
+      "hira": "らいしゅう とうきょうへ いきます。",
+      "roma": "raishū Tōkyō e ikimasu",
+      "pron": "라이슈- 도쿄에 이키마스",
+      "meaning": "다음 주에 도쿄에 가요"
+    },
+    {
+      "jp": "電気がついています。",
+      "hira": "でんきが ついています。",
+      "roma": "denki ga tsuite imasu",
+      "pron": "덴키가 츠이테 이마스",
+      "meaning": "전기가 켜져 있어요"
+    },
+    {
+      "jp": "夜中には洗濯機を回さないでほしいです",
+      "hira": "よなかには せんたくきを まわさないで ほしいです",
+      "roma": "yonaka ni wa sentakuki o mawasanaide hoshii desu",
+      "pron": "요나카니와 센타쿠키오 마와사나이데 호시이데스",
+      "meaning": "한밤중에는 세탁기를 돌리지 않았으면 좋겠습니다"
+    },
+    {
+      "jp": "電気がついている",
+      "hira": "でんきが ついている",
+      "roma": "denki ga tsuite iru",
+      "pron": "덴키가 츠이테 이루",
+      "meaning": "전기가 켜져 있다"
+    },
+    {
+      "jp": "３０センチを超えると粗大ゴミです。",
+      "hira": "さんじゅっセンチを こえると そだいごみです",
+      "roma": "sanju ssenchi o koeru to sodai gomi desu",
+      "pron": "산쥬 센치오 코에루토 소다이 고미데스",
+      "meaning": "30cm를 넘으면 대형 쓰레기입니다"
+    },
+    {
+      "jp": "前回約束したのにまた忘れてしまいました",
+      "hira": "ぜんかい やくそくしたのに また わすれて しまいました",
+      "roma": "zenkai yakusoku shita noni mata wasurete shimaimashita",
+      "pron": "젠카이 야쿠소쿠 시타 노니 마타 와스레테 시마이마시타",
+      "meaning": "지난번에 약속했는데 또 잊어버렸습니다"
+    },
+    {
+      "jp": "窓を開けたまま寝てしまいました。",
+      "hira": "まどを あけたまま ねて しまいました",
+      "roma": "mado o aketa mama nete shimaimashita",
+      "pron": "마도오 아케타 마마 네테 시마이마시타",
+      "meaning": "창문을 열어 둔 채로 잠들어버렸습니다"
+    },
+    {
+      "jp": "これからはルールを守ってほしいです",
+      "hira": "これからは るーるを まもって ほしいです",
+      "roma": "korekara wa rūru o mamotte hoshii desu",
+      "pron": "코레카라와 루우루오 마못테 호시이데스",
+      "meaning": "앞으로는 규칙을 지켜줬으면 좋겠습니다"
+    },
+    {
+      "jp": "ジブリ美術館に行くつもりです。",
+      "hira": "じぶりびじゅつかんに いく つもりです",
+      "roma": "jiburi bijutsukan ni iku tsumori desu",
+      "pron": "지부리 비쥬츠칸니 이쿠 츠모리데스",
+      "meaning": "지브리 미술관에 갈 생각입니다"
+    },
+    {
+      "jp": "会ったら伝えてください。",
+      "hira": "あったら つたえて ください",
+      "roma": "attara tsutaete kudasai",
+      "pron": "앗따라 츠타에테 쿠다사이",
+      "meaning": "만나면 전해주세요"
+    },
+    {
+      "jp": "タクシーを拾ったら",
+      "hira": "たくしーを ひろったら",
+      "roma": "takushī o hirottara",
+      "pron": "타쿠시이오 히롯따라",
+      "meaning": "택시를 잡으면 / 택시를 얻으면"
+    },
+    {
+      "jp": "明日キムさんが来るかどうか分かりません。",
+      "hira": "あした きむさんが くるかどうか わかりません",
+      "roma": "ashita kimu-san ga kuru ka dōka wakarimasen",
+      "pron": "아시타 키무상가 쿠루카 도우카 와카리마센",
+      "meaning": "내일 김상이 올지 안 올지 모르겠어요"
+    },
+    {
+      "jp": "明日雨が降るかどうか分かりません。",
+      "hira": "あした あめが ふるかどうか わかりません",
+      "roma": "ashita ame ga furu ka dōka wakarimasen",
+      "pron": "아시타 아메가 후루카 도우카 와카리마센",
+      "meaning": "내일 비가 올지 안 올지 모르겠어요"
+    },
+    {
+      "jp": "タクシーをひろいます",
+      "hira": "たくしーをひろいます",
+      "roma": "takushii o hiroimasu",
+      "pron": "타쿠시 오 히로이마스",
+      "meaning": "택시를 잡습니다"
+    },
+    {
+      "jp": "タクシーをひろいたいです",
+      "hira": "たくしーをひろいたいです",
+      "roma": "takushii o hiroitai desu",
+      "pron": "타쿠시 오 히로이타이 데스",
+      "meaning": "택시를 잡고 싶어요"
+    },
+    {
+      "jp": "ここでタクシーをひろえますか",
+      "hira": "ここでたくしーをひろえますか",
+      "roma": "koko de takushii o hiroemasu ka",
+      "pron": "코코데 타쿠시 오 히로에마스까",
+      "meaning": "여기서 택시 잡을 수 있나요"
+    },
+    {
+      "jp": "東京へ行ったら何をするつもりですか",
+      "hira": "とうきょうへいったら なにをするつもりですか",
+      "roma": "tōkyō e ittara nani o suru tsumori desu ka",
+      "pron": "도쿄에 잇타라 나니오 스루 츠모리데스까",
+      "meaning": "도쿄에 가면 무엇을 할 예정인가요?"
+    },
+    {
+      "jp": "ジブリ美術館へ行くつもりです",
+      "hira": "じぶりびじゅつかんへ いくつもりです",
+      "roma": "jiburi bijutsukan e iku tsumori desu",
+      "pron": "지부리 비쥬츠칸에 이쿠 츠모리데스",
+      "meaning": "지브리 미술관에 갈 예정입니다"
+    },
+    {
+      "jp": "あったら伝えてください。",
+      "hira": "あったら つたえてください",
+      "roma": "attara tsutaete kudasai",
+      "pron": "앗타라 츠타에테 쿠다사이",
+      "meaning": "있으면 전해주세요 / 만나면 전해주세요"
+    },
+    {
+      "jp": "きれいだし、背も高いし、性格もいいです。",
+      "hira": "きれいだし、せもたかいし、せいかくもいいです",
+      "roma": "kirei dashi se mo takai shi seikaku mo ii desu",
+      "pron": "키레이 다시 세모 타카이 시 세이카쿠모 이이데스",
+      "meaning": "예쁘기도 하고 키도 크고 성격도 좋아요"
+    },
+    {
+      "jp": "キムさんが来るかどうかわかりません。",
+      "hira": "きむさんがくるかどうかわかりません",
+      "roma": "kimu-san ga kuru ka dōka wakarimasen",
+      "pron": "키무상가 쿠루카 도-카 와카리마센",
+      "meaning": "김 씨가 올지 안 올지 모르겠습니다"
+    },
+    {
+      "jp": "雨が降るかどうかわかりません。",
+      "hira": "あめがふるかどうかわかりません",
+      "roma": "ame ga furu ka dōka wakarimasen",
+      "pron": "아메가 후루카 도-카 와카리마센",
+      "meaning": "비가 올지 안 올지 모르겠습니다"
+    },
+    {
+      "jp": "明日カフェに行くつもりです。",
+      "hira": "あした かふぇに いくつもりです",
+      "roma": "ashita kafe ni iku tsumori desu",
+      "pron": "아시타 카페니 이쿠 츠모리데스",
+      "meaning": "내일 카페에 갈 예정입니다"
+    },
+    {
+      "jp": "そつぎょうしたら",
+      "hira": "そつぎょうしたら",
+      "roma": "sotsugyō shitara",
+      "pron": "소츠교- 시타라",
+      "meaning": "졸업하면"
+    },
+    {
+      "jp": "おじゃまします。",
+      "hira": "おじゃまします",
+      "roma": "ojama shimasu",
+      "pron": "오자마시마스",
+      "meaning": "실례합니다 / 폐를 끼치겠습니다"
+    },
+    {
+      "jp": "お口に合うかどうかわかりませんが。",
+      "hira": "おくちにあうかどうかわかりませんが",
+      "roma": "okuchi ni au ka dōka wakarimasen ga",
+      "pron": "오쿠치니 아우카 도-카 와카리마센가",
+      "meaning": "입맛에 맞을지 모르겠습니다만"
+    },
+    {
+      "jp": "おうちがきれいだし広いし、いいです。",
+      "hira": "おうちがきれいだし ひろいし、いいです",
+      "roma": "ouchi ga kirei dashi hiroi shi ii desu",
+      "pron": "오우치가 키레이 다시 히로이 시 이이데스",
+      "meaning": "집이 깨끗하기도 하고 넓어서 좋아요"
+    },
+    {
+      "jp": "おすすめのすしを聞いて食べました。",
+      "hira": "おすすめのすしをきいて たべました",
+      "roma": "osusume no sushi o kiite tabemashita",
+      "pron": "오스스메노 스시 오 키이테 타베마시타",
+      "meaning": "추천 스시를 물어보고 먹었습니다"
+    },
+    {
+      "jp": "スシ屋で",
+      "hira": "すしやで",
+      "roma": "sushi-ya de",
+      "pron": "스시야 데",
+      "meaning": "스시집에서"
+    },
+    {
+      "jp": "お口に合うかどうかわかりませんが、どうぞ。",
+      "hira": "おくちにあうかどうかわかりませんが どうぞ",
+      "roma": "okuchi ni au ka dōka wakarimasen ga dōzo",
+      "pron": "오쿠치니 아우카 도-카 와카리마센가 도-조",
+      "meaning": "입에 맞을지 모르겠지만 드세요"
+    },
+    {
+      "jp": "召し上がる",
+      "hira": "めしあがる",
+      "roma": "meshiagaru",
+      "pron": "메시아가루",
+      "meaning": "드시다"
+    },
+    {
+      "jp": "召し上がってください。",
+      "hira": "めしあがってください",
+      "roma": "meshiagatte kudasai",
+      "pron": "메시아갓테 쿠다사이",
+      "meaning": "드세요"
+    },
+    {
+      "jp": "일본 요리",
+      "hira": "日本料理",
+      "roma": "にほんりょうり",
+      "pron": "nihon ryōri",
+      "meaning": "조금 더 격식 있는 표현"
+    },
+    {
+      "jp": "일식(요리 장르)",
+      "hira": "和風料理",
+      "roma": "わふうりょうり",
+      "pron": "wafū ryōri",
+      "meaning": "일본풍 요리"
+    },
+    {
+      "jp": "洗濯機を回したり掃除をしたり家事をしました。",
+      "hira": "せんたくきを まわしたり そうじを したり かじを しました。",
+      "roma": "sentakuki o mawashitari sōji o shitari kaji o shimashita",
+      "pron": "센타쿠키오 마와시타리 소오지오 시타리 카지오 시마시타",
+      "meaning": "세탁기를 돌리기도 하고 청소도 하면서 집안일을 했습니다"
+    },
+    {
+      "jp": "あがってください。",
+      "hira": "あがってください。",
+      "roma": "agatte kudasai",
+      "pron": "아갓테 쿠다사이",
+      "meaning": "(집에) 들어오세요 / 올라오세요"
+    },
+    {
+      "jp": "お口にあうかどうかわかりませんが、どうぞ召し上がってください。",
+      "hira": "おくちに あうか どうか わかりませんが、どうぞ めしあがって ください。",
+      "roma": "okuchi ni au ka dōka wakarimasen ga, dōzo meshiagatte kudasai",
+      "pron": "오쿠치니 아우카 도오카 와카리마센가 도오조 메시아갓테 쿠다사이",
+      "meaning": "입에 맞을지 모르겠지만 부디 드셔 주세요"
+    },
+    {
+      "jp": "お庭もきれいだし、リビングも広いし、素敵なおうちですね。",
+      "hira": "おにわも きれいだし、りびんぐも ひろいし、すてきな おうちですね。",
+      "roma": "oni wa mo kirei dashi, ribingu mo hiroi shi, suteki na ouchi desu ne",
+      "pron": "오니와모 키레이 다시 리빙구모 히로이시 스테키나 오우치데스네",
+      "meaning": "정원도 예쁘고 거실도 넓고 멋진 집이네요"
+    },
+    {
+      "jp": "少し狭いので、娘が小学校を卒業したら引っ越すつもりです。",
+      "hira": "すこし せまいので、むすめが しょうがっこうを そつぎょうしたら ひっこす つもりです。",
+      "roma": "sukoshi semai node, musume ga shōgakkō o sotsugyō shitara hikkosu tsumori desu",
+      "pron": "스코시 세마이노데 무스메가 쇼오각코오오 소츠교오시타라 힛코스 츠모리데스",
+      "meaning": "조금 좁아서 딸이 초등학교를 졸업하면 이사할 생각입니다"
+    },
+    {
+      "jp": "五時半に帰ってきました。",
+      "hira": "ごじはんにかえってきました",
+      "roma": "goji-han ni kaette kimashita",
+      "pron": "고지한 니 카엣테 키마시타",
+      "meaning": "5시 반에 돌아왔어요"
+    },
+    {
+      "jp": "いらっしゃい。",
+      "hira": "いらっしゃい",
+      "roma": "irasshai",
+      "pron": "이랏샤이",
+      "meaning": "어서 오세요"
+    },
+    {
+      "jp": "どうぞ、上がってください。",
+      "hira": "どうぞ、あがってください",
+      "roma": "dōzo, agatte kudasai",
+      "pron": "도오조 아갓테 쿠다사이",
+      "meaning": "들어오세요"
+    },
+    {
+      "jp": "お邪魔します。",
+      "hira": "おじゃまします",
+      "roma": "ojama shimasu",
+      "pron": "오자마 시마스",
+      "meaning": "실례하겠습니다"
+    },
+    {
+      "jp": "これ、韓国のノリです。",
+      "hira": "これ、かんこくののりです",
+      "roma": "kore, kankoku no nori desu",
+      "pron": "코레 칸코쿠 노 노리 데스",
+      "meaning": "이거 한국 김이에요"
+    },
+    {
+      "jp": "一緒に行くといいですが。",
+      "hira": "いっしょにいくといいですが",
+      "roma": "issho ni iku to ii desu ga",
+      "pron": "잇쇼니 이쿠 토 이이데스가",
+      "meaning": "같이 가면 좋겠지만…"
+    },
+    {
+      "jp": "忙しくもないし、仕事も多くないし。",
+      "hira": "いそがしくもないし、しごとも おおくないし",
+      "roma": "isogashiku mo nai shi shigoto mo ōku nai shi",
+      "pron": "이소가시쿠모 나이시 시고토모 오오쿠 나이시",
+      "meaning": "바쁘지도 않고 일도 많지 않고"
+    },
+    {
+      "jp": "お茶を入れてきますので",
+      "hira": "おちゃをいれてきますので",
+      "roma": "ocha o irete kimasu node",
+      "pron": "오차오 이레테 키마스 노데",
+      "meaning": "차를 타 오겠습니다만 / 차를 준비해 올게요 그래서"
+    },
+    {
+      "jp": "忙しくないし、仕事も多くないし",
+      "hira": "いそがしくないし、しごともおおくないし",
+      "roma": "isogashikunai shi shigoto mo ookunai shi",
+      "pron": "이소가시쿠 나이 시 시고토모 오오쿠 나이 시",
+      "meaning": "바쁘지도 않고 일도 많지 않고"
+    },
+    {
+      "jp": "行けるかどうかよくわかりません",
+      "hira": "いけるかどうかよくわかりません",
+      "roma": "ikeru ka douka yoku wakarimasen",
+      "pron": "이케루카 도오카 요쿠 와카리마센",
+      "meaning": "갈 수 있을지 없을지 잘 모르겠습니다"
+    },
+    {
+      "jp": "先々週結婚式へ行きました。",
+      "hira": "せんせんしゅうけっこんしきへいきました",
+      "roma": "sensenshuu kekkonshiki e ikimashita",
+      "pron": "센센슈- 켁콘시키 에 이키마시타",
+      "meaning": "지지난주에 결혼식에 갔습니다"
+    },
+    {
+      "jp": "会社の同僚たちが多かったんですね。",
+      "hira": "かいしゃのどうりょうたちがおおかったんですね",
+      "roma": "kaisha no douryou-tachi ga ookatta n desu ne",
+      "pron": "카이샤노 도-료-타치가 오-캇탄데스네",
+      "meaning": "회사 동료들이 많았군요"
+    },
+    {
+      "jp": "一度行ったことがあります。",
+      "hira": "いちどいったことがあります",
+      "roma": "ichido itta koto ga arimasu",
+      "pron": "이치도 잇타 코토가 아리마스",
+      "meaning": "한 번 가 본 적이 있습니다"
+    },
+    {
+      "jp": "このバスは一日一回来ます。",
+      "hira": "このばすはいちにちいっかいきます",
+      "roma": "kono basu wa ichinichi ikkai kimasu",
+      "pron": "코노 바스와 이치니치 잇카이 키마스",
+      "meaning": "이 버스는 하루에 한 번 옵니다"
+    },
+    {
+      "jp": "どうぞ召し上がってください。",
+      "hira": "どうぞめしあがってください",
+      "roma": "douzo meshiagatte kudasai",
+      "pron": "도-조 메시아갓테 쿠다사이",
+      "meaning": "드세요 / 맛있게 드세요"
+    },
+    {
+      "jp": "家庭料理を一度食べてみたかったです。",
+      "hira": "かていりょうりをいちどたべてみたかったです",
+      "roma": "katei ryouri o ichido tabete mitakatta desu",
+      "pron": "카테이료-리오 이치도 타베테 미타캇타 데스",
+      "meaning": "가정요리를 한 번 먹어보고 싶었습니다"
+    },
+    {
+      "jp": "ごちそうさまでした。",
+      "hira": "ごちそうさまでした",
+      "roma": "gochisousama deshita",
+      "pron": "고치소-사마 데시타",
+      "meaning": "잘 먹었습니다"
+    },
+    {
+      "jp": "テーブルの上に置いたまま食べます。",
+      "hira": "てーぶるのうえにおいたままたべます",
+      "roma": "teeburu no ue ni oita mama tabemasu",
+      "pron": "테-부루노 우에니 오이타 마마 타베마스",
+      "meaning": "테이블 위에 둔 채로 먹어요"
+    },
+    {
+      "jp": "日本の焼き鳥を食べてみたいです。",
+      "hira": "にほんの やきとりを たべてみたいです",
+      "roma": "nihon no yakitori o tabete mitai desu",
+      "pron": "니혼노 야키토리오 타베테 미타이데스",
+      "meaning": "일본의 야키토리를 먹어보고 싶어요"
+    },
+    {
+      "jp": "ほとんど食べません。",
+      "hira": "ほとんど たべません",
+      "roma": "hotondo tabemasen",
+      "pron": "호톤도 타베마센",
+      "meaning": "거의 먹지 않습니다"
+    },
+    {
+      "jp": "器を手に取って食べません。",
+      "hira": "うつわを てに とって たべません",
+      "roma": "utsuwa o te ni totte tabemasen",
+      "pron": "우츠와오 테니 톳테 타베마센",
+      "meaning": "그릇을 손에 들고 먹지 않습니다"
+    },
+    {
+      "jp": "一本しか飲めません。",
+      "hira": "いっぽん しか のめません",
+      "roma": "ippon shika nomemasen",
+      "pron": "잇폰 시카 노메마센",
+      "meaning": "한 병밖에 마실 수 없어요"
+    },
+    {
+      "jp": "二、三杯しか飲めないです。",
+      "hira": "にさんばい しか のめないです",
+      "roma": "nisanbai shika nomenai desu",
+      "pron": "",
+      "meaning": "2~3잔밖에 못 마셔요"
+    },
+    {
+      "jp": "ビールは四、五杯です。",
+      "hira": "びーるは よんごはい です",
+      "roma": "biiru wa yongo-hai desu",
+      "pron": "",
+      "meaning": "맥주는 4~5잔이에요"
+    },
+    {
+      "jp": "忙しくて電話をかけられません。",
+      "hira": "いそがしくて でんわを かけられません",
+      "roma": "isogashikute denwa o kakeraremasen",
+      "pron": "이소가시쿠테 덴와오 카케라레마센",
+      "meaning": "바빠서 전화를 걸 수 없어요"
+    },
+    {
+      "jp": "高かったら買わないでください。",
+      "hira": "たかかったら かわないで ください",
+      "roma": "takakattara kawanai de kudasai",
+      "pron": "타카캇타라 카와나이데 쿠다사이",
+      "meaning": "비싸면 사지 마세요"
+    },
+    {
+      "jp": "月曜日にポハンへ行きます。",
+      "hira": "げつようびに ぽはん へ いきます。",
+      "roma": "getsuyōbi ni Pohang e ikimasu",
+      "pron": "게츠요-비니 포항에 이키마스",
+      "meaning": "월요일에 포항에 갑니다"
+    },
+    {
+      "jp": "来週連休ですから早く食べなければなりません。",
+      "hira": "らいしゅう れんきゅう ですから はやく たべなければ なりません。",
+      "roma": "raishū renkyū desu kara hayaku tabenakereba narimasen",
+      "pron": "라이슈- 렌큐- 데스카라 하야쿠 타베나케레바 나리마셍",
+      "meaning": "다음 주는 연휴이기 때문에 빨리 먹어야 합니다"
+    },
+    {
+      "jp": "親に会ったほうがいいです。",
+      "hira": "おや に あった ほう が いい です。",
+      "roma": "oya ni atta hō ga ii desu",
+      "pron": "오야 니 앗타 호- 가 이이 데스",
+      "meaning": "부모님을 만나는 게 좋습니다"
+    },
+    {
+      "jp": "二、三杯しか飲めません。",
+      "hira": "に、さんばい しか のめません。",
+      "roma": "ni, sanbai shika nomemasen",
+      "pron": "니 산바이 시카 노메마셍",
+      "meaning": "두세 잔밖에 마실 수 없습니다"
+    },
+    {
+      "jp": "おかわりどうですか。",
+      "hira": "おかわり どう ですか。",
+      "roma": "okawari dō desu ka",
+      "pron": "오카와리 도- 데스카",
+      "meaning": "더 드실래요? / 리필 어떠세요?"
+    },
+    {
+      "jp": "おいしくて箸が止まらないです。",
+      "hira": "おいしくて はし が とまらない です。",
+      "roma": "oishikute hashi ga tomaranai desu",
+      "pron": "오이시쿠테 하시 가 토마라나이 데스",
+      "meaning": "맛있어서 젓가락이 멈추지 않아요"
+    },
+    {
+      "jp": "忙しくてかけられないです。",
+      "hira": "いそがしくて かけられない です。",
+      "roma": "isogashikute kakerarenai desu",
+      "pron": "이소가시쿠테 카케라레나이 데스",
+      "meaning": "바빠서 걸 수 없습니다"
+    },
+    {
+      "jp": "おかわり自由",
+      "hira": "おかわり じゆう",
+      "roma": "okawari jiyū",
+      "pron": "오카와리 지유-",
+      "meaning": "리필 자유 / 무한 리필"
+    },
+    {
+      "jp": "妹も結婚しました。",
+      "hira": "いもうと も けっこん しました",
+      "roma": "imōto mo kekkon shimashita",
+      "pron": "이모-토 모 켁콘 시마시타",
+      "meaning": "여동생도 결혼했어요"
+    },
+    {
+      "jp": "両方のご両親はお元気でしょうか。",
+      "hira": "りょうほうの ごりょうしん は おげんき でしょうか",
+      "roma": "ryōhō no goryōshin wa ogenki deshō ka",
+      "pron": "료-호-노 고료-신 와 오겐키 데쇼-카",
+      "meaning": "양쪽 부모님은 건강하신가요?"
+    },
+    {
+      "jp": "二人兄弟",
+      "hira": "ふたりきょうだい",
+      "roma": "futari kyōdai",
+      "pron": "후타리 쿄-다이",
+      "meaning": "형제가 두 명"
+    },
+    {
+      "jp": "三時間半かかりました。",
+      "hira": "さんじかんはん かかりました",
+      "roma": "sanjikan han kakarimashita",
+      "pron": "산지칸 한 카카리마시타",
+      "meaning": "세 시간 반 걸렸습니다"
+    },
+    {
+      "jp": "午前一時に帰りましたが木曜日から出勤でした。",
+      "hira": "ごぜんいちじ に かえりました が もくようび から しゅっきん でした",
+      "roma": "gozen ichiji ni kaerimashita ga mokuyōbi kara shukkin deshita",
+      "pron": "고젠 이치지 니 카에리마시타 가 모쿠요-비 카라 슛킨 데시타",
+      "meaning": "오전 1시에 돌아왔지만 목요일부터 출근이었습니다"
+    },
+    {
+      "jp": "妹が一人います。",
+      "hira": "いもうと が ひとり います",
+      "roma": "imōto ga hitori imasu",
+      "pron": "이모-토 가 히토리 이마스",
+      "meaning": "여동생이 한 명 있습니다"
+    },
+    {
+      "jp": "何人兄弟ですか。",
+      "hira": "なんにん きょうだい ですか",
+      "roma": "nannin kyōdai desu ka",
+      "pron": "난닌 쿄-다이 데스카",
+      "meaning": "형제자매가 몇 명입니까?"
+    },
+    {
+      "jp": "一人だけです。",
+      "hira": "ひとり だけ です",
+      "roma": "hitori dake desu",
+      "pron": "히토리 다케 데스",
+      "meaning": "한 명뿐입니다"
+    },
+    {
+      "jp": "結婚しました。",
+      "hira": "けっこん しました",
+      "roma": "kekkon shimashita",
+      "pron": "켓콘 시마시타",
+      "meaning": "결혼했습니다 (과거에 결혼했다는 사실)"
+    },
+    {
+      "jp": "結婚しています。",
+      "hira": "けっこん しています",
+      "roma": "kekkon shite imasu",
+      "pron": "켓콘 시테 이마스",
+      "meaning": "결혼한 상태입니다 (현재 기혼 상태)"
+    },
+    {
+      "jp": "明日来られるかどうか聞いてみます。",
+      "hira": "あした こられる か どうか きいて みます",
+      "roma": "ashita korareru ka dō ka kiite mimasu",
+      "pron": "아시타 코라레루 카 도-카 키이테 미마스",
+      "meaning": "내일 올 수 있는지 어떤지 물어보겠습니다"
+    },
+    {
+      "jp": "キムさんに会えるかどうかよくわかりません。",
+      "hira": "きむさん に あえる か どうか よく わかりません",
+      "roma": "kimu-san ni aeru ka dō ka yoku wakarimasen",
+      "pron": "키무상 니 아에루 카 도-카 요쿠 와카리마센",
+      "meaning": "김상(김 씨)을 만날 수 있을지 없을지 잘 모르겠습니다"
+    },
+    {
+      "jp": "結婚するつもりです。",
+      "hira": "けっこん する つもり です",
+      "roma": "kekkon suru tsumori desu",
+      "pron": "켓콘 스루 츠모리 데스",
+      "meaning": "결혼할 생각입니다 / 결혼할 예정입니다"
+    },
+    {
+      "jp": "髪も切るつもりです。",
+      "hira": "かみ も きる つもり です",
+      "roma": "kami mo kiru tsumori desu",
+      "pron": "카미 모 키루 츠모리 데스",
+      "meaning": "머리도 자를 생각입니다"
+    },
+    {
+      "jp": "美容室に行く予定です。",
+      "hira": "びようしつ に いく よてい です",
+      "roma": "biyōshitsu ni iku yotei desu",
+      "pron": "비요-시츠 니 이쿠 요테이 데스",
+      "meaning": "미용실에 갈 예정입니다"
+    },
+    {
+      "jp": "田舎で暮らすつもりです。",
+      "hira": "いなかで くらす つもりです。",
+      "roma": "inaka de kurasu tsumori desu",
+      "pron": "이나카데 쿠라스 츠모리데스",
+      "meaning": "시골에서 살 예정입니다"
+    },
+    {
+      "jp": "持ち帰り用のパスタとサラダを食べました。",
+      "hira": "もちかえりよう の パスタ と サラダ を たべました。",
+      "roma": "mochikaeri you no pasuta to sarada o tabemashita",
+      "pron": "모치카에리요-노 파스타토 사라다오 타베마시타",
+      "meaning": "포장용 파스타와 샐러드를 먹었습니다"
+    },
+    {
+      "jp": "めんどくさいですね。",
+      "hira": "めんどくさい です ね。",
+      "roma": "mendokusai desu ne",
+      "pron": "멘도쿠사이 데스네",
+      "meaning": "귀찮네요"
+    },
+    {
+      "jp": "宿題が面倒くさいです。",
+      "hira": "しゅくだいがめんどうくさいです",
+      "roma": "shukudai ga mendōkusai desu",
+      "pron": "슈쿠다이가 멘도오쿠사이 데스",
+      "meaning": "숙제가 귀찮아요"
+    },
+    {
+      "jp": "面倒くさい",
+      "hira": "めんどうくさい",
+      "roma": "mendōkusai",
+      "pron": "멘도오쿠사이",
+      "meaning": "귀찮다"
+    },
+    {
+      "jp": "持ち帰り用パスタとサラダを食べました",
+      "hira": "もちかえりようぱすたとさらだをたべました",
+      "roma": "mochikaeri yō pasuta to sarada o tabemashita",
+      "pron": "모치카에리 요오 파스타토 사라다오 타베마시타",
+      "meaning": "포장용 파스타와 샐러드를 먹었습니다"
+    },
+    {
+      "jp": "女の人は韓国のお茶を上げました",
+      "hira": "おんなのひとはかんこくのおちゃをあげました",
+      "roma": "onna no hito wa kankoku no ocha o agemashita",
+      "pron": "온나노 히토와 칸코쿠노 오차오 아게마시타",
+      "meaning": "여자는 한국 차를 주었습니다"
+    },
+    {
+      "jp": "男の人は家が駅から遠くて引っ越すつもりです。",
+      "hira": "おとこのひとはいえがえきからとおくてひっこすつもりです",
+      "roma": "otoko no hito wa ie ga eki kara tōkute hikkosu tsumori desu",
+      "pron": "오토코노 히토와 이에가 에키카라 토오쿠테 힛코스 츠모리데스",
+      "meaning": "남자는 집이 역에서 멀어서 이사할 예정입니다"
+    },
+    {
+      "jp": "二つ持ってきました",
+      "hira": "ふたつもってきました",
+      "roma": "futatsu motte kimashita",
+      "pron": "후타츠 못테 키마시타",
+      "meaning": "두 개 가져왔습니다"
+    },
+    {
+      "jp": "韓国は縦で日本は横です。",
+      "hira": "かんこくはたてでにほんはよこです",
+      "roma": "kankoku wa tate de nihon wa yoko desu",
+      "pron": "칸코쿠와 타테 데 니혼와 요코 데스",
+      "meaning": "한국은 세로이고 일본은 가로입니다"
+    },
+    {
+      "jp": "お箸の方向が違います。",
+      "hira": "おはしのほうこうがちがいます",
+      "roma": "ohashi no hōkō ga chigaimasu",
+      "pron": "오하시노 호-코-가 치가이마스",
+      "meaning": "젓가락의 방향이 다릅니다"
+    },
+    {
+      "jp": "韓国では食事の時器をどうやって食べますか。",
+      "hira": "かんこくではしょくじのときうつわをどうやってたべますか",
+      "roma": "kankoku dewa shokuji no toki utsuwa o dōyatte tabemasu ka",
+      "pron": "칸코쿠데와 쇼쿠지노 토키 우츠와오 도얏테 타베마스카",
+      "meaning": "한국에서는 식사할 때 그릇을 어떻게 먹습니까"
+    },
+    {
+      "jp": "器をテーブルの上に置いたまま食べます。",
+      "hira": "うつわをテーブルのうえにおいたままたべます",
+      "roma": "utsuwa o tēburu no ue ni oita mama tabemasu",
+      "pron": "우츠와오 테에부루노 우에니 오이타 마마 타베마스",
+      "meaning": "그릇을 테이블 위에 둔 채로 먹습니다"
+    },
+    {
+      "jp": "雨が降っていますね。",
+      "hira": "あめがふっていますね",
+      "roma": "ame ga futte imasu ne",
+      "pron": "아메가 훗테 이마스네",
+      "meaning": "비가 오네요"
+    },
+    {
+      "jp": "先週は暑かったですが、今週は寒いです。",
+      "hira": "せんしゅうはあつかったですが こんしゅうはさむいです",
+      "roma": "senshū wa atsukatta desu ga konshū wa samui desu",
+      "pron": "센슈와 아츠캇타데스가 콘슈와 사무이데스",
+      "meaning": "지난주는 더웠지만 이번주는 춥습니다"
+    },
+    {
+      "jp": "先週は暑かったのに、今週は寒いですね。",
+      "hira": "せんしゅうはあつかったのに こんしゅうはさむいですね",
+      "roma": "",
+      "pron": "",
+      "meaning": "지난주는 더웠는데 이번주는 춥네요"
+    },
+    {
+      "jp": "お茶を入れてきますから、中へどうぞ。",
+      "hira": "おちゃをいれてきますから なかへどうぞ",
+      "roma": "ocha o irete kimasu kara naka e dōzo",
+      "pron": "오차오 이레테 키마스카라 나카에 도오조",
+      "meaning": "차를 준비해 올 테니 안으로 들어오세요"
+    },
+    {
+      "jp": "お茶を入れてきますから。",
+      "hira": "おちゃをいれてきますから。",
+      "roma": "ocha o irete kimasu kara",
+      "pron": "오챠오 이레테 키마스 카라",
+      "meaning": "차를 타서 가져올게요. / 차를 준비해 올 테니까요."
+    },
+    {
+      "jp": "ここはきれいな花が飾ってあります。",
+      "hira": "ここはきれいなはながかざってあります。",
+      "roma": "koko wa kirei na hana ga kazatte arimasu",
+      "pron": "코코와 키레이나 하나가 카잣테 아리마스",
+      "meaning": "여기에는 예쁜 꽃이 장식되어 있습니다"
+    },
+    {
+      "jp": "箸の方向が違います。",
+      "hira": "はしのほうこうがちがいます。",
+      "roma": "hashi no houkou ga chigaimasu",
+      "pron": "하시노 호-코-가 치가이마스",
+      "meaning": "젓가락의 방향이 다릅니다"
+    },
+    {
+      "jp": "韓国は縦で、日本は横です。",
+      "hira": "かんこくはたてで、にほんはよこです。",
+      "roma": "kankoku wa tate de, nihon wa yoko desu",
+      "pron": "칸코쿠와 타테데 니혼와 요코 데스",
+      "meaning": "한국은 세로이고 일본은 가로입니다"
+    },
+    {
+      "jp": "道はちゃんと説明してあげました。",
+      "hira": "みちはちゃんとせつめいしてあげました",
+      "roma": "michi wa chanto setsumei shite agemashita",
+      "pron": "미치와 챤토 세츠메이 시테 아게마시타",
+      "meaning": "길을 제대로 설명해 주었습니다"
+    },
+    {
+      "jp": "隣に迷惑をかけてはいけません。",
+      "hira": "となりにめいわくをかけてはいけません",
+      "roma": "tonari ni meiwaku o kakete wa ikemasen",
+      "pron": "토나리니 메이와쿠오 카케테와 이케마센",
+      "meaning": "이웃에게 폐를 끼치면 안 됩니다"
+    },
+    {
+      "jp": "健康のためには食べすぎないようにしましょう。",
+      "hira": "けんこうのためにはたべすぎないようにしましょう",
+      "roma": "kenkou no tame ni wa tabesuginai you ni shimashou",
+      "pron": "켄코노 타메니와 타베스기나이 요우니 시마쇼",
+      "meaning": "건강을 위해 너무 많이 먹지 않도록 합시다"
+    },
+    {
+      "jp": "日本語が話せますか。",
+      "hira": "にほんごがはなせますか",
+      "roma": "nihongo ga hanasemasu ka",
+      "pron": "니혼고가 하나세마스카",
+      "meaning": "일본어를 말할 수 있습니까"
+    },
+    {
+      "jp": "金曜日は行けません。",
+      "hira": "きんようびはいけません",
+      "roma": "kinyoubi wa ikemasen",
+      "pron": "킨요오비와 이케마센",
+      "meaning": "금요일은 갈 수 없습니다"
+    },
+    {
+      "jp": "パクさんは漢字が書けれます。",
+      "hira": "ぱくさんはかんじがかけれます",
+      "roma": "pakusan wa kanji ga kakeremasu",
+      "pron": "파쿠상와 칸지가 카케레마스",
+      "meaning": "박 씨는 한자를 쓸 수 있습니다"
+    },
+    {
+      "jp": "お父さんはお酒が飲めません。",
+      "hira": "おとうさんはおさけがのめません",
+      "roma": "otousan wa osake ga nomemasen",
+      "pron": "오토상와 오사케가 노메마센",
+      "meaning": "아버지는 술을 마실 수 없습니다"
+    },
+    {
+      "jp": "週末に食べて残った",
+      "hira": "しゅうまつにたべてのこった",
+      "roma": "shuumatsu ni tabete nokotta",
+      "pron": "슈우마츠니 타베테 노콧타",
+      "meaning": "주말에 먹고 남은"
+    },
+    {
+      "jp": "宝くじに当たる",
+      "hira": "たからくじにあたる",
+      "roma": "takarakuji ni ataru",
+      "pron": "타카라쿠지니 아타루",
+      "meaning": "복권에 당첨되다"
+    },
+    {
+      "jp": "ここはテレビでも紹介されました。",
+      "hira": "ここはてれびでもしょうかいされました",
+      "roma": "koko wa terebi demo shoukai saremashita",
+      "pron": "코코와 테레비데모 쇼오카이 사레마시타",
+      "meaning": "이곳은 TV에서도 소개되었습니다"
+    },
+    {
+      "jp": "電車の中で足をふまれました。",
+      "hira": "でんしゃのなかであしをふまれました",
+      "roma": "densha no naka de ashi o fumaremashita",
+      "pron": "덴샤노 나카데 아시오 후마레마시타",
+      "meaning": "전철 안에서 발을 밟혔습니다"
+    },
+    {
+      "jp": "ヤンさんは7時までには来られます。",
+      "hira": "やんさんはしちじまでにはこられます",
+      "roma": "yan san wa shichiji made ni wa koraremasu",
+      "pron": "얀상와 시치지마데니와 코라레마스",
+      "meaning": "양 씨는 7시까지는 올 수 있습니다"
+    },
+    {
+      "jp": "ヤンさんはいつもお母さんにほめられます。",
+      "hira": "やんさんはいつもおかあさんにほめられます",
+      "roma": "yan san wa itsumo okaasan ni homeraremasu",
+      "pron": "얀상와 이츠모 오카아상니 호메라레마스",
+      "meaning": "양 씨는 항상 어머니에게 칭찬을 받습니다"
+    },
+    {
+      "jp": "風が強かった。",
+      "hira": "かぜがつよかった",
+      "roma": "kaze ga tsuyokatta",
+      "pron": "카제가 츠요캇타",
+      "meaning": "바람이 강했다 / 바람이 세게 불었다"
+    },
+    {
+      "jp": "午前に天気がいいので",
+      "hira": "ごぜんにてんきがいいので",
+      "roma": "gozen ni tenki ga ii node",
+      "pron": "고젠니 텐키가 이이 노데",
+      "meaning": "오전에 날씨가 좋아서"
+    },
+    {
+      "jp": "天気が良かったので",
+      "hira": "てんきがよかったので",
+      "roma": "tenki ga yokatta node",
+      "pron": "텐키가 요캇타 노데",
+      "meaning": "날씨가 좋았기 때문에 / 날씨가 좋아서"
+    },
+    {
+      "jp": "踏まれました。",
+      "hira": "ふまれました",
+      "roma": "fumaremashita",
+      "pron": "후마레마시타",
+      "meaning": "밟혔습니다"
+    },
+    {
+      "jp": "来られます。",
+      "hira": "こられます",
+      "roma": "koraremasu",
+      "pron": "코라레마스",
+      "meaning": "올 수 있습니다 / 오십니다"
+    },
+    {
+      "jp": "褒められます。",
+      "hira": "ほめられます",
+      "roma": "homeraremasu",
+      "pron": "호메라레마스",
+      "meaning": "칭찬받습니다"
+    },
+    {
+      "jp": "休まないで",
+      "hira": "やすまないで",
+      "roma": "yasumanaide",
+      "pron": "야스마나이데",
+      "meaning": "쉬지 말고 / 쉬지 않고"
+    },
+    {
+      "jp": "親戚の結婚式に参加しました。",
+      "hira": "しんせき の けっこんしき に さんか しました",
+      "roma": "shinseki no kekkonshiki ni sanka shimashita",
+      "pron": "신세키노 켁콘시키니 산카 시마시타",
+      "meaning": "친척의 결혼식에 참석했습니다"
+    },
+    {
+      "jp": "薬を飲むと少し眠くなります",
+      "hira": "くすり を のむ と すこし ねむく なります",
+      "roma": "kusuri o nomu to sukoshi nemuku narimasu",
+      "pron": "쿠스리오 노무토 스코시 네무쿠 나리마스",
+      "meaning": "약을 먹으면 조금 졸려집니다"
+    },
+    {
+      "jp": "パクさんは 日本語のテストのために努力したのに失敗してしまいました。",
+      "hira": "パクさん は にほんご の テスト の ため に どりょく した のに しっぱい して しまいました",
+      "roma": "paku-san wa nihongo no tesuto no tame ni doryoku shita noni shippai shite shimaimashita",
+      "pron": "파쿠상와 니혼고노 테스토노 타메니 도료쿠 시타노니 싯파이 시테 시마이마시타",
+      "meaning": "박 씨는 일본어 시험을 위해 노력했는데 실패해버렸습니다"
+    },
+    {
+      "jp": "今日は遅く退勤したので食べませんでした。",
+      "hira": "きょう は おそく たいきん した ので たべませんでした",
+      "roma": "kyou wa osoku taikin shita node tabemasen deshita",
+      "pron": "쿄우와 오소쿠 타이킨 시타노데 타베마센데시타",
+      "meaning": "오늘은 늦게 퇴근해서 먹지 않았어요"
+    },
+    {
+      "jp": "夜遅く洗濯機を回さないでほしいです。",
+      "hira": "よる おそく せんたくき を まわさないで ほしいです",
+      "roma": "yoru osoku sentakuki o mawasanaide hoshii desu",
+      "pron": "요루 오소쿠 센타쿠키오 마와사나이데 호시이데스",
+      "meaning": "밤늦게 세탁기 돌리지 않았으면 좋겠어요"
+    },
+    {
+      "jp": "仕事が遅く終わりました。",
+      "hira": "しごとがおそくおわりました",
+      "roma": "shigoto ga osoku owarimashita",
+      "pron": "시고토가 오소쿠 오와리마시타",
+      "meaning": "일이 늦게 끝났어요"
+    },
+    {
+      "jp": "掃除が上手だから",
+      "hira": "そうじがじょうずだから",
+      "roma": "souji ga jouzu dakara",
+      "pron": "소-지가 조-즈 다카라",
+      "meaning": "청소를 잘하기 때문에"
+    },
+    {
+      "jp": "お色直し",
+      "hira": "おいろなおし",
+      "roma": "oironaoshi",
+      "pron": "오이로나오시",
+      "meaning": "(결혼식에서) 의상 갈아입기"
+    },
+    {
+      "jp": "ご愁傷さまです",
+      "hira": "ごしゅうしょうさまです",
+      "roma": "goshūshō sama desu",
+      "pron": "고슈쇼- 사마 데스",
+      "meaning": "(장례 상황에서) 삼가 고인의 명복을 빕니다 / 애도를 표합니다"
+    },
+    {
+      "jp": "仕事が遅く終わりました",
+      "hira": "しごとがおそくおわりました",
+      "roma": "shigoto ga osoku owarimashita",
+      "pron": "시고토가 오소쿠 오와리마시타",
+      "meaning": "일이 늦게 끝났습니다"
+    },
+    {
+      "jp": "勉強時間を替えました",
+      "hira": "べんきょうじかんをかえました",
+      "roma": "benkyou jikan o kaemashita",
+      "pron": "벤쿄- 지칸오 카에마시타",
+      "meaning": "공부 시간을 바꿨습니다"
+    },
+    {
+      "jp": "トマトも出るんですか",
+      "hira": "トマトもでるんですか",
+      "roma": "tomato mo deru n desu ka",
+      "pron": "토마토모 데룬데스카",
+      "meaning": "토마토도 나오나요?"
+    },
+    {
+      "jp": "持ってきたトマトがありました",
+      "hira": "もってきたトマトがありました",
+      "roma": "motte kita tomato ga arimashita",
+      "pron": "못테 키타 토마토가 아리마시타",
+      "meaning": "가져온 토마토가 있었습니다"
+    },
+    {
+      "jp": "パスタは簡単です",
+      "hira": "パスタはかんたんです",
+      "roma": "pasuta wa kantan desu",
+      "pron": "파스타와 칸탄 데스",
+      "meaning": "파스타는 간단합니다"
+    },
+    {
+      "jp": "みたいです",
+      "hira": "みたいです",
+      "roma": "mitai desu",
+      "pron": "미타이 데스",
+      "meaning": "~인 것 같아요"
+    },
+    {
+      "jp": "お書きください",
+      "hira": "おかきください",
+      "roma": "okaki kudasai",
+      "pron": "오카키 쿠다사이",
+      "meaning": "써 주세요 (공손)"
+    },
+    {
+      "jp": "お送りします",
+      "hira": "おおくりします",
+      "roma": "ookuri shimasu",
+      "pron": "오오쿠리 시마스",
+      "meaning": "보내겠습니다"
+    },
+    {
+      "jp": "金曜日なので寿司を食べました",
+      "hira": "きんようびなので すしをたべました",
+      "roma": "kinyoubi na node sushi o tabemashita",
+      "pron": "킨요-비 나노데 스시오 타베마시타",
+      "meaning": "금요일이라 초밥을 먹었습니다"
+    },
+    {
+      "jp": "和気あいあい",
+      "hira": "わきあいあい",
+      "roma": "waki aiai",
+      "pron": "와키 아이아이",
+      "meaning": "화기애애한 분위기"
+    },
+    {
+      "jp": "正月の休み",
+      "hira": "しょうがつのやすみ",
+      "roma": "shougatsu no yasumi",
+      "pron": "쇼-가츠노 야스미",
+      "meaning": "설날 연휴 / 신정 연휴"
+    },
+    {
+      "jp": "二人兄弟です",
+      "hira": "ふたりきょうだいです",
+      "roma": "futari kyoudai desu",
+      "pron": "후타리 쿄-다이 데스",
+      "meaning": "두 형제입니다"
+    },
+    {
+      "jp": "お読みします",
+      "hira": "およみします",
+      "roma": "oyomi shimasu",
+      "pron": "오요미 시마스",
+      "meaning": "(제가) 읽겠습니다"
+    }
+  ],
+  "current_index": 0
+}
