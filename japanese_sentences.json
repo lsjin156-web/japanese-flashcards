@@ -9863,6 +9863,118 @@
       "roma": "okane o orosu",
       "pron": "오카네오 오로스",
       "meaning": "돈을 인출하다"
+    },
+    {
+      "index": 1391,
+      "jp": "일본어",
+      "hira": "ひらがな",
+      "roma": "로마자",
+      "pron": "한글 발음",
+      "meaning": "의미"
+    },
+    {
+      "index": 1392,
+      "jp": "道が混んでいますか。",
+      "hira": "みちがこんでいますか",
+      "roma": "michi ga konde imasu ka",
+      "pron": "미치가 콘데 이마스까",
+      "meaning": "길이 막혀 있나요?"
+    },
+    {
+      "index": 1393,
+      "jp": "일본어",
+      "hira": "ひらがな",
+      "roma": "로마자",
+      "pron": "한글 발음",
+      "meaning": "의미"
+    },
+    {
+      "index": 1394,
+      "jp": "仕事が遅かったので七時半に退勤しました。",
+      "hira": "しごとがおそかったのでしちじはんにたいきんしました",
+      "roma": "shigoto ga osokatta node shichiji han ni taikin shimashita",
+      "pron": "시고토가 오소캇타노데 시치지한니 타이킨시마시타",
+      "meaning": "일이 늦게 끝나서 7시 반에 퇴근했습니다"
+    },
+    {
+      "index": 1396,
+      "jp": "일본어",
+      "hira": "ひらがな",
+      "roma": "로마자",
+      "pron": "한글 발음",
+      "meaning": "의미"
+    },
+    {
+      "index": 1397,
+      "jp": "会社で夕食を食べたので",
+      "hira": "かいしゃでゆうしょくをたべたので",
+      "roma": "kaisha de yuushoku o tabeta node",
+      "pron": "카이샤데 유우쇼쿠오 타베타노데",
+      "meaning": "회사에서 저녁을 먹어서"
+    },
+    {
+      "index": 1398,
+      "jp": "일본어",
+      "hira": "ひらがな",
+      "roma": "로마자",
+      "pron": "한글 발음",
+      "meaning": "의미"
+    },
+    {
+      "index": 1399,
+      "jp": "それで遅く退勤しました。",
+      "hira": "それでおそくたいきんしました",
+      "roma": "sorede osoku taikin shimashita",
+      "pron": "소레데 오소쿠 타이킨시마시타",
+      "meaning": "그래서 늦게 퇴근했어요"
+    },
+    {
+      "index": 1400,
+      "jp": "일본어",
+      "hira": "ひらがな",
+      "roma": "로마자",
+      "pron": "한글 발음",
+      "meaning": "의미"
+    },
+    {
+      "index": 1401,
+      "jp": "残念です",
+      "hira": "ざんねんです",
+      "roma": "zannen desu",
+      "pron": "잔넨데스",
+      "meaning": "아쉽습니다 / 안타깝습니다"
+    },
+    {
+      "index": 1403,
+      "jp": "일본어",
+      "hira": "ひらがな",
+      "roma": "로마자",
+      "pron": "한글 발음",
+      "meaning": "의미"
+    },
+    {
+      "index": 1404,
+      "jp": "急に行けなくなりました。",
+      "hira": "きゅうにいけなくなりました",
+      "roma": "kyuu ni ikenaku narimashita",
+      "pron": "큐-니 이케나쿠 나리마시타",
+      "meaning": "갑자기 갈 수 없게 되었습니다"
+    },
+    {
+      "index": 1406,
+      "jp": "일본어",
+      "hira": "ひらがな",
+      "roma": "로마자",
+      "pron": "한글 발음",
+      "meaning": "의미"
+    },
+    {
+      "index": 1407,
+      "jp": "すぐにお持ちします。",
+      "hira": "すぐにおもちします",
+      "roma": "sugu ni omochi shimasu",
+      "pron": "스구니 오모치 시마스",
+      "meaning": "바로 가져다드리겠습니다"
     }
   ],
   "current_index": 0
