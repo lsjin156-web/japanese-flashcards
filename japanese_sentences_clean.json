@@ -1,0 +1,6530 @@
+[
+  {
+    "japanese": "オヤコドンを食べました。",
+    "hiragana": "おやこどんをたべました",
+    "romaji": "oyakodon o tabemashita",
+    "korean_pron": "오야코돈오 타베마시타",
+    "meaning": "오야코돈을 먹었습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "まだ食べていません",
+    "hiragana": "まだ たべていません",
+    "romaji": "Mada tabete imasen",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "両親の誕生日なので、故郷に行く予定です。",
+    "hiragana": "りょうしんのたんじょうびなので、こきょうにいくよていです",
+    "romaji": "ryoushin no tanjoubi na node, kokyou ni iku yotei desu",
+    "korean_pron": "료오신노 탄죠오비나노데, 코쿄우니 이쿠 요테이데스",
+    "meaning": "부모님 생신이라 고향에 갈 예정입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "授業の後で",
+    "hiragana": "じゅぎょうの あとで",
+    "romaji": "Jugyou no ato de",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "金曜日は英語教室に行きます。",
+    "hiragana": "きんようびはえいごきょうしつにいきます",
+    "romaji": "kinyoubi wa eigo kyoushitsu ni ikimasu",
+    "korean_pron": "킨요오비와 에이고 쿄오시츠니 이키마스",
+    "meaning": "금요일은 영어 교실에 갑니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "友達に会ったり旅行したりしました。",
+    "hiragana": "ともだちにあったりりょこうしたりしました",
+    "romaji": "tomodachi ni attari ryokou shitari shimashita",
+    "korean_pron": "토모다치니 앗따리 료코오 시따리 시마시타",
+    "meaning": "친구를 만나기도 하고 여행도 했습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "パスタを作って食べると思います",
+    "hiragana": "パスタを つくって たべると おもいます",
+    "romaji": "Pasuta o tsukutte taberu to omoimasu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "コーヒーを飲んだり音楽を聞いたりします。",
+    "hiragana": "こーひーをのんだりおんがくをきいたりします",
+    "romaji": "koohii o nondari ongaku o kiitari shimasu",
+    "korean_pron": "코오히이오 논다리 온가쿠오 키이타리 시마스",
+    "meaning": "커피를 마시거나 음악을 듣기도 합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "肉を焼いて食べました",
+    "hiragana": "にくを やいて たべました",
+    "romaji": "niku o yaite tabemashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "メニューがちがいます。",
+    "hiragana": "めにゅーがちがいます。",
+    "romaji": "menyuu ga chigaimasu",
+    "korean_pron": "메뉴가 치가이마스",
+    "meaning": "메뉴가 달라요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "동사ます형 어간 + に行く → “~하러 가다”",
+    "hiragana": "かせぐ → 돈을 벌다",
+    "romaji": "👉 과거형: お金をかせぎに行きました → 돈 벌러 갔습니다.",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "６時半に帰りました",
+    "hiragana": "ろくじはん に かえりました",
+    "romaji": "roku ji han ni kaerimashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "焼き魚の食堂に行ってきました",
+    "hiragana": "やきざかな の しょくどう に いってきました",
+    "romaji": "yakizakana no shokudou ni ittekimashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "동사 ます형 + に行く (예: 勉強しに行く → 공부하러 가다)",
+    "hiragana": "",
+    "romaji": "会う → 会います → 会いに行く",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ごはんを食べに行きます。",
+    "hiragana": "ごはんをたべにいきます。",
+    "romaji": "gohan o tabe ni ikimasu",
+    "korean_pron": "고한 오 타베 니 이키마스",
+    "meaning": "밥 먹으러 갑니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "映画を見に行きます。",
+    "hiragana": "えいがをみにいきます。",
+    "romaji": "eiga o mi ni ikimasu",
+    "korean_pron": "에이가 오 미 니 이키마스",
+    "meaning": "영화를 보러 갑니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "焼き魚の食堂に行ってきました",
+    "hiragana": "やきざかな の しょくどう に いってきました",
+    "romaji": "yakizakana no shokudou ni ittekimashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "買い物に行きます。",
+    "hiragana": "かいものにいきます。",
+    "romaji": "kaimono ni ikimasu",
+    "korean_pron": "카이모노 니 이키마스",
+    "meaning": "쇼핑하러 갑니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "連休が終わりました。",
+    "hiragana": "れんきゅうがおわりました。",
+    "romaji": "renkyuu ga owarimashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "ごはんを食べに行きます。",
+    "hiragana": "ごはんをたべにいきます。",
+    "romaji": "gohan o tabe ni ikimasu",
+    "korean_pron": "고한오 타베니 이키마스",
+    "meaning": "밥 먹으러 갑니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "また勉強の始まりですね。",
+    "hiragana": "またべんきょうのはじまりですね。",
+    "romaji": "mata benkyou no hajimari desu ne",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "写真をとりに行きます。",
+    "hiragana": "しゃしんをとりにいきます。",
+    "romaji": "shashin o tori ni ikimasu",
+    "korean_pron": "샤신오 토리니 이키마스",
+    "meaning": "사진 찍으러 갑니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "週末は家で本を読んだり、公園で走ったりしました。",
+    "hiragana": "しゅうまつは いえで ほんを よんだり、こうえんで はしったり しました。",
+    "romaji": "shuumatsu wa ie de hon o yondari, kouen de hashittari shimashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "今日は雨でした。",
+    "hiragana": "きょうはあめでした。",
+    "romaji": "kyou wa ame deshita",
+    "korean_pron": "쿄우와 아메데시타",
+    "meaning": "오늘은 비였습니다 / 오늘은 비가 왔습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "実家に帰ってきました。",
+    "hiragana": "じっかにかえってきました。",
+    "romaji": "jikka ni kaette kimashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "今はやんでいます。",
+    "hiragana": "いまはやんでいます。",
+    "romaji": "ima wa yande imasu",
+    "korean_pron": "이마와 얀데이마스",
+    "meaning": "지금은 (비가) 그치고 있습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "まだ食べないです",
+    "hiragana": "まだたべないです",
+    "romaji": "mada tabenai desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "ご飯を食べに行く",
+    "hiragana": "ごはんをたべにいく",
+    "romaji": "gohan o tabe ni iku",
+    "korean_pron": "고한오 타베니 이쿠",
+    "meaning": "밥을 먹으러 가다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "本を借りに行く",
+    "hiragana": "ほんをかりにいく",
+    "romaji": "hon o kari ni iku",
+    "korean_pron": "혼오 카리니 이쿠",
+    "meaning": "책을 빌리러 가다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "豚肉を焼いて食べるそうです。",
+    "hiragana": "ぶたにくをやいてたべるそうです。",
+    "romaji": "butaniku o yaite taberu sō desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "写真をとりに行く",
+    "hiragana": "しゃしんをとりにいく",
+    "romaji": "shashin o tori ni iku",
+    "korean_pron": "샤신오 토리니 이쿠",
+    "meaning": "사진 찍으러 가다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "豚肉を焼いて食べると思います。",
+    "hiragana": "ぶたにくをやいてたべるとおもいます。",
+    "romaji": "butaniku o yaite taberu to omoimasu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "今日は休みの日です。",
+    "hiragana": "きょうはやすみのひです。",
+    "romaji": "kyou wa yasumi no hi desu",
+    "korean_pron": "쿄우와 야스미노 히데스",
+    "meaning": "오늘은 쉬는 날이에요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "はい、夜は雨が降りますね。",
+    "hiragana": "",
+    "romaji": "",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "月に一度金曜日に休みます。",
+    "hiragana": "つきにいちどきんようびにやすみます。",
+    "romaji": "tsuki ni ichido kin'youbi ni yasumimasu",
+    "korean_pron": "츠키니 이치도 킨요오비니 야스미마스",
+    "meaning": "한 달에 한 번 금요일에 쉬어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "仕事が終わりました",
+    "hiragana": "しごとがおわりました",
+    "romaji": "shigoto ga owarimashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "帰りました",
+    "hiragana": "かえりました",
+    "romaji": "kaerimashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "今日は一日中雨が降っています。",
+    "hiragana": "きょうはいちにちじゅうあめがふっています。",
+    "romaji": "kyou wa ichinichijuu ame ga futte imasu",
+    "korean_pron": "쿄우와 이치니치쥬우 아메가 훗테이마스",
+    "meaning": "오늘은 하루 종일 비가 와요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "出勤するときに傘を持って行きました",
+    "hiragana": "しゅっきんするときに かさを もっていきました",
+    "romaji": "shukkin suru toki ni kasa o motte ikimashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "お金をかせぎに行く",
+    "hiragana": "おかねをかせぎにいく",
+    "romaji": "okane o kasegi ni iku",
+    "korean_pron": "오카네오 카세기니 이쿠",
+    "meaning": "돈 벌러 가다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "もう冬ですね。",
+    "hiragana": "もう ふゆ ですね。",
+    "romaji": "mō fuyu desu ne",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "本を読んでおく",
+    "hiragana": "ほんをよんでおく",
+    "romaji": "hon o yonde oku",
+    "korean_pron": "혼오 욘데 오쿠",
+    "meaning": "책을 읽어 두다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ご飯を作っておきます",
+    "hiragana": "ごはんをつくっておきます",
+    "romaji": "gohan o tsukutte okimasu",
+    "korean_pron": "고한오 츠쿳테 오키마스",
+    "meaning": "밥을 미리 만들어 둡니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お金をかせいでおきます",
+    "hiragana": "おかねをかせいでおきます",
+    "romaji": "okane o kaseide okimasu",
+    "korean_pron": "오카네오 카세이데 오키마스",
+    "meaning": "돈을 벌어 두겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "宿題をしておきます",
+    "hiragana": "しゅくだいをしておきます",
+    "romaji": "shukudai o shite okimasu",
+    "korean_pron": "슈쿠다이오 시테 오키마스",
+    "meaning": "숙제를 해 둡니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "今日は家で休んだんです。",
+    "hiragana": "きょうは いえで やすんだんです。",
+    "romaji": "kyō wa ie de yasundan desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "何もしなかったんです。",
+    "hiragana": "なにも しなかったんです。",
+    "romaji": "nanimo shinakattan desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "お腹すいていないんですか",
+    "hiragana": "おなかすいていないんですか",
+    "romaji": "Onaka suite inai n desu ka",
+    "korean_pron": "오나카 스이테 이나이응 데스카",
+    "meaning": "배 안 고프세요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "家でゴロゴロしました。",
+    "hiragana": "いえで ごろごろしました。",
+    "romaji": "ie de goro goro shimashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "休みなんです。",
+    "hiragana": "やすみなんです。",
+    "romaji": "yasumi nan desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "朴さんお元気でしたか",
+    "hiragana": "ぱくさん おげんきでしたか",
+    "romaji": "Paku-san ogenki deshita ka",
+    "korean_pron": "박쿠상 오겐키 데시타카",
+    "meaning": "박 씨, 잘 지내셨어요? / 건강하셨나요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "今日も休みですが、明日は仕事に行きます。",
+    "hiragana": "きょうも やすみですが、あしたは しごとに いきます。",
+    "romaji": "kyō mo yasumi desu ga, ashita wa shigoto ni ikimasu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "配達が来たんです。",
+    "hiragana": "はいたつが きたんです。",
+    "romaji": "haitatsu ga kitan desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "駅の前で会いましょう",
+    "hiragana": "えきのまえで あいましょう",
+    "romaji": "Eki no mae de aimashou",
+    "korean_pron": "에키노 마에데 아이마쇼-",
+    "meaning": "역 앞에서 만납시다 / 역 앞에서 만나자",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "忙しくないけど",
+    "hiragana": "いそがしくないけど",
+    "romaji": "isogashikunai kedo",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "月曜日で大変ですね",
+    "hiragana": "げつようびでたいへんですね",
+    "romaji": "getsuyōbi de taihen desu ne",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "一人でできるように勉強しました",
+    "hiragana": "ひとりで できるように べんきょうしました",
+    "romaji": "Hitori de dekiru you ni benkyou shimashita",
+    "korean_pron": "히토리데 데키루 요우니 벤쿄우 시마시타",
+    "meaning": "혼자서 할 수 있도록 공부했습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "まだ食べているんです。",
+    "hiragana": "まだたべているんです。",
+    "romaji": "mada tabete iru n desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "まだ食べていないんです。",
+    "hiragana": "まだたべていないんです。",
+    "romaji": "mada tabete inai n desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "鈴木さんにいっておきます",
+    "hiragana": "すずきさんに いっておきます",
+    "romaji": "Suzuki-san ni itte okimasu",
+    "korean_pron": "스즈키상 니 잇테 오키마스",
+    "meaning": "스즈키 씨에게 (미리) 말해 둘게요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "もう食べたんです。",
+    "hiragana": "もうたべたんです。",
+    "romaji": "mō tabeta n desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "まだ食べていなかったんです。",
+    "hiragana": "まだたべていなかったんです。",
+    "romaji": "mada tabete inakatta n desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "おいしい食堂があるそうです",
+    "hiragana": "おいしい しょくどうが あるそうです",
+    "romaji": "Oishii shokudou ga aru sou desu",
+    "korean_pron": "오이시 쇼쿠도가 아루 소우 데스",
+    "meaning": "맛있는 식당이 있다고 하네요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "食べるんです。",
+    "hiragana": "たべるんです。",
+    "romaji": "taberu n desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "行こうと思います",
+    "hiragana": "いこうと おもいます",
+    "romaji": "Ikou to omoimasu",
+    "korean_pron": "이코우토 오모이마스",
+    "meaning": "가려고 생각합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "食べないんです。",
+    "hiragana": "たべないんです。",
+    "romaji": "tabenai n desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "駅から5分ぐらい歩くと",
+    "hiragana": "えきから ごふんぐらい あるくと",
+    "romaji": "Eki kara gofun gurai aruku to",
+    "korean_pron": "에키카라 고훈 구라이 아루쿠토",
+    "meaning": "역에서 5분 정도 걸어가면",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "食べたんです。",
+    "hiragana": "たべたんです。",
+    "romaji": "tabeta n desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "食べなかったんです。",
+    "hiragana": "たべなかったんです。",
+    "romaji": "tabenakatta n desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "いきます",
+    "hiragana": "いきます",
+    "romaji": "ikimasu",
+    "korean_pron": "이키마스",
+    "meaning": "갑니다 / 가요 (단순 사실·정중체)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "スープとさつまいもを食べたんです。",
+    "hiragana": "すーぷとさつまいもをたべたんです。",
+    "romaji": "sūpu to satsumaimo o tabeta n desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "いくんです",
+    "hiragana": "いくんです",
+    "romaji": "ikundesu",
+    "korean_pron": "이쿤데스",
+    "meaning": "가는 거예요 / 갈 거라니까요 (설명·강조)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "鶏肉を食べました。",
+    "hiragana": "とりにくをたべました。",
+    "romaji": "toriniku o tabemashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "いきません",
+    "hiragana": "いきません",
+    "romaji": "ikimasen",
+    "korean_pron": "이키마센",
+    "meaning": "가지 않습니다 / 안 가요 (단순 사실·정중체)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "いかないんです",
+    "hiragana": "いかないんです",
+    "romaji": "ikanain desu",
+    "korean_pron": "이카나인 데스",
+    "meaning": "안 가는 거예요 / 가지 않는 겁니다 (설명·강조)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "料理をして食べました。",
+    "hiragana": "りょうりをしてたべました。",
+    "romaji": "ryōri o shite tabemashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "おいしい食堂があるそうですね",
+    "hiragana": "おいしい しょくどう が あるそうですね",
+    "romaji": "oishii shokudou ga arusou desu ne",
+    "korean_pron": "오이시이 쇼쿠도우 가 아루소우데스네",
+    "meaning": "맛있는 식당이 있다고 하네요 / 있다고 들었어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "たぶん家で映画を見ると思います。",
+    "hiragana": "たぶん いえで えいがを みると おもいます",
+    "romaji": "tabun ie de eiga o miru to omoimasu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "あしたいこうとおもいますが",
+    "hiragana": "あした いこうと おもいます が",
+    "romaji": "ashita ikou to omoimasu ga",
+    "korean_pron": "아시타 이코우토 오모이마스가",
+    "meaning": "내일 가려고 생각합니다만…",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "カレーととんかつを食べるんです。",
+    "hiragana": "かれーと とんかつを たべるんです",
+    "romaji": "karē to tonkatsu o taberun desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "カレーととんかつを食べないんです。",
+    "hiragana": "かれーと とんかつを たべないんです",
+    "romaji": "karē to tonkatsu o tabenain desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "カレーととんかつを食べたんです。",
+    "hiragana": "かれーと とんかつを たべたんです",
+    "romaji": "karē to tonkatsu o tabetan desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "行きました",
+    "hiragana": "いきました",
+    "romaji": "ikimashita",
+    "korean_pron": "이키마시타",
+    "meaning": "갔습니다 / 갔어요 (단순 사실·정중체)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "カレーととんかつを食べなかったんです。",
+    "hiragana": "かれーと とんかつを たべなかったんです",
+    "romaji": "karē to tonkatsu o tabenakattan desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "行ったんです",
+    "hiragana": "いったんです",
+    "romaji": "ittan desu",
+    "korean_pron": "잇탄데스",
+    "meaning": "간 거예요 / 갔던 겁니다 (설명·강조)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "カフェで 本を読んで 勉強しました。",
+    "hiragana": "かふぇで ほんをよんで べんきょうしました。",
+    "romaji": "kafe de hon o yonde benkyō shimashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "いかないんです",
+    "hiragana": "いかないんです",
+    "romaji": "ikanain desu",
+    "korean_pron": "이카나인 데스",
+    "meaning": "안 가는 거예요 / 가지 않는 겁니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "いかなかったんです",
+    "hiragana": "いかなかったんです",
+    "romaji": "ikanakattan desu",
+    "korean_pron": "이카나캇탄 데스",
+    "meaning": "안 갔던 거예요 / 가지 않았던 겁니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "夕ご飯はおもくないほうがいいです。",
+    "hiragana": "ゆうごはんはおもくないほうがいいです。",
+    "romaji": "yūgohan wa omokunai hō ga ii desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "カフェでコーヒーを飲みながら本を読みました。",
+    "hiragana": "かふぇでこーひーをのみながらほんをよみました。",
+    "romaji": "kafe de kōhī o nominagara hon o yomimashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "行けないと思います",
+    "hiragana": "いけない と おもいます",
+    "romaji": "ikenai to omoimasu",
+    "korean_pron": "이케나이 토 오모이마스",
+    "meaning": "못 갈 것 같다고 생각합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "行けなさそうです",
+    "hiragana": "いけなさそうです",
+    "romaji": "ikenasasou desu",
+    "korean_pron": "이케나사 소우 데스",
+    "meaning": "못 갈 것 같아 보여요 (겉으로 판단)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "行けないみたいです",
+    "hiragana": "いけない みたいです",
+    "romaji": "ikenai mitai desu",
+    "korean_pron": "이케나이 미타이 데스",
+    "meaning": "못 갈 것 같아요 (상황·간접 정보 기반)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "生ビール",
+    "hiragana": "なまびーる",
+    "romaji": "nama bīru",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "待つと思います",
+    "hiragana": "まつ と おもいます",
+    "romaji": "matsu to omoimasu",
+    "korean_pron": "마츠 토 오모이마스",
+    "meaning": "기다릴 거라고 생각합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "待ちそうです",
+    "hiragana": "まちそうです",
+    "romaji": "machisou desu",
+    "korean_pron": "마치소우 데스",
+    "meaning": "기다릴 것처럼 보여요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "죄송합니다, 잠시 통화 좀…",
+    "hiragana": "すみません、ちょっと電話を…",
+    "romaji": "すみません、ちょっとでんわを…",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "待つみたいです",
+    "hiragana": "まつ みたいです",
+    "romaji": "matsu mitai desu",
+    "korean_pron": "마츠 미타이 데스",
+    "meaning": "기다릴 것 같아요 (들으니 / 상황 보니)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "卵とサンドイッチを食べました",
+    "hiragana": "たまご と さんどいっち を たべました",
+    "romaji": "tamago to sandoicchi o tabemashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "今会いました",
+    "hiragana": "いま あいました",
+    "romaji": "ima aimashita",
+    "korean_pron": "이마 아이마시타",
+    "meaning": "지금 만났습니다 / 지금 만났어요 (단순 사실)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "今あったんです",
+    "hiragana": "いま あったんです",
+    "romaji": "ima attan desu",
+    "korean_pron": "이마 앗탄 데스",
+    "meaning": "지금 만난 거예요 / 지금 만난 겁니다 (설명·강조)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "最近忙しくないです",
+    "hiragana": "さいきん いそがしくないです",
+    "romaji": "saikin isogashikunai desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "今食べました",
+    "hiragana": "いま たべました",
+    "romaji": "ima tabemashita",
+    "korean_pron": "이마 타베마시타",
+    "meaning": "지금 먹었어요 / 지금 먹었습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "朝だけ寒いです",
+    "hiragana": "あさだけ さむいです",
+    "romaji": "asa dake samui desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "行こうと思います",
+    "hiragana": "いこう と おもいます",
+    "romaji": "ikou to omoimasu",
+    "korean_pron": "이코우 토 오모이마스",
+    "meaning": "가려고 합니다 / 갈 생각입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "週末に映画を見ました。",
+    "hiragana": "しゅうまつに えいがを みました",
+    "romaji": "shūmatsu ni eiga o mimashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "食べようと思います",
+    "hiragana": "たべよう と おもいます",
+    "romaji": "tabeyou to omoimasu",
+    "korean_pron": "타베요우 토 오모이마스",
+    "meaning": "먹으려고 합니다 / 먹을 생각입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "勉強しようと思います",
+    "hiragana": "べんきょうしよう と おもいます",
+    "romaji": "benkyou shiyou to omoimasu",
+    "korean_pron": "벤쿄우 시요우 토 오모이마스",
+    "meaning": "공부하려고 합니다 / 공부할 생각입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "アクション映画を見ました。",
+    "hiragana": "あくしょん えいがを みました",
+    "romaji": "akushon eiga o mimashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "読もうと思います",
+    "hiragana": "よもう と おもいます",
+    "romaji": "yomou to omoimasu",
+    "korean_pron": "요모우 토 오모이마스",
+    "meaning": "읽으려고 합니다 / 읽을 생각입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "会おうと思います",
+    "hiragana": "あおう と おもいます",
+    "romaji": "aou to omoimasu",
+    "korean_pron": "아오우 토 오모이마스",
+    "meaning": "만나려고 합니다 / 만날 생각입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "早く帰って、パスタを作って食べました。",
+    "hiragana": "はやく かえって、ぱすた を つくって たべました",
+    "romaji": "hayaku kaette, pasuta o tsukutte tabemashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "これからタクシーで行こうと思います",
+    "hiragana": "これから たくしーで いこう と おもいます",
+    "romaji": "korekara takushii de ikou to omoimasu",
+    "korean_pron": "코레카라 타쿠시이 데 이코우 토 오모이마스",
+    "meaning": "이제부터 택시로 가려고 합니다 / 갈 생각입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "聞こえますか",
+    "hiragana": "きこえますか",
+    "romaji": "kikoemasu ka",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "待ちそうです",
+    "hiragana": "まちそうです",
+    "romaji": "machisou desu",
+    "korean_pron": "마치소우 데스",
+    "meaning": "기다릴 것처럼 보여요 / 기다릴 것 같아요 (겉모습 추측)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "聞こえます",
+    "hiragana": "きこえます",
+    "romaji": "kikoemasu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "待つそうです",
+    "hiragana": "まつそうです",
+    "romaji": "matsu sou desu",
+    "korean_pron": "마츠 소우 데스",
+    "meaning": "기다린다고 해요 / 기다린대요 (전해 들은 정보)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "はい、聞こえます",
+    "hiragana": "はい、きこえます",
+    "romaji": "hai, kikoemasu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "よく聞こえます",
+    "hiragana": "よく きこえます",
+    "romaji": "yoku kikoemasu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "行けないそうです",
+    "hiragana": "いけない そうです",
+    "romaji": "ikenai sou desu",
+    "korean_pron": "이케나이 소우데스",
+    "meaning": "못 간다고 해요 / 못 간대요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "はっきり聞こえます",
+    "hiragana": "はっきり きこえます",
+    "romaji": "hakkiri kikoemasu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "行けなさそうです",
+    "hiragana": "いけなさそうです",
+    "romaji": "ikenasasou desu",
+    "korean_pron": "이케나사소우데스",
+    "meaning": "못 갈 것처럼 보여요 / 못 갈 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "明日はもっと寒いです",
+    "hiragana": "あした は もっと さむい です",
+    "romaji": "ashita wa motto samui desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "会いました",
+    "hiragana": "あいました",
+    "romaji": "aimashita",
+    "korean_pron": "아이마시타",
+    "meaning": "만났습니다 / 만났어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "雪はまだ降っていません",
+    "hiragana": "ゆき は まだ ふっていません",
+    "romaji": "yuki wa mada futte imasen",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "今、あったんです",
+    "hiragana": "いま、あったんです",
+    "romaji": "ima, attan desu",
+    "korean_pron": "이마 앗탄데스",
+    "meaning": "지금 만난 거예요 / 지금 막 만났습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "バスで移動します",
+    "hiragana": "ばす で いどう します",
+    "romaji": "basu de idou shimasu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "３０分ぐらい遅れそうです",
+    "hiragana": "さんじゅっぷん ぐらい おくれそうです",
+    "romaji": "sanjuppun gurai okuresou desu",
+    "korean_pron": "산쥽뿡 구라이 오쿠레소우데스",
+    "meaning": "30분 정도 늦을 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "なににのりますか",
+    "hiragana": "なに に のります か",
+    "romaji": "nani ni norimasu ka",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "会いました",
+    "hiragana": "あいました",
+    "romaji": "aimashita",
+    "korean_pron": "아이마시타",
+    "meaning": "만났습니다 / 만났어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "退勤時間に雪が降りました",
+    "hiragana": "たいきんじかんに ゆきが ふりました",
+    "romaji": "taikin jikan ni yuki ga furimashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "会ったんです",
+    "hiragana": "あったんです",
+    "romaji": "attan desu",
+    "korean_pron": "앗탄데스",
+    "meaning": "만난 거예요 (설명·강조)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "会わなかったんです",
+    "hiragana": "あわなかったんです",
+    "romaji": "awanakattan desu",
+    "korean_pron": "아와나캇탄데스",
+    "meaning": "안 만난 거예요 / 만나지 않았습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "仕事帰りに雪が降りました",
+    "hiragana": "しごとがえりに ゆきが ふりました",
+    "romaji": "shigoto gaeri ni yuki ga furimashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "行ったんです",
+    "hiragana": "いったんです",
+    "romaji": "ittan desu",
+    "korean_pron": "잇탄데스",
+    "meaning": "간 거예요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "夜に雪が降りました",
+    "hiragana": "よるに ゆきが ふりました",
+    "romaji": "yoru ni yuki ga furimashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "行かなかったんです",
+    "hiragana": "いかなかったんです",
+    "romaji": "ikanakattan desu",
+    "korean_pron": "이카나캇탄데스",
+    "meaning": "안 간 거예요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "だから、少し寒くなかったです",
+    "hiragana": "だから すこし さむく なかったです",
+    "romaji": "dakara sukoshi samuku nakatta desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "どうやって食べられますか",
+    "hiragana": "どうやって たべられますか",
+    "romaji": "douyatte taberaremasu ka",
+    "korean_pron": "도우얏떼 타베라레마스카",
+    "meaning": "어떻게 먹을 수 있어요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "週末に買っておいた牛肉",
+    "hiragana": "しゅうまつに かっておいた ぎゅうにく",
+    "romaji": "shūmatsu ni katte oita gyūniku",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "どうやって会えますか",
+    "hiragana": "どうやって あえますか",
+    "romaji": "douyatte aemasu ka",
+    "korean_pron": "도우얏떼 아에마스카",
+    "meaning": "어떻게 만날 수 있어요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "退勤のとき、雨が降りました。",
+    "hiragana": "たいきん の とき、あめ が ふりました",
+    "romaji": "taikin no toki ame ga furimashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "仕事で遅れそうです",
+    "hiragana": "しごとで おくれそうです",
+    "romaji": "shigoto de okuresou desu",
+    "korean_pron": "시고토 데 오쿠레소우데스",
+    "meaning": "일 때문에 늦을 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お腹がすいていない。",
+    "hiragana": "おなかが すいて いない",
+    "romaji": "onaka ga suite inai",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "すみませんが３０分ぐらい遅れそうです。",
+    "hiragana": "すみませんが さんじゅっぷんぐらい おくれそうです。",
+    "romaji": "sumimasen ga sanjuppun gurai okuresou desu",
+    "korean_pron": "스미마센가 산쥬쁜구라이 오쿠레소우데스",
+    "meaning": "죄송하지만 약 30분 정도 늦을 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お腹がすいていません。",
+    "hiragana": "おなかが すいて いません",
+    "romaji": "onaka ga suite imasen",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "会おうと思います",
+    "hiragana": "あおうとおもいます",
+    "romaji": "aou to omoimasu",
+    "korean_pron": "아오우토 오모이마스",
+    "meaning": "만나려고 생각합니다 / 만날 생각이에요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お腹がすいています。",
+    "hiragana": "おなかが すいて います",
+    "romaji": "onaka ga suite imasu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "食べようと思います",
+    "hiragana": "たべようとおもいます",
+    "romaji": "tabeyou to omoimasu",
+    "korean_pron": "타베요오토 오모이마스",
+    "meaning": "먹으려고 생각합니다 / 먹을 생각이에요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "まだお腹がすいていません。",
+    "hiragana": "まだ おなかが すいて いません",
+    "romaji": "mada onaka ga suite imasen",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "承知しました",
+    "hiragana": "しょうちしました",
+    "romaji": "shouchi shimashita",
+    "korean_pron": "쇼치시마시타",
+    "meaning": "알겠습니다 / 이해했습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "日曜日は結婚式に行きました。",
+    "hiragana": "にちようびは けっこんしきに いきました",
+    "romaji": "nichiyoubi wa kekkonshiki ni ikimashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "かしこまりました",
+    "hiragana": "かしこまりました",
+    "romaji": "kashikomarimashita",
+    "korean_pron": "카시키코마리마시타",
+    "meaning": "알겠습니다 / 명심했습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "忙しかったです。",
+    "hiragana": "いそがしかったです",
+    "romaji": "isogashikatta desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "了解です",
+    "hiragana": "りょうかいです",
+    "romaji": "ryoukai desu",
+    "korean_pron": "료오카이데스",
+    "meaning": "알겠습니다 / 이해했습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "オッケーです",
+    "hiragana": "おっけーです",
+    "romaji": "okkee desu",
+    "korean_pron": "옷케에데스",
+    "meaning": "오케이예요 / 괜찮아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "土曜日は出勤でしたが、日曜日は会社の同僚の結婚式に行きました。",
+    "hiragana": "どようびは しゅっきんでしたが、にちようびは かいしゃの どうりょうの けっこんしきに いきました",
+    "romaji": "doyoubi wa shukkin deshita ga nichiyoubi wa kaisha no douryou no kekkonshiki ni ikimashita",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "明けましておめでとうございます。",
+    "hiragana": "あけまして おめでとう ございます。",
+    "romaji": "akemashite omedetō gozaimasu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "明日は雨が降るそうです。",
+    "hiragana": "あしたは あめが ふるそうです。",
+    "romaji": "ashita wa ame ga furu sou desu",
+    "korean_pron": "아시타와 아메가 후루소우데스",
+    "meaning": "내일 비가 온다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "最近とても寒いです。",
+    "hiragana": "さいきん とても さむいです",
+    "romaji": "saikin totemo samui desu",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "雨は降らないそうです。",
+    "hiragana": "あめは ふらないそうです。",
+    "romaji": "ame wa furanai sou desu",
+    "korean_pron": "아메와 후라나이 소우데스",
+    "meaning": "비가 안 온다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "うらやましい",
+    "hiragana": "うらやましい",
+    "romaji": "urayamashii",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "雨が降ったそうです。",
+    "hiragana": "あめが ふったそうです。",
+    "romaji": "ame ga futta sou desu",
+    "korean_pron": "아메가 훗타 소우데스",
+    "meaning": "비가 내렸다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "会社からもらったプレゼント",
+    "hiragana": "かいしゃから もらった ぷれぜんと",
+    "romaji": "kaisha kara moratta purezento",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "早く食べなければなりません。",
+    "hiragana": "はやく たべなければ なりません",
+    "romaji": "hayaku tabenakereba narimasen",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "キムさんが行くそうです。",
+    "hiragana": "きむさんが いくそうです。",
+    "romaji": "Kimu-san ga iku sou desu",
+    "korean_pron": "키무상가 이쿠소우데스",
+    "meaning": "김상이 간다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "キムさんは行かないそうです。",
+    "hiragana": "きむさんは いかないそうです。",
+    "romaji": "Kimu-san wa ikanai sou desu",
+    "korean_pron": "키무상와 이카나이 소우데스",
+    "meaning": "김상이 안 간다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "キムさんは行ったそうです。",
+    "hiragana": "きむさんは いったそうです。",
+    "romaji": "Kimu-san wa itta sou desu",
+    "korean_pron": "키무상와 잇따 소우데스",
+    "meaning": "김상이 갔다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "さっき 会(あ)った ばかりです。",
+    "hiragana": "さっき あった ばかりです。",
+    "romaji": "sakki atta bakari desu",
+    "korean_pron": "삿키 앗따 바카리 데스",
+    "meaning": "아까 막 만났어요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "さっき ごはん を 食(た)べました。",
+    "hiragana": "さっき ごはん を たべました。",
+    "romaji": "sakki gohan o tabemashita",
+    "korean_pron": "삿키 고한 오 타베마시타",
+    "meaning": "아까 밥 먹었어요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "さっき 電話(でんわ) が ありました。",
+    "hiragana": "さっき でんわ が ありました。",
+    "romaji": "sakki denwa ga arimashita",
+    "korean_pron": "삿키 덴와 가 아리마시타",
+    "meaning": "아까 전화가 왔어요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "仕事で遅れるそうです",
+    "hiragana": "しごとでおくれるそうです",
+    "romaji": "shigoto de okureru sō desu",
+    "korean_pron": "시고토데 오쿠레루 소우데스",
+    "meaning": "일 때문에 늦을 것 같아요 / 늦는다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "そろそろ行かないと間に合いません",
+    "hiragana": "そろそろいかないとまにあいません",
+    "romaji": "sorosoro ikanai to maniaimasen",
+    "korean_pron": "소로소로 이카나이토 마니아이마센",
+    "meaning": "슬슬 가지 않으면 늦어요 / 이제 가야 시간에 맞아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "雨が降るそうです",
+    "hiragana": "あめがふるそうです",
+    "romaji": "ame ga furu sō desu",
+    "korean_pron": "아메가 후루 소우데스",
+    "meaning": "비가 온다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "雨が降ったそうです",
+    "hiragana": "あめがふったそうです",
+    "romaji": "ame ga futta sō desu",
+    "korean_pron": "아메가 훗따 소우데스",
+    "meaning": "비가 왔다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "雨が降らないそうです",
+    "hiragana": "あめがふらないそうです",
+    "romaji": "ame ga furanai sō desu",
+    "korean_pron": "아메가 후라나이 소우데스",
+    "meaning": "비가 안 온다고 해요 / 비가 안 올 거래요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "雨が降らなかったそうです",
+    "hiragana": "あめがふらなかったそうです",
+    "romaji": "ame ga furanakatta sō desu",
+    "korean_pron": "아메가 후라나캇따 소우데스",
+    "meaning": "비가 안 왔다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "行くそうです",
+    "hiragana": "いくそうです",
+    "romaji": "iku sō desu",
+    "korean_pron": "이쿠 소우데스",
+    "meaning": "간다고 해요 / 갈 거래요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "行かないそうです",
+    "hiragana": "いかないそうです",
+    "romaji": "ikanai sō desu",
+    "korean_pron": "이카나이 소우데스",
+    "meaning": "안 간다고 해요 / 안 갈 거래요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "行ったそうです",
+    "hiragana": "いったそうです",
+    "romaji": "itta sō desu",
+    "korean_pron": "잇따 소우데스",
+    "meaning": "갔다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "行かなかったそうです",
+    "hiragana": "いかなかったそうです",
+    "romaji": "ikanakatta sō desu",
+    "korean_pron": "이카나캇따 소우데스",
+    "meaning": "안 갔다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "待ったそうです",
+    "hiragana": "まったそうです",
+    "romaji": "matta sō desu",
+    "korean_pron": "맛따 소우데스",
+    "meaning": "기다렸다고 합니다 / 기다렸대요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "待たなかったそうです",
+    "hiragana": "またなかったそうです",
+    "romaji": "matanakatta sō desu",
+    "korean_pron": "마타나캇따 소우데스",
+    "meaning": "기다리지 않았다고 합니다 / 안 기다렸대요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "만난대요",
+    "hiragana": "会うそうです",
+    "romaji": "",
+    "korean_pron": "아우 소우데스",
+    "meaning": "만난다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "만났대요",
+    "hiragana": "会ったそうです",
+    "romaji": "",
+    "korean_pron": "앗따 소우데스",
+    "meaning": "만났다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "안 만난대요",
+    "hiragana": "会わないそうです",
+    "romaji": "",
+    "korean_pron": "아와나이 소우데스",
+    "meaning": "안 만난다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "안 만났대요",
+    "hiragana": "会わなかったそうです",
+    "romaji": "",
+    "korean_pron": "아와나캇따 소우데스",
+    "meaning": "안 만났다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "家で休もうと思います",
+    "hiragana": "いえでやすもうとおもいます",
+    "romaji": "ie de yasumō to omoimasu",
+    "korean_pron": "이에데 야스모오 토 오모이마스",
+    "meaning": "집에서 쉬려고 해요 / 집에서 쉴 생각이에요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "コーヒーを飲もうと思います",
+    "hiragana": "こーひーをのもうとおもいます",
+    "romaji": "kōhī o nomō to omoimasu",
+    "korean_pron": "코오히이오 노모오 토 오모이마스",
+    "meaning": "커피를 마시려고 생각해요 / 커피를 마시려고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "友だちを信じようと思います",
+    "hiragana": "ともだちをしんじようとおもいます",
+    "romaji": "tomodachi o shinjiyō to omoimasu",
+    "korean_pron": "토모다치오 신지요오 토 오모이마스",
+    "meaning": "친구를 믿으려고 생각합니다 / 친구를 믿으려고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "明日は早く来ようと思います",
+    "hiragana": "あしたははやくこようとおもいます",
+    "romaji": "ashita wa hayaku koyō to omoimasu",
+    "korean_pron": "아시타와 하야쿠 코요오 토 오모이마스",
+    "meaning": "내일은 일찍 오려고 생각합니다 / 내일은 일찍 오려고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "待つそうです。",
+    "hiragana": "まつそうです。",
+    "romaji": "matsu sō desu",
+    "korean_pron": "마츠 소우데스",
+    "meaning": "기다린다고 합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "待たないそうです。",
+    "hiragana": "またないそうです。",
+    "romaji": "matanai sō desu",
+    "korean_pron": "마타나이 소우데스",
+    "meaning": "기다리지 않는다고 합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "待ったそうです。",
+    "hiragana": "まったそうです。",
+    "romaji": "matta sō desu",
+    "korean_pron": "맛타 소우데스",
+    "meaning": "기다렸다고 합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "待たなかったそうです。",
+    "hiragana": "またなかったそうです。",
+    "romaji": "matanakatta sō desu",
+    "korean_pron": "마타나캇타 소우데스",
+    "meaning": "기다리지 않았다고 합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "あうそうです。",
+    "hiragana": "あうそうです。",
+    "romaji": "au sō desu",
+    "korean_pron": "아우 소우데스",
+    "meaning": "만난다고 합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "あわないです。",
+    "hiragana": "あわないです。",
+    "romaji": "awanai desu",
+    "korean_pron": "아와나이 데스",
+    "meaning": "만나지 않는다고 합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "あったそうです。",
+    "hiragana": "あったそうです。",
+    "romaji": "atta sō desu",
+    "korean_pron": "앗타 소우데스",
+    "meaning": "만났다고 합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "会わなかったです。",
+    "hiragana": "あわなかったです。",
+    "romaji": "awanakatta desu",
+    "korean_pron": "아와나캇타 데스",
+    "meaning": "만나지 않았다고 합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "週末は家で休もうと思います。",
+    "hiragana": "しゅうまつは いえで やすもうと おもいます。",
+    "romaji": "shūmatsu wa ie de yasumō to omoimasu",
+    "korean_pron": "슈우마츠와 이에데 야스모오 토 오모이마스",
+    "meaning": "주말에는 집에서 쉬려고 합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "コーヒーを飲もうと思います。",
+    "hiragana": "コーヒーを のもうと おもいます。",
+    "romaji": "kōhī o nomō to omoimasu",
+    "korean_pron": "코오히이오 노모오 토 오모이마스",
+    "meaning": "커피를 마시려고 합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "朝起きるといつもコーヒーを飲みます。",
+    "hiragana": "あさ おきると いつも コーヒーを のみます。",
+    "romaji": "asa okiru to itsumo kōhī o nomimasu",
+    "korean_pron": "아사 오키루토 이츠모 코오히이오 노미마스",
+    "meaning": "아침에 일어나면 항상 커피를 마십니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "冬になりました。",
+    "hiragana": "ふゆに なりました。",
+    "romaji": "fuyu ni narimashita",
+    "korean_pron": "후유니 나리마시타",
+    "meaning": "겨울이 되었어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "今から行くんです。",
+    "hiragana": "いまから いくんです。",
+    "romaji": "ima kara ikun desu",
+    "korean_pron": "이마카라 이쿤데스",
+    "meaning": "지금부터 갈 거예요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "きれいなんです",
+    "hiragana": "きれいなんです",
+    "romaji": "kirei nan desu",
+    "korean_pron": "키레이난데스",
+    "meaning": "예뻐요 / 깨끗해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "きれいじゃないんです",
+    "hiragana": "きれいじゃないんです",
+    "romaji": "kirei ja nai n desu",
+    "korean_pron": "키레이쟈나인데스",
+    "meaning": "예쁘지 않아요 / 깨끗하지 않아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "きれいだったんです",
+    "hiragana": "きれいだったんです",
+    "romaji": "kirei dattan desu",
+    "korean_pron": "키레이닷탄데스",
+    "meaning": "예뻤어요 / 깨끗했어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "きれいじゃなかったんです",
+    "hiragana": "きれいじゃなかったんです",
+    "romaji": "kirei ja nakattan desu",
+    "korean_pron": "키레이쟈나캇탄데스",
+    "meaning": "예쁘지 않았어요 / 깨끗하지 않았어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "高いんです",
+    "hiragana": "たかいんです",
+    "romaji": "takai n desu",
+    "korean_pron": "타카인데스",
+    "meaning": "비싸요 / 높아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "高くないんです",
+    "hiragana": "たかくないんです",
+    "romaji": "takaku nai n desu",
+    "korean_pron": "타카쿠나인데스",
+    "meaning": "비싸지 않아요 / 높지 않아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "高かったんです",
+    "hiragana": "たかかったんです",
+    "romaji": "takakattan desu",
+    "korean_pron": "타카캇탄데스",
+    "meaning": "비쌌어요 / 높았어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "高くなかったんです",
+    "hiragana": "たかくなかったんです",
+    "romaji": "takaku nakattan desu",
+    "korean_pron": "타카쿠나캇탄데스",
+    "meaning": "비싸지 않았어요 / 높지 않았어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "季節の中でいつが一番好きですか。",
+    "hiragana": "きせつのなかで いつが いちばん すきですか。",
+    "romaji": "kisetsu no naka de itsu ga ichiban suki desu ka",
+    "korean_pron": "키세츠노 나카데 이츠가 이치방 스키데스카",
+    "meaning": "계절 중에서 언제(어느 계절)을 가장 좋아하십니까?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "冬が一番好きです。",
+    "hiragana": "ふゆが いちばん すきです。",
+    "romaji": "fuyu ga ichiban suki desu",
+    "korean_pron": "후유가 이치방 스키데스",
+    "meaning": "겨울을 가장 좋아해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "あつさよりは寒さのほうが好きです。",
+    "hiragana": "あつさよりは さむさのほうが すきです。",
+    "romaji": "atsusa yori wa samusa no hō ga suki desu",
+    "korean_pron": "아츠사 요리와 사무사노 호오가 스키데스",
+    "meaning": "더위보다 추위를 더 좋아해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "休みなんです",
+    "hiragana": "やすみなんです",
+    "romaji": "yasumi nan desu",
+    "korean_pron": "야스미난데스",
+    "meaning": "쉬는 날이에요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "休みじゃないんです",
+    "hiragana": "やすみじゃないんです",
+    "romaji": "yasumi ja nai n desu",
+    "korean_pron": "야스미쟈나인데스",
+    "meaning": "쉬는 날이 아니에요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "休みだったんです",
+    "hiragana": "やすみだったんです",
+    "romaji": "yasumi dattan desu",
+    "korean_pron": "야스미닷탄데스",
+    "meaning": "쉬는 날이었어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "休みじゃなかったんです",
+    "hiragana": "やすみじゃなかったんです",
+    "romaji": "yasumi ja nakattan desu",
+    "korean_pron": "야스미쟈나캇탄데스",
+    "meaning": "쉬는 날이 아니었어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "寒いんです",
+    "hiragana": "さむいんです",
+    "romaji": "samui n desu",
+    "korean_pron": "사무이인데스",
+    "meaning": "추워요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "寒くないんです",
+    "hiragana": "さむくないんです",
+    "romaji": "samuku nai n desu",
+    "korean_pron": "사무쿠나인데스",
+    "meaning": "춥지 않아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "寒かったんです",
+    "hiragana": "さむかったんです",
+    "romaji": "samukattan desu",
+    "korean_pron": "사무캇탄데스",
+    "meaning": "추웠어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "寒くなかったんです",
+    "hiragana": "さむくなかったんです",
+    "romaji": "samuku nakattan desu",
+    "korean_pron": "사무쿠나캇탄데스",
+    "meaning": "춥지 않았어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "일본어 문장",
+    "hiragana": "ひらがな",
+    "romaji": "로마자",
+    "korean_pron": "한글 발음",
+    "meaning": "의미",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ヤンさんは仕事で遅れるそうです。",
+    "hiragana": "やんさんは しごとで おくれるそうです",
+    "romaji": "yan san wa shigoto de okureru sō desu",
+    "korean_pron": "얀상와 시고토데 오쿠레루소우데스",
+    "meaning": "양빈 씨는 일 때문에 늦는다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "天気予報によると、明日は雨だそうです。",
+    "hiragana": "てんきよほうによると、あしたは あめだそうです",
+    "romaji": "tenkiyohō ni yoru to, ashita wa ame da sō desu",
+    "korean_pron": "텐키요호오니 요루토 아시타와 아메다소우데스",
+    "meaning": "일기예보에 따르면 내일은 비가 온다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "鈴木さんは来月韓国に行くそうです。",
+    "hiragana": "すずきさんは らいげつ かんこくに いくそうです",
+    "romaji": "suzuki san wa raigetsu kankoku ni iku sō desu",
+    "korean_pron": "스즈키상와 라이게츠 칸코쿠니 이쿠소우데스",
+    "meaning": "스즈키 씨는 다음 달에 한국에 간다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "使い方をちゃんと説明したそうです。",
+    "hiragana": "つかいかたを ちゃんと せつめいしたそうです",
+    "romaji": "tsukaikata o chanto setsumei shita sō desu",
+    "korean_pron": "츠카이카타오 찬토 세츠메이시타소우데스",
+    "meaning": "사용법을 확실히 설명했다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "일본어 표기",
+    "hiragana": "ひらがな",
+    "romaji": "로마자",
+    "korean_pron": "한글 발음",
+    "meaning": "의미 / 용법",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "雨が降るんです",
+    "hiragana": "あめが ふるんです",
+    "romaji": "ame ga furun desu",
+    "korean_pron": "아메가 후룬데스",
+    "meaning": "비가 내려요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "雨が降らないんです",
+    "hiragana": "あめが ふらないんです",
+    "romaji": "ame ga furanai n desu",
+    "korean_pron": "아메가 후라나인데스",
+    "meaning": "비가 안 내려요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "雨が降ったんです",
+    "hiragana": "あめが ふったんです",
+    "romaji": "ame ga futtan desu",
+    "korean_pron": "아메가 훗탄데스",
+    "meaning": "비가 내렸어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "雨が降らなかったんです",
+    "hiragana": "あめが ふらなかったんです",
+    "romaji": "ame ga furanakattan desu",
+    "korean_pron": "아메가 후라나캇탄데스",
+    "meaning": "비가 안 내렸어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "歩くんです",
+    "hiragana": "あるくんです",
+    "romaji": "aruku n desu",
+    "korean_pron": "아루쿤데스",
+    "meaning": "걸어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "歩かないんです",
+    "hiragana": "あるかないんです",
+    "romaji": "aruka nai n desu",
+    "korean_pron": "아루카나인데스",
+    "meaning": "안 걸어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "歩いたんです",
+    "hiragana": "あるいたんです",
+    "romaji": "aruita n desu",
+    "korean_pron": "아루이탄데스",
+    "meaning": "걸었어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "歩かなかったんです",
+    "hiragana": "あるかなかったんです",
+    "romaji": "aruka nakattan desu",
+    "korean_pron": "아루카나캇탄데스",
+    "meaning": "안 걸었어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "遅れるそうです。",
+    "hiragana": "おくれるそうです。",
+    "romaji": "okureru sō desu",
+    "korean_pron": "오쿠레루 소우데스",
+    "meaning": "늦는다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "遅れないそうです。",
+    "hiragana": "おくれないそうです。",
+    "romaji": "okurenai sō desu",
+    "korean_pron": "오쿠레나이 소우데스",
+    "meaning": "안 늦는다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "遅れたそうです。",
+    "hiragana": "おくれたそうです。",
+    "romaji": "okureta sō desu",
+    "korean_pron": "오쿠레타 소우데스",
+    "meaning": "늦었다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "遅れなかったそうです。",
+    "hiragana": "おくれなかったそうです。",
+    "romaji": "okurenakatta sō desu",
+    "korean_pron": "오쿠레나캇타 소우데스",
+    "meaning": "늦지 않았다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "休むんです。",
+    "hiragana": "やすむんです。",
+    "romaji": "yasumun desu",
+    "korean_pron": "야스문데스",
+    "meaning": "쉬어요 / 쉽니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "休まないんです。",
+    "hiragana": "やすまないんです。",
+    "romaji": "yasumanain desu",
+    "korean_pron": "야스마나인데스",
+    "meaning": "쉬지 않아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "休んだんです。",
+    "hiragana": "やすんだんです。",
+    "romaji": "yasundan desu",
+    "korean_pron": "야순단데스",
+    "meaning": "쉬었어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "休まなかったんです。",
+    "hiragana": "やすまなかったんです。",
+    "romaji": "yasumanakattan desu",
+    "korean_pron": "야스마나캇탄데스",
+    "meaning": "쉬지 않았어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "休みなんです。",
+    "hiragana": "やすみなんです。",
+    "romaji": "yasumi nan desu",
+    "korean_pron": "야스미 난데스",
+    "meaning": "쉬는 날이에요 / 휴일이에요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "休みじゃないんです。",
+    "hiragana": "やすみじゃないんです。",
+    "romaji": "yasumi janain desu",
+    "korean_pron": "야스미 자나인데스",
+    "meaning": "쉬는 날이 아니에요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "休みだったんです。",
+    "hiragana": "やすみだったんです。",
+    "romaji": "yasumi dattan desu",
+    "korean_pron": "야스미 닷탄데스",
+    "meaning": "쉬는 날이었어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "休みじゃなかったんです。",
+    "hiragana": "やすみじゃなかったんです。",
+    "romaji": "yasumi janakattan desu",
+    "korean_pron": "야스미 자나캇탄데스",
+    "meaning": "쉬는 날이 아니었어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "今日は休みだそうです。",
+    "hiragana": "きょうは やすみだそうです。",
+    "romaji": "kyō wa yasumi da sō desu",
+    "korean_pron": "쿄와 야스미 다 소우데스",
+    "meaning": "오늘은 휴일이라고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "今日は休みじゃないそうです。",
+    "hiragana": "きょうは やすみじゃないそうです。",
+    "romaji": "kyō wa yasumi janai sō desu",
+    "korean_pron": "쿄와 야스미 자나이 소우데스",
+    "meaning": "오늘은 휴일이 아니라고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "今日は休みだったそうです。",
+    "hiragana": "きょうは やすみだったそうです。",
+    "romaji": "kyō wa yasumi datta sō desu",
+    "korean_pron": "쿄와 야스미 닷타 소우데스",
+    "meaning": "오늘은 휴일이었다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "今日は休みじゃなかったそうです。",
+    "hiragana": "きょうは やすみじゃなかったそうです。",
+    "romaji": "kyō wa yasumi janakatta sō desu",
+    "korean_pron": "쿄와 야스미 자나캇타 소우데스",
+    "meaning": "오늘은 휴일이 아니었다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "親切だそうです。",
+    "hiragana": "しんせつだそうです。",
+    "romaji": "shinsetsu da sō desu",
+    "korean_pron": "신세츠 다 소우데스",
+    "meaning": "친절하다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "親切じゃないそうです。",
+    "hiragana": "しんせつじゃないそうです。",
+    "romaji": "shinsetsu janai sō desu",
+    "korean_pron": "신세츠 자나이 소우데스",
+    "meaning": "친절하지 않다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "親切だったそうです。",
+    "hiragana": "しんせつだったそうです。",
+    "romaji": "shinsetsu datta sō desu",
+    "korean_pron": "신세츠 닷타 소우데스",
+    "meaning": "친절했다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "親切じゃなかったそうです。",
+    "hiragana": "しんせつじゃなかったそうです。",
+    "romaji": "shinsetsu janakatta sō desu",
+    "korean_pron": "신세츠 자나캇타 소우데스",
+    "meaning": "친절하지 않았다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "忙しいそうです。",
+    "hiragana": "いそがしいそうです。",
+    "romaji": "isogashii sō desu",
+    "korean_pron": "이소가시이 소우데스",
+    "meaning": "바쁘다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "忙しくないそうです。",
+    "hiragana": "いそがしくないそうです。",
+    "romaji": "isogashikunai sō desu",
+    "korean_pron": "이소가시쿠나이 소우데스",
+    "meaning": "바쁘지 않다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "忙しかったそうです。",
+    "hiragana": "いそがしかったそうです。",
+    "romaji": "isogashikatta sō desu",
+    "korean_pron": "이소가시캇타 소우데스",
+    "meaning": "바빴다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "忙しくなかったそうです。",
+    "hiragana": "いそがしくなかったそうです。",
+    "romaji": "isogashikunakatta sō desu",
+    "korean_pron": "이소가시쿠나캇타 소우데스",
+    "meaning": "바쁘지 않았다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "休むそうです。",
+    "hiragana": "やすむそうです。",
+    "romaji": "yasumu sō desu",
+    "korean_pron": "야스무 소우데스",
+    "meaning": "쉰다고 해요 / 쉰답니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "休まないそうです。",
+    "hiragana": "やすまないそうです。",
+    "romaji": "yasumanai sō desu",
+    "korean_pron": "야스마나이 소우데스",
+    "meaning": "쉬지 않는다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "休んだそうです。",
+    "hiragana": "やすんだそうです。",
+    "romaji": "yasunda sō desu",
+    "korean_pron": "야순다 소우데스",
+    "meaning": "쉬었다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "休まなかったそうです。",
+    "hiragana": "やすまなかったそうです。",
+    "romaji": "yasumanakatta sō desu",
+    "korean_pron": "야스마나캇타 소우데스",
+    "meaning": "쉬지 않았다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "行くそうです。",
+    "hiragana": "いくそうです。",
+    "romaji": "iku sō desu",
+    "korean_pron": "이쿠 소우데스",
+    "meaning": "간다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "行かないそうです。",
+    "hiragana": "いかないそうです。",
+    "romaji": "ikanai sō desu",
+    "korean_pron": "이카나이 소우데스",
+    "meaning": "안 간다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "行ったそうです。",
+    "hiragana": "いったそうです。",
+    "romaji": "itta sō desu",
+    "korean_pron": "잇타 소우데스",
+    "meaning": "갔다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "行かなかったそうです。",
+    "hiragana": "いかなかったそうです。",
+    "romaji": "ikanakatta sō desu",
+    "korean_pron": "이카나캇타 소우데스",
+    "meaning": "안 갔다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "話すそうです。",
+    "hiragana": "はなすそうです。",
+    "romaji": "hanasu sō desu",
+    "korean_pron": "하나스 소우데스",
+    "meaning": "이야기한다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "話さないそうです。",
+    "hiragana": "はなさないそうです。",
+    "romaji": "hanasanai sō desu",
+    "korean_pron": "하나사나이 소우데스",
+    "meaning": "이야기하지 않는다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "話したそうです。",
+    "hiragana": "はなしたそうです。",
+    "romaji": "hanashita sō desu",
+    "korean_pron": "하나시타 소우데스",
+    "meaning": "이야기했다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "話さなかったそうです。",
+    "hiragana": "はなさなかったそうです。",
+    "romaji": "hanasanakatta sō desu",
+    "korean_pron": "하나사나캇타 소우데스",
+    "meaning": "이야기하지 않았다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "今日は休みだそうです。",
+    "hiragana": "きょうは やすみだそうです。",
+    "romaji": "kyō wa yasumi da sō desu",
+    "korean_pron": "쿄와 야스미 다 소우데스",
+    "meaning": "오늘은 쉰다고 해요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "今日は休みじゃないそうです。",
+    "hiragana": "きょうは やすみじゃないそうです。",
+    "romaji": "kyō wa yasumi janai sō desu",
+    "korean_pron": "쿄와 야스미 자나이 소우데스",
+    "meaning": "오늘은 쉬지 않는다고 해요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "今日は休みだったそうです。",
+    "hiragana": "きょうは やすみだったそうです。",
+    "romaji": "kyō wa yasumi datta sō desu",
+    "korean_pron": "쿄와 야스미 닷타 소우데스",
+    "meaning": "오늘은 쉬었다고 해요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "今日は休みじゃなかったそうです。",
+    "hiragana": "きょうは やすみじゃなかったそうです。",
+    "romaji": "kyō wa yasumi janakatta sō desu",
+    "korean_pron": "쿄와 야스미 자나캇타 소우데스",
+    "meaning": "오늘은 쉬지 않았다고 해요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "親切だそうです。",
+    "hiragana": "しんせつだそうです。",
+    "romaji": "shinsetsu da sō desu",
+    "korean_pron": "신세츠 다 소우데스",
+    "meaning": "친절하다고 해요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "親切じゃないそうです。",
+    "hiragana": "しんせつじゃないそうです。",
+    "romaji": "shinsetsu janai sō desu",
+    "korean_pron": "신세츠 자나이 소우데스",
+    "meaning": "친절하지 않다고 해요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "親切だったそうです。",
+    "hiragana": "しんせつだったそうです。",
+    "romaji": "shinsetsu datta sō desu",
+    "korean_pron": "신세츠 닷타 소우데스",
+    "meaning": "친절했다고 해요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "親切じゃなかったそうです。",
+    "hiragana": "しんせつじゃなかったそうです。",
+    "romaji": "shinsetsu janakatta sō desu",
+    "korean_pron": "신세츠 자나캇타 소우데스",
+    "meaning": "친절하지 않았다고 해요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "忙しいそうです。",
+    "hiragana": "いそがしいそうです。",
+    "romaji": "isogashii sō desu",
+    "korean_pron": "이소가시이 소우데스",
+    "meaning": "바쁘다고 해요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "忙しくないそうです。",
+    "hiragana": "いそがしくないそうです。",
+    "romaji": "isogashiku nai sō desu",
+    "korean_pron": "이소가시쿠 나이 소우데스",
+    "meaning": "바쁘지 않다고 해요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "忙しかったそうです。",
+    "hiragana": "いそがしかったそうです。",
+    "romaji": "isogashikatta sō desu",
+    "korean_pron": "이소가시캇타 소우데스",
+    "meaning": "바빴다고 해요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "忙しくなかったそうです。",
+    "hiragana": "いそがしくなかったそうです。",
+    "romaji": "isogashiku nakatta sō desu",
+    "korean_pron": "이소가시쿠 나캇타 소우데스",
+    "meaning": "바쁘지 않았다고 해요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "今日休むそうです。",
+    "hiragana": "きょう やすむそうです。",
+    "romaji": "kyō yasumu sō desu",
+    "korean_pron": "쿄 야스무 소우데스",
+    "meaning": "오늘 쉰다고 해요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "休まないそうです。",
+    "hiragana": "やすまないそうです。",
+    "romaji": "yasumanai sō desu",
+    "korean_pron": "야스마나이 소우데스",
+    "meaning": "쉰다고 하지 않아요. / 안 쉰다고 해요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "休んだそうです。",
+    "hiragana": "やすんだそうです。",
+    "romaji": "yasunda sō desu",
+    "korean_pron": "야순다 소우데스",
+    "meaning": "쉬었다고 해요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "休まなかったそうです。",
+    "hiragana": "やすまなかったそうです。",
+    "romaji": "yasumanakatta sō desu",
+    "korean_pron": "야스마나캇타 소우데스",
+    "meaning": "쉬지 않았다고 해요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ヤンさんはバスが来なくて遅れるそうです。",
+    "hiragana": "やんさんは ばすが こなくて おくれるそうです。",
+    "romaji": "yan san wa basu ga konakute okureru sō desu",
+    "korean_pron": "얀상와 바스가 코나쿠테 오쿠레루 소우데스",
+    "meaning": "양 씨는 버스가 안 와서 늦는다고 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "旅行に行こうと思います。",
+    "hiragana": "りょこうにいこうとおもいます。",
+    "romaji": "ryokō ni ikō to omoimasu",
+    "korean_pron": "료코우니 이코우토 오모이마스",
+    "meaning": "여행을 가려고 생각합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "紹介されました。",
+    "hiragana": "しょうかいされました。",
+    "romaji": "shōkai saremashita",
+    "korean_pron": "쇼우카이사레마시타",
+    "meaning": "소개받았어요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "予約しないで食べられますか。",
+    "hiragana": "よやくしないでたべられますか。",
+    "romaji": "yoyaku shinaide taberaremasu ka",
+    "korean_pron": "요야쿠 시나이데 타베라레마스카",
+    "meaning": "예약 안 하고 먹을 수 있나요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "일본어 문장",
+    "hiragana": "ひらがな",
+    "romaji": "로마자",
+    "korean_pron": "한글 발음",
+    "meaning": "의미",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "注意されました。",
+    "hiragana": "ちゅういされました。",
+    "romaji": "chūi saremashita",
+    "korean_pron": "츄우이 사레마시타",
+    "meaning": "주의를 받았어요 / 혼났어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "紹介されました。",
+    "hiragana": "しょうかいされました。",
+    "romaji": "shōkai saremashita",
+    "korean_pron": "쇼우카이 사레마시타",
+    "meaning": "소개받았어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "招待されました。",
+    "hiragana": "しょうたいされました。",
+    "romaji": "shōtai saremashita",
+    "korean_pron": "쇼우타이 사레마시타",
+    "meaning": "초대받았어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "感動されました。",
+    "hiragana": "かんどうされました。",
+    "romaji": "kandō saremashita",
+    "korean_pron": "칸도우 사레마시타",
+    "meaning": "감동하셨습니다 (높임 표현)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "会わなければなりません。",
+    "hiragana": "あわなければなりません。",
+    "romaji": "awanakereba narimasen",
+    "korean_pron": "아와나케레바 나리마센",
+    "meaning": "만나지 않으면 안 돼요 / 꼭 만나야 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "背が高くて髪が長くないから",
+    "hiragana": "せがたかくてかみがながくないから",
+    "romaji": "se ga takakute kami ga nagakunai kara",
+    "korean_pron": "세가 타카쿠테 카미가 나가쿠나이카라",
+    "meaning": "키가 크고 머리카락이 길지 않아서",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "健康のためには野菜がいいです。",
+    "hiragana": "けんこうのためにはやさいがいいです。",
+    "romaji": "kenkō no tame ni wa yasai ga ii desu",
+    "korean_pron": "켄코오노 타메니와 야사이가 이이데스",
+    "meaning": "건강을 위해서는 야채가 좋아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "安いものは少なく高いものばかりですね",
+    "hiragana": "やすいものはすくなくたかいものばかりですね",
+    "romaji": "yasui mono wa sukunaku takai mono bakari desu ne",
+    "korean_pron": "야스이 모노와 스쿠나쿠 타카이 모노 바카리데스네",
+    "meaning": "싼 것은 적고 비싼 것만 있네요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "さいふはこれだけでしょう。もうないです。",
+    "hiragana": "さいふはこれだけでしょう。もうないです。",
+    "romaji": "saifu wa kore dake deshō. mō nai desu.",
+    "korean_pron": "사이후와 코레다케 데쇼오. 모오 나이데스.",
+    "meaning": "지갑은 이게 전부겠네요. 더는 없어요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ご注文のすき焼きでございます。",
+    "hiragana": "ごちゅうもんのすきやきでございます。",
+    "romaji": "gochūmon no sukiyaki de gozaimasu",
+    "korean_pron": "고츄우몬노 스키야키데고자이마스",
+    "meaning": "주문하신 스키야키입니다.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ごゆっくりどうぞ。",
+    "hiragana": "ごゆっくりどうぞ。",
+    "romaji": "go yukkuri dōzo",
+    "korean_pron": "고 윳쿠리 도우조",
+    "meaning": "천천히 즐기세요. / 편하게 드세요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "あ、お肉が とても やわらかく なりましたね。",
+    "hiragana": "あ、おにくが とても やわらかく なりましたね。",
+    "romaji": "a, oniku ga totemo yawarakaku narimashita ne",
+    "korean_pron": "아, 오니쿠가 토테모 야와라카쿠 나리마시타네",
+    "meaning": "아, 고기가 아주 부드러워졌네요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "食べすぎてしまうから 気をつけなければなりません。",
+    "hiragana": "たべすぎてしまうから きをつけなければなりません。",
+    "romaji": "tabesugite shimau kara ki o tsukenakereba narimasen",
+    "korean_pron": "타베스기테 시마우카라 키오 츠케나케레바 나리마센",
+    "meaning": "너무 많이 먹어버리니까 조심해야 합니다.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "生たまご",
+    "hiragana": "なまたまご",
+    "romaji": "nama tamago",
+    "korean_pron": "나마 타마고",
+    "meaning": "날달걀",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "生ビール",
+    "hiragana": "なまびーる",
+    "romaji": "nama bīru",
+    "korean_pron": "나마 비이루",
+    "meaning": "생맥주",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "どうやって 会えますか。",
+    "hiragana": "どうやって あえますか。",
+    "romaji": "dō yatte aemasu ka",
+    "korean_pron": "도우얏테 아에마스카",
+    "meaning": "어떻게 만날 수 있어요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "もっときれいになる",
+    "hiragana": "もっと きれいに なる",
+    "romaji": "motto kirei ni naru",
+    "korean_pron": "못또 키레이니 나루",
+    "meaning": "더 예뻐지다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "もっと上手になる",
+    "hiragana": "もっと じょうず に なる",
+    "romaji": "motto jōzu ni naru",
+    "korean_pron": "못또 죠오즈니 나루",
+    "meaning": "더 잘하게 되다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "もっと忙しくなる",
+    "hiragana": "もっと いそがしく なる",
+    "romaji": "motto isogashiku naru",
+    "korean_pron": "못또 이소가시쿠 나루",
+    "meaning": "더 바빠진다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お金を使いすぎてしまうから",
+    "hiragana": "おかねを つかいすぎて しまう から",
+    "romaji": "okane o tsukaisugite shimau kara",
+    "korean_pron": "오카네오 츠카이수기테 시마우카라",
+    "meaning": "돈을 너무 써버리니까 / 돈을 너무 써버려서",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "飲みすぎてしまうから",
+    "hiragana": "のみすぎて しまう から",
+    "romaji": "nomisugite shimau kara",
+    "korean_pron": "노미수기테 시마우카라",
+    "meaning": "너무 마셔버리니까 / 너무 마셔서",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "しかられます",
+    "hiragana": "しかられます",
+    "romaji": "shikararemasu",
+    "korean_pron": "시카라레마스",
+    "meaning": "야단맞아요 / 혼나요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "柔らかい",
+    "hiragana": "やわらかい",
+    "romaji": "yawarakai",
+    "korean_pron": "야와라카이",
+    "meaning": "부드럽다, 말랑하다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "食べ過ぎてしまう。",
+    "hiragana": "たべすぎてしまう。",
+    "romaji": "tabesugite shimau",
+    "korean_pron": "타베스기테 시마우",
+    "meaning": "너무 많이 먹어버리다 / 과식하게 된다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "もっときれいになります。",
+    "hiragana": "もっときれいになります。",
+    "romaji": "motto kirei ni narimasu",
+    "korean_pron": "못또 키레이 니 나리마스",
+    "meaning": "더 예뻐집니다 / 더 깨끗해집니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "すてちゃいます。",
+    "hiragana": "すてちゃいます。",
+    "romaji": "sutechaimasu",
+    "korean_pron": "스테챠이마스",
+    "meaning": "버려버려요 / 버릴 거예요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "일본어 문장",
+    "hiragana": "ひらがな",
+    "romaji": "로마자",
+    "korean_pron": "한글 발음",
+    "meaning": "의미",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "レストランは 父の 名前で 予約されました。",
+    "hiragana": "レストランは ちちの なまえで よやくされました。",
+    "romaji": "resutoran wa chichi no namae de yoyaku saremashita",
+    "korean_pron": "레스토랑와 치치노 나마에데 요야쿠 사레마시타",
+    "meaning": "레스토랑은 아버지의 이름으로 예약되었어요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "柔らかくなります",
+    "hiragana": "やわらかくなります",
+    "romaji": "yawarakaku narimasu",
+    "korean_pron": "야와라카쿠 나리마스",
+    "meaning": "부드러워집니다 / 부드러워진다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "雨に ふられました",
+    "hiragana": "あめに ふられました",
+    "romaji": "ame ni furaremashita",
+    "korean_pron": "아메니 후라레마시타",
+    "meaning": "비를 맞았어요 / 비를 당했어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "10年前に 建てられました",
+    "hiragana": "じゅうねんまえに たてられました",
+    "romaji": "jūnen mae ni tateraremashita",
+    "korean_pron": "주우넨마에니 타테라레마시타",
+    "meaning": "10년 전에 세워졌어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "来られて困りました",
+    "hiragana": "こられて こまりました",
+    "romaji": "korarete komarimashita",
+    "korean_pron": "코라레테 코마리마시타",
+    "meaning": "찾아와서 곤란했습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ぬすまれます",
+    "hiragana": "ぬすまれます",
+    "romaji": "nusumaremasu",
+    "korean_pron": "누스마레마스",
+    "meaning": "도둑맞아요 / 도둑을 당해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "かまれます",
+    "hiragana": "かまれます",
+    "romaji": "kamaremasu",
+    "korean_pron": "카마레마스",
+    "meaning": "물려요 / 물리다 (물림을 당하다)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "いやされます",
+    "hiragana": "いやされます",
+    "romaji": "iyasaremasu",
+    "korean_pron": "이야사레마스",
+    "meaning": "치유받아요 / 위로받아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "たのまれます",
+    "hiragana": "たのまれます",
+    "romaji": "tanomaremasu",
+    "korean_pron": "타노마레마스",
+    "meaning": "부탁받아요 / 부탁을 받다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "일본어(수동형)",
+    "hiragana": "ひらがな",
+    "romaji": "로마자",
+    "korean_pron": "한글 발음",
+    "meaning": "의미",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "盗まれる",
+    "hiragana": "ぬすまれる",
+    "romaji": "nusumareru",
+    "korean_pron": "누스마레루",
+    "meaning": "도둑맞다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "噛まれる",
+    "hiragana": "かまれる",
+    "romaji": "kamareru",
+    "korean_pron": "카마레루",
+    "meaning": "물리다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "癒される",
+    "hiragana": "いやされる",
+    "romaji": "iyasareru",
+    "korean_pron": "이야사레루",
+    "meaning": "치유받다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "頼まれる",
+    "hiragana": "たのまれる",
+    "romaji": "tanomareru",
+    "korean_pron": "타노마레루",
+    "meaning": "부탁받다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "姉はいつも母に褒められます。",
+    "hiragana": "あね は いつも はは に ほめられます",
+    "romaji": "ane wa itsumo haha ni homeraremasu",
+    "korean_pron": "아네 와 이츠모 하하 니 호메라레마스",
+    "meaning": "언니는 항상 엄마에게 칭찬을 받아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "雨に降られる",
+    "hiragana": "あめ に ふられる",
+    "romaji": "ame ni furareru",
+    "korean_pron": "아메 니 후라레루",
+    "meaning": "비를 맞다 / 비를 당하다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "１０年前に建てられました",
+    "hiragana": "じゅうねん まえ に たてられました",
+    "romaji": "jūnen mae ni tateraremashita",
+    "korean_pron": "주우넨 마에 니 타테라레마시타",
+    "meaning": "10년 전에 지어졌어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "元彼女に来られて困りました",
+    "hiragana": "もとかのじょ に こられて こまりました",
+    "romaji": "motokanojo ni korarete komarimashita",
+    "korean_pron": "모토카노조 니 코라레테 코마리마시타",
+    "meaning": "전 여자친구가 찾아와서 곤란했습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "叱らないで褒めました",
+    "hiragana": "しからないで ほめました",
+    "romaji": "shikaranaide homemashita",
+    "korean_pron": "시카라나이데 호메마시타",
+    "meaning": "야단치지 않고 칭찬했어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "1. 朝ごはんを食べないで出かけます。",
+    "hiragana": "あさごはんを たべないで でかけます",
+    "romaji": "asagohan o tabenaide dekakemasu",
+    "korean_pron": "아사가혼오 타베나이데 데카케마스",
+    "meaning": "아침을 먹지 않고 나가요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "2. 傘を持たないで家を出ます。",
+    "hiragana": "かさを もたないで いえを でます",
+    "romaji": "kasa o motanaide ie o demasu",
+    "korean_pron": "카사오 모타나이데 이에오 데마스",
+    "meaning": "우산을 안 가지고 집을 나가요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "3. 手を洗わないで料理します。",
+    "hiragana": "てを あらわないで りょうりします",
+    "romaji": "te o arawanaide ryōri shimasu",
+    "korean_pron": "테오 아라와나이데 료오리시마스",
+    "meaning": "손을 씻지 않고 요리해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "4. 読まないで提出します。",
+    "hiragana": "よまないで ていしゅつします",
+    "romaji": "yomanaide teishutsu shimasu",
+    "korean_pron": "요마나이데 테이슈츠시마스",
+    "meaning": "읽지 않고 제출해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "5. 叱らないで話します。",
+    "hiragana": "しからないで はなします",
+    "romaji": "shikaranaide hanashimasu",
+    "korean_pron": "시카라나이데 하나시마스",
+    "meaning": "야단치지 않고 말해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "6. 泳がないで見ています。",
+    "hiragana": "およがないで みています",
+    "romaji": "oyoganaide mite imasu",
+    "korean_pron": "오요가나이데 미테이마스",
+    "meaning": "수영하지 않고 보고 있어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "7. 休まないで働きます。",
+    "hiragana": "やすまないで はたらきます",
+    "romaji": "yasumanaide hatarakimasu",
+    "korean_pron": "야스마나이데 하타라키마스",
+    "meaning": "쉬지 않고 일해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "8. 連絡しないで来ます。",
+    "hiragana": "れんらくしないで きます",
+    "romaji": "renraku shinaide kimasu",
+    "korean_pron": "렌라쿠 시나이데 키마스",
+    "meaning": "연락하지 않고 와요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "9. 泣かないで話します。",
+    "hiragana": "なかないで はなします",
+    "romaji": "nakanaide hanashimasu",
+    "korean_pron": "나카나이데 하나시마스",
+    "meaning": "울지 않고 말해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "10. 焦らないで進みます。",
+    "hiragana": "あせらないで すすみます",
+    "romaji": "aseranaide susumimasu",
+    "korean_pron": "아세라나이데 스스미마스",
+    "meaning": "서두르지 않고 나아가요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "あなたに会うために今まで待っていました。",
+    "hiragana": "あなたに あうために いままで まっていました",
+    "romaji": "anata ni au tame ni ima made matte imashita",
+    "korean_pron": "아나타니 아우 타메니 이마마데 맛테이마시타",
+    "meaning": "당신을 만나기 위해서 지금까지 기다렸습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "日本語が上手になるために",
+    "hiragana": "にほんごが じょうずに なる ために",
+    "romaji": "nihongo ga jōzu ni naru tame ni",
+    "korean_pron": "니홍고가 죠오즈니 나루 타메니",
+    "meaning": "일본어를 잘하기 위해서",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "会えるために",
+    "hiragana": "あえる ために",
+    "romaji": "aeru tame ni",
+    "korean_pron": "아에루 타메니",
+    "meaning": "만날 수 있기 위해",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "粘り強く勉強します。",
+    "hiragana": "ねばりづよく べんきょうします",
+    "romaji": "nebarizuyoku benkyō shimasu",
+    "korean_pron": "네바리즈요쿠 벤쿄오시마스",
+    "meaning": "끈질기게 공부합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "彼は我慢強い人です。",
+    "hiragana": "かれは がまんつよい ひとです",
+    "romaji": "kare wa gamantsuyoi hito desu",
+    "korean_pron": "카레와 가만츠요이 히토데스",
+    "meaning": "그는 참을성 많은 사람입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "日本語が上手になるために",
+    "hiragana": "にほんごが じょうずに なる ために",
+    "romaji": "nihongo ga jōzu ni naru tame ni",
+    "korean_pron": "니홍고가 조오즈니 나루 타메니",
+    "meaning": "일본어를 잘하기 위해서",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "毎日勉強してください",
+    "hiragana": "まいにち べんきょうしてください",
+    "romaji": "mainichi benkyō shite kudasai",
+    "korean_pron": "마이니치 벤쿄오 시테 쿠다사이",
+    "meaning": "매일 공부해주세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "朝7時に家を出なければなりません",
+    "hiragana": "あさ しちじに いえを でなければ なりません",
+    "romaji": "asa shichiji ni ie o denakereba narimasen",
+    "korean_pron": "아사 시치지니 이에오 데나케레바 나리마센",
+    "meaning": "아침 7시에 집을 나서지 않으면 안 돼요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "宿題をしなければなりません",
+    "hiragana": "しゅくだいを しなければ なりません",
+    "romaji": "shukudai o shinakereba narimasen",
+    "korean_pron": "슈쿠다이오 시나케레바 나리마센",
+    "meaning": "숙제를 하지 않으면 안 돼요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "早く寝なければなりません",
+    "hiragana": "はやく ねなければ なりません",
+    "romaji": "hayaku nenakereba narimasen",
+    "korean_pron": "하야쿠 네나케레바 나리마센",
+    "meaning": "빨리 자지 않으면 안 돼요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "明日までにレポートを出さなければなりません",
+    "hiragana": "あしたまでに れぽーとを ださなければ なりません",
+    "romaji": "ashita made ni repōto o dasanakereba narimasen",
+    "korean_pron": "아시타마데니 레포오토오 다사나케레바 나리마센",
+    "meaning": "내일까지 레포트를 제출하지 않으면 안 돼요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "会社に連絡しなければなりません",
+    "hiragana": "かいしゃに れんらく しなければ なりません",
+    "romaji": "kaisha ni renraku shinakereba narimasen",
+    "korean_pron": "카이샤니 렌라쿠 시나케레바 나리마센",
+    "meaning": "회사에 연락하지 않으면 안 돼요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "パスポートを持って行かなければなりません",
+    "hiragana": "ぱすぽーとを もって いかなければ なりません",
+    "romaji": "pasupōto o motte ikanakereba narimasen",
+    "korean_pron": "파스포오토오 못테 이카나케레바 나리마센",
+    "meaning": "여권을 가져가지 않으면 안 돼요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "野菜を食べなければなりません",
+    "hiragana": "やさいを たべなければ なりません",
+    "romaji": "yasai o tabenakereba narimasen",
+    "korean_pron": "야사이오 타베나케레바 나리마센",
+    "meaning": "채소를 먹지 않으면 안 돼요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "電車に乗らなければなりません",
+    "hiragana": "でんしゃに のらなければ なりません",
+    "romaji": "densha ni noranakereba narimasen",
+    "korean_pron": "덴샤니 노라나케레바 나리마센",
+    "meaning": "전철을 타지 않으면 안 돼요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "時間を守らなければなりません",
+    "hiragana": "じかんを まもらなければ なりません",
+    "romaji": "jikan o mamoranakereba narimasen",
+    "korean_pron": "지칸오 마모라나케레바 나리마센",
+    "meaning": "시간을 지키지 않으면 안 돼요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "家に帰らなければなりません",
+    "hiragana": "いえに かえらなければ なりません",
+    "romaji": "ie ni kaeranakereba narimasen",
+    "korean_pron": "이에니 카에라나케레바 나리마센",
+    "meaning": "집에 돌아가지 않으면 안 돼요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "健康のために運動しなければなりません",
+    "hiragana": "けんこうのために うんどう しなければ なりません",
+    "romaji": "kenkō no tame ni undō shinakereba narimasen",
+    "korean_pron": "켄코오노 타메니 운도오 시나케레바 나리마센",
+    "meaning": "건강을 위해 운동하지 않으면 안 돼요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "顔を洗わなければなりません",
+    "hiragana": "かおを あらわなければ なりません",
+    "romaji": "kao o arawanakereba narimasen",
+    "korean_pron": "카오오 아라와나케레바 나리마센",
+    "meaning": "얼굴을 씻지 않으면 안 돼요 / 얼굴을 씻어야 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "歯を磨かなければなりません",
+    "hiragana": "はを みがかなければ なりません",
+    "romaji": "ha o migakanakereba narimasen",
+    "korean_pron": "하오 미가카나케레바 나리마센",
+    "meaning": "이를 닦지 않으면 안 돼요 / 이를 닦아야 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "働かなければなりません",
+    "hiragana": "はたらかなければ なりません",
+    "romaji": "hatarakanakereba narimasen",
+    "korean_pron": "하타라카나케레바 나리마센",
+    "meaning": "일하지 않으면 안 돼요 / 일해야 합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "着替えなければなりません",
+    "hiragana": "きがえなければ なりません",
+    "romaji": "kikaenakereba narimasen",
+    "korean_pron": "키가에나케레바 나리마센",
+    "meaning": "갈아입지 않으면 안 돼요 / 갈아입어야 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "歯を磨く",
+    "hiragana": "はを みがく",
+    "romaji": "ha o migaku",
+    "korean_pron": "하오 미가쿠",
+    "meaning": "이를 닦다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "着替える",
+    "hiragana": "きがえる",
+    "romaji": "kigaeru",
+    "korean_pron": "키가에루",
+    "meaning": "갈아입다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "マナーを守らなければなりません",
+    "hiragana": "まなーを まもらなければ なりません",
+    "romaji": "manā o mamoranakereba narimasen",
+    "korean_pron": "마나아오 마모라나케레바 나리마센",
+    "meaning": "매너를 지켜야 합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "明日は会社に出勤しなければなりません。",
+    "hiragana": "あしたは かいしゃに しゅっきんしなければ なりません",
+    "romaji": "ashita wa kaisha ni shukkin shinakereba narimasen",
+    "korean_pron": "아시타와 카이샤니 슈킷낀 시나케레바 나리마센",
+    "meaning": "내일은 회사에 출근해야 합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "寝なければなりません。",
+    "hiragana": "ねなければ なりません",
+    "romaji": "nenakereba narimasen",
+    "korean_pron": "네나케레바 나리마센",
+    "meaning": "자야 합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "顔を洗わなければなりません。",
+    "hiragana": "かおを あらわなければ なりません",
+    "romaji": "kao o arawanakereba narimasen",
+    "korean_pron": "카오오 아라와나케레바 나리마센",
+    "meaning": "얼굴을 씻어야 합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "働かなければなりません。",
+    "hiragana": "はたらかなければ なりません",
+    "romaji": "hatarakana kereba narimasen",
+    "korean_pron": "하타라카나케레바 나리마센",
+    "meaning": "일해야 합니다(✔ 올바른 표현)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "11月24日 月曜日",
+    "hiragana": "じゅういちがつ にじゅうよっか げつようび",
+    "romaji": "jūichigatsu nijūyokka getsuyōbi",
+    "korean_pron": "쥬이치가츠 니쥬욧카 게츠요오비",
+    "meaning": "11월 24일 월요일",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ここは人気のある店で、テレビでも紹介されました。",
+    "hiragana": "ここは にんきのある みせで、てれびでも しょうかいされました",
+    "romaji": "koko wa ninki no aru mise de, terebi demo shōkai saremashita",
+    "korean_pron": "코코와 닌키노 아루 미세데, 테레비데모 쇼오카이 사레마시타",
+    "meaning": "여기는 인기 있는 가게이고, TV에서도 소개되었습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "肉を食べ過ぎないように気を付けなければなりません。",
+    "hiragana": "にくを たべすぎない ように きをつけなければ なりません",
+    "romaji": "niku o tabesuginai yō ni ki o tsukenakereba narimasen",
+    "korean_pron": "니쿠오 타베스기나이 요오니 키오 츠케나케레바 나리마센",
+    "meaning": "고기를 너무 많이 먹지 않도록 조심해야 합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "昨日から熱があるようです。",
+    "hiragana": "きのう から ねつ が ある ようです",
+    "romaji": "kinō kara netsu ga aru yō desu",
+    "korean_pron": "기노오 카라 네츠가 아루 요우데스",
+    "meaning": "어제부터 열이 있는 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "せきも出ますか。",
+    "hiragana": "せき も でます か",
+    "romaji": "seki mo demasu ka",
+    "korean_pron": "세키 모 데마스카",
+    "meaning": "기침도 나나요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "はい、薬を飲めばいいですか。",
+    "hiragana": "はい、くすり を のめば いい です か",
+    "romaji": "hai, kusuri o nomeba ii desu ka",
+    "korean_pron": "하이 쿠스리오 노메바 이이데스카",
+    "meaning": "네, 약을 먹으면 되나요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "風邪かもしれません。薬を飲んで休んだ方がいいですね。",
+    "hiragana": "かぜ かも しれません。くすり を のんで やすんだ ほう が いい です ね",
+    "romaji": "kaze kamo shiremasen. kusuri o nonde yasunda hō ga ii desu ne",
+    "korean_pron": "카제 카모 시레마센. 쿠스리오 논데 야슨다 호오가 이이데스네",
+    "meaning": "감기일지도 몰라요. 약 먹고 쉬는 편이 좋겠네요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "食べ放題は、同じ料金でいくらでも食べられます。",
+    "hiragana": "たべほうだい は、おなじ りょうきん で いくらでも たべられます",
+    "romaji": "tabehōdai wa, onaji ryōkin de ikura demo taberaremasu",
+    "korean_pron": "타베호우다이 와, 오나지 료오킨데 이쿠라데모 타베라레마스",
+    "meaning": "먹放(뷔페)는 같은 요금으로 얼마든지 먹을 수 있다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "日本人はよくお茶を飲みます。",
+    "hiragana": "にほんじん は よく おちゃ を のみます",
+    "romaji": "nihonjin wa yoku ocha o nomimasu",
+    "korean_pron": "니혼진와 요쿠 오챠오 노미마스",
+    "meaning": "일본인은 차를 자주 마셔요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "明日は雨が降るようです。",
+    "hiragana": "あした は あめ が ふる よう です",
+    "romaji": "ashita wa ame ga furu yō desu",
+    "korean_pron": "아시타와 아메가 후루 요우데스",
+    "meaning": "내일은 비가 올 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "雨は降らないようです。",
+    "hiragana": "あめ は ふらない よう です",
+    "romaji": "ame wa furanai yō desu",
+    "korean_pron": "아메와 후라나이 요우데스",
+    "meaning": "비는 안 올 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "降ったほうがいいです。",
+    "hiragana": "ふった ほう が いい です",
+    "romaji": "futta hō ga ii desu",
+    "korean_pron": "훗타 호오가 이이데스",
+    "meaning": "(비가) 내린 편이 좋습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "雨が降るかもしれません。",
+    "hiragana": "あめ が ふる かも しれません",
+    "romaji": "ame ga furu kamo shiremasen",
+    "korean_pron": "아메가 후루 카모 시레마센",
+    "meaning": "비가 내릴지도 몰라요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "雨が降れば行きません。",
+    "hiragana": "あめ が ふれば いきません",
+    "romaji": "ame ga fureba ikimasen",
+    "korean_pron": "아메가 후레바 이키마센",
+    "meaning": "비가 오면 안 갈래요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "雨が降れば行かないほうがいいです。",
+    "hiragana": "あめ が ふれば いかない ほう が いい です",
+    "romaji": "ame ga fureba ikanai hō ga ii desu",
+    "korean_pron": "아메가 후레바 이카나이 호오가 이이데스",
+    "meaning": "비가 내리면 안 가는 편이 좋습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "頭が痛いから薬を飲みました。",
+    "hiragana": "あたま が いたい から くすり を のみました",
+    "romaji": "atama ga itai kara kusuri o nomimashita",
+    "korean_pron": "아타마가 이타이 카라 쿠스리오 노미마시타",
+    "meaning": "머리가 아파서 약을 먹었어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "具合が悪いから家で休みました。",
+    "hiragana": "ぐあい が わるい から いえ で やすみました",
+    "romaji": "guai ga warui kara ie de yasumimashita",
+    "korean_pron": "구아이 가 와루이 카라 이에데 야수미마시타",
+    "meaning": "아파서 집에서 쉬었어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "熱がある",
+    "hiragana": "ねつが ある",
+    "romaji": "netsu ga aru",
+    "korean_pron": "네츠가 아루",
+    "meaning": "열이 있다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "頭が痛い",
+    "hiragana": "あたまが いたい",
+    "romaji": "atama ga itai",
+    "korean_pron": "아타마가 이타이",
+    "meaning": "머리가 아프다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "喉がはれる",
+    "hiragana": "のどが はれる",
+    "romaji": "nodo ga hareru",
+    "korean_pron": "노도가 하레루",
+    "meaning": "목이 붓다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "咳が出る",
+    "hiragana": "せきが でる",
+    "romaji": "seki ga deru",
+    "korean_pron": "세키가 데루",
+    "meaning": "기침이 나다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "口を開ける",
+    "hiragana": "くちを あける",
+    "romaji": "kuchi o akeru",
+    "korean_pron": "쿠치오 아케루",
+    "meaning": "입을 열다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "風邪を引く",
+    "hiragana": "かぜを ひく",
+    "romaji": "kaze o hiku",
+    "korean_pron": "카제오 히쿠",
+    "meaning": "감기에 걸리다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "薬を飲む",
+    "hiragana": "くすりを のむ",
+    "romaji": "kusuri o nomu",
+    "korean_pron": "쿠스리오 노무",
+    "meaning": "약을 먹다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "頭が痛いから薬を飲みました。",
+    "hiragana": "あたまが いたい から くすりを のみました",
+    "romaji": "atama ga itai kara kusuri o nomimashita",
+    "korean_pron": "아타마가 이타이 카라 쿠스리오 노미마시타",
+    "meaning": "머리가 아파서 약을 먹었어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "具合が悪いから家で休みました。",
+    "hiragana": "ぐあいが わるい から いえで やすみました",
+    "romaji": "guai ga warui kara ie de yasumimashita",
+    "korean_pron": "구아이가 와루이 카라 이에데 야스미마시타",
+    "meaning": "몸이 안 좋아서 집에서 쉬었어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "喉が腫れていますね。",
+    "hiragana": "のどが はれています ね",
+    "romaji": "nodo ga hareteimasu ne",
+    "korean_pron": "노도가 하레테이마스네",
+    "meaning": "목이 부었네요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "口を大きく開けてみてください。",
+    "hiragana": "くちを おおきく あけて みて ください",
+    "romaji": "kuchi o ōkiku akete mite kudasai",
+    "korean_pron": "쿠치오 오오키쿠 아케테 미테 쿠다사이",
+    "meaning": "입을 크게 벌려 보세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "忘れてしまったようです。",
+    "hiragana": "わすれて しまった ようです",
+    "romaji": "wasurete shimatta yō desu",
+    "korean_pron": "와스레테 시맛타 요우데스",
+    "meaning": "잊어버린 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "食べてしまったようです。",
+    "hiragana": "たべて しまった ようです",
+    "romaji": "tabete shimatta yō desu",
+    "korean_pron": "타베테 시맛타 요우데스",
+    "meaning": "먹어버린 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "捨ててしまったようです。",
+    "hiragana": "すてて しまった ようです",
+    "romaji": "sutete shimatta yō desu",
+    "korean_pron": "스테테 시맛타 요우데스",
+    "meaning": "버려버린 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "覚えたほうがいいです。",
+    "hiragana": "おぼえた ほうが いいです",
+    "romaji": "oboeta hō ga ii desu",
+    "korean_pron": "오보에타 호오가 이이데스",
+    "meaning": "외우는 편이 좋겠다 / 외우는 게 좋다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "覚えておいたほうがいいですよ。",
+    "hiragana": "おぼえて おいた ほうが いいですよ",
+    "romaji": "oboete oita hō ga ii desu yo",
+    "korean_pron": "오보에테 오이타 호오가 이이데스요",
+    "meaning": "기억해두는 편이 좋겠어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "風邪を引いたようです",
+    "hiragana": "かぜを ひいた ようです",
+    "romaji": "kaze o hiita yō desu",
+    "korean_pron": "카제오 히이타 요우데스",
+    "meaning": "감기에 걸린 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "忘れてしまったようです",
+    "hiragana": "わすれて しまった ようです",
+    "romaji": "wasurete shimatta yō desu",
+    "korean_pron": "와스레테 시맛타 요우데스",
+    "meaning": "잊어버린 것 같아요 / 잊어버렸나 봐요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "覚えたほうがいいです",
+    "hiragana": "おぼえた ほうが いいです",
+    "romaji": "oboeta hō ga ii desu",
+    "korean_pron": "오보에타 호우가 이이데스",
+    "meaning": "외우는 편이 좋아요 / 외우는 게 좋아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "覚えておいたほうがいいです",
+    "hiragana": "おぼえて おいた ほうが いいです",
+    "romaji": "oboete oita hō ga ii desu",
+    "korean_pron": "오보에테 오이타 호우가 이이데스",
+    "meaning": "(미리) 외워 두는 편이 좋아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "1. 忘れてしまったようです。",
+    "hiragana": "わすれて しまった ようです",
+    "romaji": "wasurete shimatta yō desu",
+    "korean_pron": "와스레테 시맛타 요우데스",
+    "meaning": "잊어버린 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "2. 落としてしまったようです。",
+    "hiragana": "おとして しまった ようです",
+    "romaji": "otoshite shimatta yō desu",
+    "korean_pron": "오토시테 시맛타 요우데스",
+    "meaning": "떨어뜨린 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "3. 壊してしまったようです。",
+    "hiragana": "こわして しまった ようです",
+    "romaji": "kowashite shimatta yō desu",
+    "korean_pron": "코와시테 시맛타 요우데스",
+    "meaning": "망가뜨린 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "4. 消してしまったようです。",
+    "hiragana": "けして しまった ようです",
+    "romaji": "keshite shimatta yō desu",
+    "korean_pron": "케시테 시맛타 요우데스",
+    "meaning": "지워버린 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "5. なくしてしまったようです。",
+    "hiragana": "なくして しまった ようです",
+    "romaji": "nakushite shimatta yō desu",
+    "korean_pron": "나쿠시테 시맛타 요우데스",
+    "meaning": "잃어버린 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "食べておいたほうがいいです",
+    "hiragana": "たべておいたほうがいいです",
+    "romaji": "tabete oita hōga ii desu",
+    "korean_pron": "타베테 오이타 호오가 이이 데스",
+    "meaning": "먹어두는 편이 좋아요 / 미리 먹어두는 게 좋아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "風邪をひかないように気をつけてください",
+    "hiragana": "かぜをひかないように きをつけてください",
+    "romaji": "kaze o hikanai yō ni ki o tsukete kudasai",
+    "korean_pron": "카제오 히카나이 요오니 키오 츠케테 쿠다사이",
+    "meaning": "감기 걸리지 않게 조심하세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "インフルエンザにかからないように",
+    "hiragana": "いんふるえんざに かからないように",
+    "romaji": "infuruenza ni kakaranai yō ni",
+    "korean_pron": "인후루엔자 니 카카라나이 요오니",
+    "meaning": "독감에 걸리지 않게",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "今日は早く帰ってぐっすり寝ました",
+    "hiragana": "きょうは はやく かえって ぐっすり ねました",
+    "romaji": "kyō wa hayaku kaette gussuri nemashita",
+    "korean_pron": "쿄오와 하야쿠 카엣테 굿스리 네마시타",
+    "meaning": "오늘 일찍 돌아와서 푹 잤어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "そっちへ行くと道がせまくなるかもしれません",
+    "hiragana": "そっちへ いくと みちが せまくなる かもしれません",
+    "romaji": "socchi e iku to michi ga semakunaru kamoshiremasen",
+    "korean_pron": "솟치에 이쿠토 미치가 세마쿠나루 카모시레마센",
+    "meaning": "그쪽으로 가면 길이 좁아질지도 몰라요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "使い捨て用品",
+    "hiragana": "つかいすてようひん",
+    "romaji": "tsukaisute yōhin",
+    "korean_pron": "쓰카이스테 요오힌",
+    "meaning": "일회용품",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "四時半に帰ってきて５時から７時まで寝て少し勉強しました。",
+    "hiragana": "よじはんに かえってきて ごじから しちじまで ねて すこし べんきょうしました",
+    "romaji": "yojihan ni kaette kite goji kara shichiji made nete sukoshi benkyō shimashita",
+    "korean_pron": "요지한니 카엣테키테 고지카라 시치지마데 네테 스코시 벤쿄오시마시타",
+    "meaning": "4시 반에 돌아와서 5시부터 7시까지 자고 조금 공부했습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "まだ夕ご飯は食べていないです。",
+    "hiragana": "まだ ゆうごはんは たべていないです",
+    "romaji": "mada yūgohan wa tabete inai desu",
+    "korean_pron": "마다 유우고한와 타베테이나이데스",
+    "meaning": "아직 저녁을 먹지 않았어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "風邪を引かないように気を付けてください。",
+    "hiragana": "かぜを ひかないように きをつけてください",
+    "romaji": "kaze o hikanai yō ni ki o tsukete kudasai",
+    "korean_pron": "카제오 히카나이요오니 키오츠케테쿠다사이",
+    "meaning": "감기 걸리지 않도록 조심하세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "インフルにかからないように",
+    "hiragana": "いんふるに かからないように",
+    "romaji": "infuru ni kakaranai yō ni",
+    "korean_pron": "인후루니 카카라나이요오니",
+    "meaning": "독감에 걸리지 않도록",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "おふろにはいる",
+    "hiragana": "おふろに はいる",
+    "romaji": "ofuro ni hairu",
+    "korean_pron": "오후로니 하이루",
+    "meaning": "목욕하다 / 욕조에 들어가다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "昨日は早く帰ってぐっすり寝ました。",
+    "hiragana": "きのうは はやく かえって ぐっすり ねました",
+    "romaji": "kinō wa hayaku kaette gussuri nemashita",
+    "korean_pron": "기노우와 하야쿠 카엣테 굿스리 네마시타",
+    "meaning": "어제는 일찍 돌아와서 푹 잤어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "飲むと少し眠くなるかもしれません。",
+    "hiragana": "のむと すこし ねむくなる かもしれません",
+    "romaji": "nomu to sukoshi nemuku naru kamoshiremasen",
+    "korean_pron": "노무토 스코시 네무쿠나루 카모시레마센",
+    "meaning": "마시면 조금 졸릴지도 몰라요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "今日は雨が降るかもしれません。",
+    "hiragana": "きょうは あめが ふる かもしれません",
+    "romaji": "kyō wa ame ga furu kamoshiremasen",
+    "korean_pron": "쿄오와 아메가 후루 카모시레마센",
+    "meaning": "오늘은 비가 올지도 몰라요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "彼は遅れるかもしれません。",
+    "hiragana": "かれは おくれる かもしれません",
+    "romaji": "kare wa okureru kamoshiremasen",
+    "korean_pron": "카레와 오쿠레루 카모시레마센",
+    "meaning": "그는 늦을지도 몰라요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "明日は寒いかもしれません。",
+    "hiragana": "あしたは さむい かもしれません",
+    "romaji": "ashita wa samui kamoshiremasen",
+    "korean_pron": "아시타와 사무이 카모시레마센",
+    "meaning": "내일은 추울지도 몰라요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "この薬は眠くなるかもしれません。",
+    "hiragana": "このくすりは ねむくなる かもしれません",
+    "romaji": "kono kusuri wa nemuku naru kamoshiremasen",
+    "korean_pron": "코노 쿠스리와 네무쿠나루 카모시레마센",
+    "meaning": "이 약은 졸릴지도 몰라요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "そこは静かかもしれません。",
+    "hiragana": "そこは しずか かもしれません",
+    "romaji": "soko wa shizuka kamoshiremasen",
+    "korean_pron": "소코와 시즈카 카모시레마센",
+    "meaning": "그곳은 조용할지도 몰라요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "いつ行けばいいですか",
+    "hiragana": "いつ いけば いい です か",
+    "romaji": "itsu ikeba ii desu ka",
+    "korean_pron": "이츠 이케바 이이 데스카",
+    "meaning": "언제 가면 되나요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "いつ作ればいいですか",
+    "hiragana": "いつ つくれば いい です か",
+    "romaji": "itsu tsukureba ii desu ka",
+    "korean_pron": "이츠 츠쿠레바 이이 데스카",
+    "meaning": "언제 만들면 되나요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "いつ待てばいいですか",
+    "hiragana": "いつ まてば いい です か",
+    "romaji": "itsu mateba ii desu ka",
+    "korean_pron": "이츠 마테바 이이 데스카",
+    "meaning": "언제 기다리면 되나요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "待たないで先に行ってください",
+    "hiragana": "またないで さきに いって ください",
+    "romaji": "matanaide sakini itte kudasai",
+    "korean_pron": "마타나이데 사키니 잇테 쿠다사이",
+    "meaning": "기다리지 말고 먼저 가세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "歯を磨いてもいいですか",
+    "hiragana": "は を みがいても いい です か",
+    "romaji": "ha o migaite mo ii desu ka",
+    "korean_pron": "하 오 미가이테모 이이 데스카",
+    "meaning": "이를 닦아도 되나요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "走らないほうがいいです",
+    "hiragana": "はしらない ほう が いい です",
+    "romaji": "hashiranai hō ga ii desu",
+    "korean_pron": "하시라나이 호-가 이이 데스",
+    "meaning": "뛰지 않는 편이 좋아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ひらがな",
+    "hiragana": "로마자",
+    "romaji": "한글 발음",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "いつ行けばいいですか",
+    "hiragana": "いつ いけば いい です か",
+    "romaji": "itsu ikeba ii desu ka",
+    "korean_pron": "이츠 이케바 이이 데스카",
+    "meaning": "",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "いつ いけば いい です か",
+    "hiragana": "itsu ikeba ii desu ka",
+    "romaji": "이츠 이케바 이이 데스카",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "FreeTalk"
+  },
+  {
+    "japanese": "いつまで待てばいいですか",
+    "hiragana": "いつまで まてば いいですか",
+    "romaji": "itsu made mateba ii desu ka",
+    "korean_pron": "이츠마데 마테바 이이데스카",
+    "meaning": "언제까지 기다리면 되나요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "どこへ行けばいいですか",
+    "hiragana": "どこへ いけば いいですか",
+    "romaji": "doko e ikeba ii desu ka",
+    "korean_pron": "도코에 이케바 이이데스카",
+    "meaning": "어디로 가면 되나요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "何時に来ればいいですか",
+    "hiragana": "なんじに くれば いいですか",
+    "romaji": "nanji ni kureba ii desu ka",
+    "korean_pron": "난지니 쿠레바 이이데스카",
+    "meaning": "몇 시에 오면 되나요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "どうすればいいですか",
+    "hiragana": "どうすれば いいですか",
+    "romaji": "dousureba ii desu ka",
+    "korean_pron": "도오스레바 이이데스카",
+    "meaning": "어떻게 하면 좋을까요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "忘れないで食後に飲んでください",
+    "hiragana": "わすれないで しょくごに のんでください",
+    "romaji": "wasurenaide shokugo ni nonde kudasai",
+    "korean_pron": "와스레나이데 쇼쿠고니 논데 쿠다사이",
+    "meaning": "잊지 말고 식후에 드세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "捨てないで私にください",
+    "hiragana": "すてないで わたしに ください",
+    "romaji": "sutenaide watashi ni kudasai",
+    "korean_pron": "스테나이데 와타시니 쿠다사이",
+    "meaning": "버리지 말고 저에게 주세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "待たないで先に行ってください",
+    "hiragana": "またないで さきに いってください",
+    "romaji": "matanaide saki ni itte kudasai",
+    "korean_pron": "마타나이데 사키니 잇테 쿠다사이",
+    "meaning": "기다리지 말고 먼저 가주세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "入らないほうがいいです",
+    "hiragana": "はいらない ほうが いいです",
+    "romaji": "hairanai hou ga ii desu",
+    "korean_pron": "하이라나이 호우가 이이데스",
+    "meaning": "들어가지 않는 편이 좋습니다 / 들어가지 않는 게 좋아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "食べないほうがいいです",
+    "hiragana": "たべない ほうが いいです",
+    "romaji": "tabenai hou ga ii desu",
+    "korean_pron": "타베나이 호우가 이이데스",
+    "meaning": "먹지 않는 편이 좋습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "行かないほうがいいです",
+    "hiragana": "いかない ほうが いいです",
+    "romaji": "ikanai hou ga ii desu",
+    "korean_pron": "이카나이 호우가 이이데스",
+    "meaning": "가지 않는 편이 좋습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "無理をしないほうがいいです",
+    "hiragana": "むりを しない ほうが いいです",
+    "romaji": "muri o shinai hou ga ii desu",
+    "korean_pron": "무리오 시나이 호우가 이이데스",
+    "meaning": "무리하지 않는 게 좋습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "今は入らないほうがいいですよ",
+    "hiragana": "いまは はいらない ほうが いいですよ",
+    "romaji": "ima wa hairanai hou ga ii desu yo",
+    "korean_pron": "이마와 하이라나이 호우가 이이데스요",
+    "meaning": "지금은 들어가지 않는 게 좋을 거예요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "会議はもう終わったようです",
+    "hiragana": "かいぎは もう おわった ようです",
+    "romaji": "kaigi wa mou owatta you desu",
+    "korean_pron": "카이기와 모오 오왓타 요오데스",
+    "meaning": "회의는 벌써 끝난 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "雪が降ったようです",
+    "hiragana": "ゆきが ふった ようです",
+    "romaji": "yuki ga futta you desu",
+    "korean_pron": "유키가 훗타 요오데스",
+    "meaning": "눈이 내린 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "雪が降らなかったようです",
+    "hiragana": "ゆきが ふらなかった ようです",
+    "romaji": "yuki ga furanakatta you desu",
+    "korean_pron": "유키가 후라나캇타 요오데스",
+    "meaning": "눈이 내리지 않았던 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "忙しいようです",
+    "hiragana": "いそがしい ようです",
+    "romaji": "isogashii you desu",
+    "korean_pron": "이소가시이 요오데스",
+    "meaning": "바쁜 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "忙しくないようです",
+    "hiragana": "いそがしくない ようです",
+    "romaji": "isogashikunai you desu",
+    "korean_pron": "이소가시쿠나이 요오데스",
+    "meaning": "안 바쁜 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "きれいなようです",
+    "hiragana": "きれいな ようです",
+    "romaji": "kireina you desu",
+    "korean_pron": "키레이나 요오데스",
+    "meaning": "예쁜 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "きれいじゃないようです",
+    "hiragana": "きれいじゃない ようです",
+    "romaji": "kirei ja nai you desu",
+    "korean_pron": "키레이자나이 요오데스",
+    "meaning": "예쁘지 않은 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "きれいだったようです",
+    "hiragana": "きれいだった ようです",
+    "romaji": "kirei datta you desu",
+    "korean_pron": "키레이닷타 요오데스",
+    "meaning": "예뻤던 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "きれいじゃなかったようです",
+    "hiragana": "きれいじゃなかった ようです",
+    "romaji": "kirei ja nakatta you desu",
+    "korean_pron": "키레이자나캇타 요오데스",
+    "meaning": "예쁘지 않았던 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "いそがしいようです",
+    "hiragana": "いそがしい ようです",
+    "romaji": "isogashii yō desu",
+    "korean_pron": "이소가시이 요오데스",
+    "meaning": "바쁜 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "いそがしくないようです",
+    "hiragana": "いそがしくない ようです",
+    "romaji": "isogashikunai yō desu",
+    "korean_pron": "이소가시쿠나이 요오데스",
+    "meaning": "안 바쁜 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "きれいなようです",
+    "hiragana": "きれいな ようです",
+    "romaji": "kirei na yō desu",
+    "korean_pron": "키레이나 요오데스",
+    "meaning": "예쁜 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "きれいだったようです",
+    "hiragana": "きれいだった ようです",
+    "romaji": "kirei datta yō desu",
+    "korean_pron": "키레이닷타 요오데스",
+    "meaning": "예뻤던 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "きれいじゃないようです",
+    "hiragana": "きれいじゃない ようです",
+    "romaji": "kirei ja nai yō desu",
+    "korean_pron": "키레이자나이 요오데스",
+    "meaning": "예쁘지 않은 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "きれいじゃなかったようです",
+    "hiragana": "きれいじゃなかった ようです",
+    "romaji": "kirei ja nakatta yō desu",
+    "korean_pron": "키레이자나캇타 요오데스",
+    "meaning": "예쁘지 않았던 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ゆきがふるようです",
+    "hiragana": "ゆきが ふる ようです",
+    "romaji": "yuki ga furu yō desu",
+    "korean_pron": "유키가 후루 요오데스",
+    "meaning": "눈이 내릴 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ゆきがふったようです",
+    "hiragana": "ゆきが ふった ようです",
+    "romaji": "yuki ga futta yō desu",
+    "korean_pron": "유키가 훗타 요오데스",
+    "meaning": "눈이 온 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ゆきがふらないようです",
+    "hiragana": "ゆきが ふらない ようです",
+    "romaji": "yuki ga furanai yō desu",
+    "korean_pron": "유키가 후라나이 요오데스",
+    "meaning": "눈이 안 내릴 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ゆきがふらなかったようです",
+    "hiragana": "ゆきが ふらなかった ようです",
+    "romaji": "yuki ga furanakatta yō desu",
+    "korean_pron": "유키가 후라나캇타 요오데스",
+    "meaning": "눈이 안 온 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "牛乳を飲んだほうがいいです",
+    "hiragana": "ぎゅうにゅうを のんだ ほうが いいです",
+    "romaji": "gyūnyū o nonda hō ga ii desu",
+    "korean_pron": "규우뉴우오 논다 호오가 이이데스",
+    "meaning": "우유를 마시는 편이 좋아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "値段が高いかもしれません",
+    "hiragana": "ねだんが たかい かもしれません",
+    "romaji": "nedan ga takai kamo shiremasen",
+    "korean_pron": "네단가 타카이 카모시레마센",
+    "meaning": "가격이 비쌀지도 몰라요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "値段が高いかもしれません",
+    "hiragana": "ねだんが たかい かもしれません",
+    "romaji": "nedan ga takai kamo shiremasen",
+    "korean_pron": "네단가 타카이 카모시레마센",
+    "meaning": "가격이 비쌀지도 몰라요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "明日はキムさんが来るかもしれません",
+    "hiragana": "あしたは きむさんが くる かもしれません",
+    "romaji": "ashita wa Kimu-san ga kuru kamo shiremasen",
+    "korean_pron": "아시타와 키무상가 쿠루 카모시레마센",
+    "meaning": "내일은 김상이 올지도 몰라요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "来ないかもしれません",
+    "hiragana": "こない かもしれません",
+    "romaji": "konai kamo shiremasen",
+    "korean_pron": "코나이 카모시레마센",
+    "meaning": "안 올지도 몰라요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "일본어 문장",
+    "hiragana": "ひらがな",
+    "romaji": "로마자",
+    "korean_pron": "한글 발음",
+    "meaning": "의미",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "明日 雨がふれば 行きません",
+    "hiragana": "あした あめが ふれば いきません",
+    "romaji": "ashita ame ga fureba ikimasen",
+    "korean_pron": "아시타 아메가 후레바 이키마센",
+    "meaning": "내일 비가 오면 가지 않아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "待てば来ますよ",
+    "hiragana": "まてば きますよ",
+    "romaji": "mateba kimasu yo",
+    "korean_pron": "마테바 키마스요",
+    "meaning": "기다리면 올 거예요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "待てば来ますよ",
+    "hiragana": "まてば きますよ",
+    "romaji": "mateba kimasu yo",
+    "korean_pron": "마테바 키마스요",
+    "meaning": "기다리면 올 거예요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "공부하면 할수록",
+    "hiragana": "勉強すればするほど",
+    "romaji": "べんきょうすれば するほど",
+    "korean_pron": "benkyō sureba suru hodo",
+    "meaning": "벤쿄우 스레바 스루호도",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "바쁘면 바쁠수록",
+    "hiragana": "いそがしければいそがしいほど",
+    "romaji": "いそがしければ いそがしい ほど",
+    "korean_pron": "isogashikereba isogashii hodo",
+    "meaning": "이소가시케레바 이소가시이 호도",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "明日はキムさんが来るかもしれません",
+    "hiragana": "あしたは きむさんが くる かもしれません",
+    "romaji": "ashita wa kimu-san ga kuru kamoshiremasen",
+    "korean_pron": "아시타와 키무상가 쿠루 카모시레마센",
+    "meaning": "내일 김 씨가 올지도 모릅니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "キムさんは来ないかもしれません",
+    "hiragana": "きむさんは こない かもしれません",
+    "romaji": "kimu-san wa konai kamoshiremasen",
+    "korean_pron": "키무상와 코나이 카모시레마센",
+    "meaning": "김 씨가 오지 않을지도 모릅니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "勉強すればするほど難しくなります",
+    "hiragana": "べんきょうすれば する ほど むずかしく なります",
+    "romaji": "benkyō sureba suru hodo muzukashiku narimasu",
+    "korean_pron": "벤쿄오 스레바 스루 호도 무즈카시쿠 나리마스",
+    "meaning": "공부하면 할수록 어려워집니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "待てば来ます",
+    "hiragana": "まてば きます",
+    "romaji": "mateba kimasu",
+    "korean_pron": "마테바 키마스",
+    "meaning": "기다리면 옵니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "あげれば",
+    "hiragana": "あげれば",
+    "romaji": "agereba",
+    "korean_pron": "아게레바",
+    "meaning": "주면 / 건네주면",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "いそがしければいそがしいほど",
+    "hiragana": "いそがしければ いそがしい ほど",
+    "romaji": "isogashikereba isogashii hodo",
+    "korean_pron": "이소가시케레바 이소가시이 호도",
+    "meaning": "바쁘면 바쁠수록",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "有名なら有名なほど",
+    "hiragana": "ゆうめいなら ゆうめいな ほど",
+    "romaji": "yūmei nara yūmei na hodo",
+    "korean_pron": "유우메이나라 유우메이나 호도",
+    "meaning": "유명하면 유명할수록",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "有名であれば有名であるほど",
+    "hiragana": "ゆうめいであれば ゆうめいである ほど",
+    "romaji": "yūmei de areba yūmei de aru hodo",
+    "korean_pron": "유우메이데아레바 유우메이데아루 호도",
+    "meaning": "유명하면 유명할수록(문어체·공식적)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "会えば会うほど",
+    "hiragana": "あえば あう ほど",
+    "romaji": "aeba au hodo",
+    "korean_pron": "아에바 아우 호도",
+    "meaning": "만나면 만날수록",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "好きになるです（※자연스럽게는 好きになります）",
+    "hiragana": "すきに なります",
+    "romaji": "suki ni narimasu",
+    "korean_pron": "스키니 나리마스",
+    "meaning": "좋아하게 됩니다 / 좋아지게 됩니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "薬を飲めば飲むほど悪くなります",
+    "hiragana": "くすりを のめば のむ ほど わるく なります",
+    "romaji": "kusuri o nomeba nomu hodo waruku narimasu",
+    "korean_pron": "쿠스리오 노메바 노무 호도 와루쿠 나리마스",
+    "meaning": "약을 먹으면 먹을수록 나빠집니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "信じれば信じるほど",
+    "hiragana": "しんじれば しんじる ほど",
+    "romaji": "shinjireba shinjiru hodo",
+    "korean_pron": "신지레바 신지루 호도",
+    "meaning": "믿으면 믿을수록",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "話せば話すほど",
+    "hiragana": "はなせば はなす ほど",
+    "romaji": "hanaseba hanasu hodo",
+    "korean_pron": "하나세바 하나스 호도",
+    "meaning": "말을 하면 할수록",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "キムさんは来ないかもしれません。",
+    "hiragana": "きむさんは こない かもしれません",
+    "romaji": "kimu-san wa konai kamoshiremasen",
+    "korean_pron": "키무상와 코나이 카모시레마센",
+    "meaning": "김상은 안 올지도 몰라요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "働けば働くほど",
+    "hiragana": "はたらけば はたらく ほど",
+    "romaji": "hatarak-eba hataraku hodo",
+    "korean_pron": "하타라케바 하타라쿠 호도",
+    "meaning": "일하면 일할수록",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "喉がはれていますね。",
+    "hiragana": "のどが はれていますね",
+    "romaji": "nodo ga harete imasu ne",
+    "korean_pron": "노도가 하레테 이마스네",
+    "meaning": "목이 부어 있네요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "喉が痛いです。",
+    "hiragana": "のどが いたいです",
+    "romaji": "nodo ga itai desu",
+    "korean_pron": "노도가 이타이 데스",
+    "meaning": "목이 아파요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "喉が赤いですね。",
+    "hiragana": "のどが あかいですね",
+    "romaji": "nodo ga akai desu ne",
+    "korean_pron": "노도가 아카이 데스네",
+    "meaning": "목이 빨갛네요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "喉がはれているようです。",
+    "hiragana": "のどが はれているようです",
+    "romaji": "nodo ga harete iru yō desu",
+    "korean_pron": "노도가 하레테 이루 요오 데스",
+    "meaning": "목이 부어 있는 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "熱があって喉が痛いです。",
+    "hiragana": "ねつが あって のどが いたいです",
+    "romaji": "netsu ga atte nodo ga itai desu",
+    "korean_pron": "네츠가 앗테 노도가 이타이 데스",
+    "meaning": "열이 있고 목이 아파요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "熱があって、頭が痛いです。",
+    "hiragana": "ねつが あって あたまが いたいです",
+    "romaji": "netsu ga atte atama ga itai desu",
+    "korean_pron": "네츠가 앗테 아타마가 이타이 데스",
+    "meaning": "열이 있고 머리가 아파요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "咳が出て、喉が痛いです。",
+    "hiragana": "せきが でて のどが いたいです",
+    "romaji": "seki ga dete nodo ga itai desu",
+    "korean_pron": "세키가 데테 노도가 이타이 데스",
+    "meaning": "기침이 나고 목이 아파요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "熱があって、体がだるいです。",
+    "hiragana": "ねつが あって からだが だるいです",
+    "romaji": "netsu ga atte karada ga darui desu",
+    "korean_pron": "네츠가 앗테 카라다가 다루이 데스",
+    "meaning": "열이 있고 몸이 나른해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "せきは出ますか。",
+    "hiragana": "せきは でますか",
+    "romaji": "seki wa demasu ka",
+    "korean_pron": "세키와 데마스까",
+    "meaning": "기침은 나나요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "せきも出ますか。",
+    "hiragana": "せきも でますか",
+    "romaji": "seki mo demasu ka",
+    "korean_pron": "세키모 데마스까",
+    "meaning": "기침도 나오나요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "熱は出ましたか。",
+    "hiragana": "ねつは でましたか",
+    "romaji": "netsu wa demashita ka",
+    "korean_pron": "네츠와 데마시타까",
+    "meaning": "열은 났었나요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "薬を飲むとすこし眠くなるかもしれません。",
+    "hiragana": "くすりを のむと すこし ねむく なるかもしれません",
+    "romaji": "kusuri o nomu to sukoshi nemuku naru kamo shiremasen",
+    "korean_pron": "쿠스리오 노무토 스코시 네무쿠 나루 카모 시레마센",
+    "meaning": "약을 먹으면 조금 졸릴지도 모릅니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "食後に飲んだほうがいいです。",
+    "hiragana": "しょくごに のんだ ほうが いいです。",
+    "romaji": "shokugo ni nonda hō ga ii desu",
+    "korean_pron": "쇼쿠고니 논다 호-가 이이데스",
+    "meaning": "식후에 먹는 것이 좋습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "飲むと少し眠くなるかもしれません。",
+    "hiragana": "のむと すこし ねむく なる かもしれません。",
+    "romaji": "nomu to sukoshi nemuku naru kamo shiremasen",
+    "korean_pron": "노무토 스코시 네무쿠 나루 카모 시레마센",
+    "meaning": "먹으면 조금 졸릴지도 모릅니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "週末は早く出発したほうがいいです。",
+    "hiragana": "しゅうまつは はやく しゅっぱつ した ほうが いいです。",
+    "romaji": "shūmatsu wa hayaku shuppatsu shita hō ga ii desu",
+    "korean_pron": "슈-마츠와 하야쿠 슈빳츠 시타 호-가 이이데스",
+    "meaning": "주말에는 일찍 출발하는 것이 좋습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "週末は早く出発したほうがいいです。",
+    "hiragana": "しゅうまつは はやく しゅっぱつしたほうがいいです",
+    "romaji": "shuumatsu wa hayaku shuppatsu shita hou ga ii desu",
+    "korean_pron": "슈우마츠와 하야쿠 슛파츠 시타 호우가 이이데스",
+    "meaning": "주말에는 일찍 출발하는 편이 좋아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "あの店は高くても人気があるようです。",
+    "hiragana": "あのみせは たかくても にんきがあるようです",
+    "romaji": "ano mise wa takakutemo ninki ga aru you desu",
+    "korean_pron": "아노 미세와 타카쿠테모 닌키가 아루 요우데스",
+    "meaning": "그 가게는 비싸도 인기가 있는 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "仕事があれば土曜日も休めません。",
+    "hiragana": "しごとがあれば どようびも やすめません",
+    "romaji": "shigoto ga areba doyoubi mo yasumemasen",
+    "korean_pron": "시고토가 아레바 도요우비모 야스메마센",
+    "meaning": "일이 있으면 토요일도 쉴 수 없어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "せきが出ます。風邪をひいたかもしれません。",
+    "hiragana": "せきが でます。かぜを ひいたかもしれません",
+    "romaji": "seki ga demasu kaze o hiita kamo shiremasen",
+    "korean_pron": "세키가 데마스 가제오 히이타 카모 시레마센",
+    "meaning": "기침이 나요. 감기에 걸렸는지도 몰라요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "高いですが、人気があるようです。",
+    "hiragana": "たかいですが、にんきがあるようです",
+    "romaji": "takai desu ga ninki ga aru you desu",
+    "korean_pron": "타카이 데스가 닌키가 아루 요우데스",
+    "meaning": "비싸지만 인기가 있는 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "高くても人気があります。",
+    "hiragana": "たかくても にんきが あります",
+    "romaji": "takakutemo ninki ga arimasu",
+    "korean_pron": "타카쿠테모 닌키가 아리마스",
+    "meaning": "비싸도 인기가 있어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "高いですが人気があります。",
+    "hiragana": "たかいですが にんきが あります",
+    "romaji": "takai desu ga ninki ga arimasu",
+    "korean_pron": "타카이데스가 닌키가 아리마스",
+    "meaning": "비싸지만 인기가 있어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "もう会ったかもしれません。",
+    "hiragana": "もう あったかもしれません",
+    "romaji": "mou atta kamo shiremasen",
+    "korean_pron": "모우 앗타 카모 시레마센",
+    "meaning": "이미 만났을지도 몰라요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ごみはいつ出せばいいですか。",
+    "hiragana": "ごみは いつ だせば いいですか",
+    "romaji": "gomi wa itsu daseba ii desu ka",
+    "korean_pron": "고미와 이츠 다세바 이이데스카",
+    "meaning": "쓰레기는 언제 내면 되나요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "作ってほしいです。",
+    "hiragana": "つくって ほしいです",
+    "romaji": "tsukutte hoshii desu",
+    "korean_pron": "츠쿳테 호시이데스",
+    "meaning": "만들어 줬으면 좋겠어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "服を着たまま寝てしまいました。",
+    "hiragana": "ふくを きたまま ねて しまいました",
+    "romaji": "fuku o kita mama nete shimaimashita",
+    "korean_pron": "후쿠오 키타 마마 네테 시마이마시타",
+    "meaning": "옷을 입은 채로 자버렸어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "キムさんしか入れないです。",
+    "hiragana": "きむさんしか はいれないです",
+    "romaji": "kimu-san shika hairenai desu",
+    "korean_pron": "키무상 시카 하이레나이데스",
+    "meaning": "김상밖에 들어갈 수 없어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "会ったのに別れてしまった。",
+    "hiragana": "あった のに わかれて しまった",
+    "romaji": "atta noni wakarete shimatta",
+    "korean_pron": "앗타 노니 와카레테 시맛타",
+    "meaning": "만났는데도 결국 헤어져 버렸어",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "いつ閉めればいいですか。",
+    "hiragana": "いつ しめれば いいですか",
+    "romaji": "itsu shimeraba ii desu ka",
+    "korean_pron": "이츠 시메레바 이이데스카",
+    "meaning": "언제 닫으면 될까요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "いつ帰ればいいですか。",
+    "hiragana": "いつ かえれば いいですか",
+    "romaji": "itsu kaereba ii desu ka",
+    "korean_pron": "이츠 카에레바 이이데스카",
+    "meaning": "언제 돌아가면 될까요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "カードしか持ってないです。",
+    "hiragana": "かーどしか もってないです",
+    "romaji": "kaado shika mottenai desu",
+    "korean_pron": "카아도 시카 못테나이데스",
+    "meaning": "카드밖에 없어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "～しか～ないです",
+    "hiragana": "～しか～ないです",
+    "romaji": "~ shika ~ nai desu",
+    "korean_pron": "시카 ~ 나이데스",
+    "meaning": "~밖에 ~하지 않다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ゴミは木曜日しか出せないです。",
+    "hiragana": "ごみは もくようび しか だせないです",
+    "romaji": "gomi wa mokuyōbi shika dasenai desu",
+    "korean_pron": "고미와 모쿠요비 시카 다세나이데스",
+    "meaning": "쓰레기는 목요일에밖에 못 내요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "聞いたのに忘れてしまいました。",
+    "hiragana": "きいた のに わすれて しまいました",
+    "romaji": "kiita noni wasurete shimaimashita",
+    "korean_pron": "키이타 노니 와스레테 시마이마시타",
+    "meaning": "들었는데도 잊어버렸어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "部屋の電気がついたままでした。",
+    "hiragana": "へやの でんきが ついた ままでした。",
+    "romaji": "heya no denki ga tsuita mama deshita",
+    "korean_pron": "헤야노 덴키가 츠이타 마마데시타",
+    "meaning": "방의 불이 켜진 채였습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "これから気を付けてほしいです。",
+    "hiragana": "これから きをつけて ほしいです。",
+    "romaji": "korekara ki o tsukete hoshii desu",
+    "korean_pron": "코레카라 키오 츠케테 호시이데스",
+    "meaning": "앞으로 조심해 주었으면 합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "服を着たまま寝てしまった。",
+    "hiragana": "ふくを きた まま ねて しまった。",
+    "romaji": "fuku o kita mama nete shimatta",
+    "korean_pron": "후쿠오 키타 마마 네테 시맛타",
+    "meaning": "옷을 입은 채로 자 버렸다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "資源ごみ",
+    "hiragana": "しげんごみ",
+    "romaji": "shigen gomi",
+    "korean_pron": "시겐 고미",
+    "meaning": "재활용 쓰레기",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "燃えるゴミ",
+    "hiragana": "もえるごみ",
+    "romaji": "moeru gomi",
+    "korean_pron": "모에루 고미",
+    "meaning": "타는 쓰레기",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "燃えないゴミ",
+    "hiragana": "もえないごみ",
+    "romaji": "moenai gomi",
+    "korean_pron": "모에나이 고미",
+    "meaning": "안 타는 쓰레기",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "３０センチを超えると有料です。",
+    "hiragana": "さんじゅっセンチを こえると ゆうりょうです。",
+    "romaji": "sanjussentchi o koeru to yūryō desu",
+    "korean_pron": "산줏센치오 코에루토 유-료데스",
+    "meaning": "30cm를 넘으면 유료입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ゴミは九時を過ぎると出せません。",
+    "hiragana": "ごみは くじを すぎると だせません。",
+    "romaji": "gomi wa kuji o sugiru to dasemasen",
+    "korean_pron": "고미와 쿠지오 스기루토 다세마센",
+    "meaning": "쓰레기는 9시가 지나면 내놓을 수 없습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ゴミ袋にいれて出してください。",
+    "hiragana": "ごみぶくろに いれて だしてください。",
+    "romaji": "gomibukuro ni irete dashite kudasai",
+    "korean_pron": "고미부쿠로니 이레테 다시테 쿠다사이",
+    "meaning": "쓰레기봉투에 넣어서 내놓아 주세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "クレジットカードしか持てないです。",
+    "hiragana": "くれじっとかーど しか もてない です。",
+    "romaji": "kurejitto kādo shika motenai desu",
+    "korean_pron": "크레짓토 카도 시카 모테나이데스",
+    "meaning": "신용카드 밖에 가질 수 없습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "まだ働けるのに、辞めるんです。",
+    "hiragana": "まだ はたらける のに、やめる んです。",
+    "romaji": "mada hatarakeru noni, yameru n desu",
+    "korean_pron": "마다 하타라케루 노니 야메룬데스",
+    "meaning": "아직 일할 수 있는데도 그만두는 거예요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "まだ会えるのに、別れるんです。",
+    "hiragana": "まだ あえる のに、わかれる んです。",
+    "romaji": "mada aeru noni, wakareru n desu",
+    "korean_pron": "마다 아에루 노니 와카레룬데스",
+    "meaning": "아직 만날 수 있는데도 헤어지는 거예요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "まだ使えるのに、捨てるんですか。",
+    "hiragana": "まだ つかえる のに、すてる んですか。",
+    "romaji": "mada tsukaeru noni, suteru n desu ka",
+    "korean_pron": "마다 츠카에루 노니 스테룬데스까",
+    "meaning": "아직 쓸 수 있는데도 버리나요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ビンも燃えないゴミですか。",
+    "hiragana": "びんも もえない ごみ ですか。",
+    "romaji": "bin mo moenai gomi desu ka",
+    "korean_pron": "빈모 모에나이 고미 데스까",
+    "meaning": "병도 타지 않는 쓰레기인가요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ゴミじゃなくて資源ゴミです。",
+    "hiragana": "ごみじゃなくて しげんごみ です。",
+    "romaji": "gomi ja nakute shigen gomi desu",
+    "korean_pron": "고미 자 나쿠테 시겐고미 데스",
+    "meaning": "쓰레기가 아니라 재활용 쓰레기입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "鞄も捨てたいんですが。",
+    "hiragana": "かばんも すてたいんですが。",
+    "romaji": "kaban mo sutetain desu ga",
+    "korean_pron": "",
+    "meaning": "가방도 버리고 싶은데요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "まだ、働けるのにやめるんですか。",
+    "hiragana": "まだ、はたらける のに やめるんですか。",
+    "romaji": "mada hatarakeru noni yamerun desu ka",
+    "korean_pron": "마다 하타라케루 노니 야메룬 데스까",
+    "meaning": "아직 일할 수 있는데 그만두는 건가요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "他人に迷惑をかける",
+    "hiragana": "たにんに めいわくを かける",
+    "romaji": "tanin ni meiwaku o kakeru",
+    "korean_pron": "타닌니 메이와쿠오 카케루",
+    "meaning": "남에게 피해를 주다 / 민폐를 끼치다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "服を着たまま寝ました。",
+    "hiragana": "ふくを きたまま ねました。",
+    "romaji": "fuku o kita mama nemashita",
+    "korean_pron": "후쿠오 키타 마마 네마시타",
+    "meaning": "옷을 입은 채로 잤어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ちょっといいですか。",
+    "hiragana": "ちょっと いいですか",
+    "romaji": "chotto ii desu ka",
+    "korean_pron": "춋또 이이데스카",
+    "meaning": "잠깐 괜찮을까요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "相談したいことがあります。",
+    "hiragana": "そうだん したい ことが あります",
+    "romaji": "sōdan shitai koto ga arimasu",
+    "korean_pron": "소오단 시타이 코토가 아리마스",
+    "meaning": "상담하고 싶은 일이 있습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ちょっといいですか。相談したいことがあります。",
+    "hiragana": "ちょっと いいですか。そうだん したい ことが あります",
+    "romaji": "chotto ii desu ka sōdan shitai koto ga arimasu",
+    "korean_pron": "춋또 이이데스카 소오단 시타이 코토가 아리마스",
+    "meaning": "잠깐 괜찮을까요 상담하고 싶은 게 있습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "会社の同僚とよく相談します。",
+    "hiragana": "かいしゃ の どうりょう と よく そうだん します",
+    "romaji": "kaisha no dōryō to yoku sōdan shimasu",
+    "korean_pron": "카이샤 노 도오료오 또 요쿠 소오단 시마스",
+    "meaning": "회사 동료와 자주 상담합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "隣の人とよく相談します。",
+    "hiragana": "となり の ひと と よく そうだん します",
+    "romaji": "tonari no hito to yoku sōdan shimasu",
+    "korean_pron": "토나리 노 히토 또 요쿠 소오단 시마스",
+    "meaning": "옆에 있는 사람과 자주 상담합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "会社では同僚とよく相談します。",
+    "hiragana": "かいしゃ では どうりょう と よく そうだん します",
+    "romaji": "kaisha dewa dōryō to yoku sōdan shimasu",
+    "korean_pron": "카이샤 데와 도오료오 또 요쿠 소오단 시마스",
+    "meaning": "회사에서는 동료들과 자주 상담합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "周りの人とよく相談します。",
+    "hiragana": "まわり の ひと と よく そうだん します",
+    "romaji": "mawari no hito to yoku sōdan shimasu",
+    "korean_pron": "마와리 노 히토 또 요쿠 소오단 시마스",
+    "meaning": "주변 사람들과 자주 상의합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "服を着たまま寝ました。",
+    "hiragana": "ふく を きた まま ねました",
+    "romaji": "fuku o kita mama nemashita",
+    "korean_pron": "후쿠오 키타 마마 네마시타",
+    "meaning": "옷을 입은 채로 잤어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "明けましておめでとうございます。",
+    "hiragana": "あけまして おめでとう ございます",
+    "romaji": "akemashite omedetō gozaimasu",
+    "korean_pron": "아케마시테 오메데토- 고자이마스",
+    "meaning": "새해 복 많이 받으세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "迷惑をかける",
+    "hiragana": "めいわく を かける",
+    "romaji": "meiwaku o kakeru",
+    "korean_pron": "메이와쿠오 카케루",
+    "meaning": "민폐를 끼치다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "財布をなくしてしまいました。",
+    "hiragana": "さいふ を なくして しまいました",
+    "romaji": "saifu o nakushite shimaimashita",
+    "korean_pron": "사이후오 나쿠시테 시마이마시타",
+    "meaning": "지갑을 잃어버렸어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "鍵をなくしてしまいました。",
+    "hiragana": "かぎ を なくして しまいました",
+    "romaji": "kagi o nakushite shimaimashita",
+    "korean_pron": "카기오 나쿠시테 시마이마시타",
+    "meaning": "열쇠를 잃어버렸어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "うっかりなくしてしまいました。",
+    "hiragana": "うっかり なくして しまいました",
+    "romaji": "ukkari nakushite shimaimashita",
+    "korean_pron": "웃카리 나쿠시테 시마이마시타",
+    "meaning": "깜빡하고 잃어버렸어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "白黒料理人",
+    "hiragana": "しろくろ りょうりにん",
+    "romaji": "shirokuro ryōrinin",
+    "korean_pron": "시로쿠로 료-리닌",
+    "meaning": "흑백 요리사",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "番組の中で",
+    "hiragana": "ばんぐみ の なかで",
+    "romaji": "bangumi no naka de",
+    "korean_pron": "방구미 노 나카데",
+    "meaning": "프로그램 안에서 / 방송 중에",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "踏んでしまう",
+    "hiragana": "ふんで しまう",
+    "romaji": "funde shimau",
+    "korean_pron": "훈데 시마우",
+    "meaning": "(실수로) 밟아 버리다 / 밟고 말다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "信じないでほしいです。",
+    "hiragana": "しんじないで ほしいです",
+    "romaji": "shinjinaide hoshii desu",
+    "korean_pron": "신지나이데 호시이데스",
+    "meaning": "믿지 않았으면 합니다 / 믿지 말아 주세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "迷惑をかける",
+    "hiragana": "めいわく を かける",
+    "romaji": "meiwaku o kakeru",
+    "korean_pron": "메이와쿠 오 카케루",
+    "meaning": "폐를 끼치다 / 민폐를 주다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "隣に迷惑をかけるといけません",
+    "hiragana": "となり に めいわく を かける と いけません",
+    "romaji": "tonari ni meiwaku o kakeru to ikemasen",
+    "korean_pron": "토나리니 메이와쿠오 카케루토 이케마센",
+    "meaning": "옆 사람에게 폐를 끼치면 안 됩니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "あなたが気をつけてほしいです。",
+    "hiragana": "あなたが きをつけて ほしいです",
+    "romaji": "anata ga ki o tsukete hoshii desu",
+    "korean_pron": "아나타가 키오 츠케테 호시이데스",
+    "meaning": "네가 조심해줬으면 좋겠어",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "早く来てほしいです。",
+    "hiragana": "はやく きて ほしいです",
+    "romaji": "hayaku kite hoshii desu",
+    "korean_pron": "하야쿠 키테 호시이데스",
+    "meaning": "일찍 와줬으면 좋겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "早く起きないといけません。",
+    "hiragana": "はやく おきない と いけません",
+    "romaji": "hayaku okinai to ikemasen",
+    "korean_pron": "하야쿠 오키나이 토 이케마센",
+    "meaning": "일찍 일어나지 않으면 안 됩니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "電気を消す",
+    "hiragana": "でんき を けす",
+    "romaji": "denki o kesu",
+    "korean_pron": "덴키오 케스",
+    "meaning": "전기를 끄다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "電気がついたまま",
+    "hiragana": "でんき が ついた まま",
+    "romaji": "denki ga tsuita mama",
+    "korean_pron": "덴키가 츠이타 마마",
+    "meaning": "전기가 켜진 채로",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "食べたのに",
+    "hiragana": "たべた のに",
+    "romaji": "tabeta noni",
+    "korean_pron": "타베타 노니",
+    "meaning": "먹었는데도",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "食べたのに…",
+    "hiragana": "たべた のに…",
+    "romaji": "tabeta noni…",
+    "korean_pron": "타베타 노니…",
+    "meaning": "먹었는데도…(여운)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "飲んだのに、また飲みたいです。",
+    "hiragana": "のんだ のに、また のみたいです",
+    "romaji": "nonda noni mata nomitai desu",
+    "korean_pron": "논다 노니 마타 노미타이데스",
+    "meaning": "마셨는데도 또 마시고 싶어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "高くないのに、買えません。",
+    "hiragana": "たかくない のに、かえません",
+    "romaji": "takakunai noni kaemasen",
+    "korean_pron": "타카쿠나이 노니 카에마센",
+    "meaning": "비싸지 않은데도 살 수가 없어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "きれいなのに、性格が悪い。",
+    "hiragana": "きれい な のに、せいかく が わるい",
+    "romaji": "kirei na noni seikaku ga warui",
+    "korean_pron": "키레이나 노니 세이카쿠가 와루이",
+    "meaning": "예쁜데도 성격이 나쁘다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "おいしく作ってほしいです。",
+    "hiragana": "おいしく つくって ほしいです",
+    "romaji": "oishiku tsukutte hoshii desu",
+    "korean_pron": "오이시쿠 츠쿳테 호시이데스",
+    "meaning": "맛있게 만들어줬으면 좋겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "飲んだのに、また飲むんですか。",
+    "hiragana": "のんだ のに、また のむ んですか",
+    "romaji": "nonda noni mata nomu n desu ka",
+    "korean_pron": "논다 노니 마타 노문데스카",
+    "meaning": "마셨는데도 또 마실 거예요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "高くないのに、買えません。",
+    "hiragana": "たかくない のに、かえません",
+    "romaji": "takakunai noni kaemasen",
+    "korean_pron": "타카쿠나이 노니 카에마센",
+    "meaning": "비싸지 않은데도 살 수가 없어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "きれいなのに、性格が悪いです。",
+    "hiragana": "きれい な のに、せいかく が わるい です",
+    "romaji": "kirei na noni seikaku ga warui desu",
+    "korean_pron": "키레이나 노니 세이카쿠가 와루이데스",
+    "meaning": "예쁜데도 성격이 나쁩니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "洗濯機を回す",
+    "hiragana": "せんたくき を まわす",
+    "romaji": "sentakuki o mawasu",
+    "korean_pron": "센타쿠키오 마와스",
+    "meaning": "세탁기를 돌리다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "洗濯機を回す",
+    "hiragana": "せんたくき を まわす",
+    "romaji": "sentakuki o mawasu",
+    "korean_pron": "센타쿠키오 마와스",
+    "meaning": "세탁기를 돌리다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "約束は守ってほしいです。",
+    "hiragana": "やくそく は まもって ほしいです",
+    "romaji": "yakusoku wa mamotte hoshii desu",
+    "korean_pron": "야쿠소쿠와 마못테 호시이데스",
+    "meaning": "약속은 지켜줬으면 좋겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "早く帰ってほしいです。",
+    "hiragana": "はやく かえって ほしいです",
+    "romaji": "hayaku kaette hoshii desu",
+    "korean_pron": "하야쿠 카엣테 호시이데스",
+    "meaning": "일찍 들어왔으면 좋겠어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "帰らないでほしいです。",
+    "hiragana": "かえらないで ほしいです",
+    "romaji": "kaeranaide hoshii desu",
+    "korean_pron": "카에라나이데 호시이데스",
+    "meaning": "돌아가지 않았으면 좋겠어요 / 집에 가지 않았으면 해요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "日本語が上手になりたいです。",
+    "hiragana": "にほんご が じょうず に なりたいです",
+    "romaji": "nihongo ga jōzu ni naritai desu",
+    "korean_pron": "니혼고가 조-즈니 나리타이데스",
+    "meaning": "일본어를 잘하고 싶어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "日本語が上手になれたらいいです。",
+    "hiragana": "にほんご が じょうず に なれたら いいです",
+    "romaji": "nihongo ga jōzu ni naretara ii desu",
+    "korean_pron": "니혼고가 조-즈니 나레타라 이이데스",
+    "meaning": "일본어를 잘하게 되면 좋겠어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "日本語が上手になってほしいです。",
+    "hiragana": "にほんご が じょうず に なって ほしいです",
+    "romaji": "nihongo ga jōzu ni natte hoshii desu",
+    "korean_pron": "니혼고가 조-즈니 낫테 호시이데스",
+    "meaning": "(자기 자신이) 일본어를 잘하게 됐으면 좋겠어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "背が高くなれたらいいです。",
+    "hiragana": "せ が たかく なれたら いいです",
+    "romaji": "se ga takaku naretara ii desu",
+    "korean_pron": "세가 타카쿠 나레타라 이이데스",
+    "meaning": "키가 커지면 좋겠어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "背が高くなってほしいです。",
+    "hiragana": "せ が たかく なって ほしいです",
+    "romaji": "se ga takaku natte hoshii desu",
+    "korean_pron": "세가 타카쿠 낫테 호시이데스",
+    "meaning": "키가 커졌으면 좋겠어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "約束を守る",
+    "hiragana": "やくそくを まもる",
+    "romaji": "yakusoku o mamoru",
+    "korean_pron": "야쿠소쿠오 마모루",
+    "meaning": "약속을 지키다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "洗濯機を夜遅く回さないでほしいです。",
+    "hiragana": "せんたくきを よるおそく まわさないで ほしいです。",
+    "romaji": "sentakuki o yoru osoku mawasanaide hoshii desu",
+    "korean_pron": "센타쿠키오 요루 오소쿠 마와사나이데 호시이데스",
+    "meaning": "세탁기를 밤늦게 돌리지 않았으면 좋겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "かえらないでほしいです。",
+    "hiragana": "かえらないでほしいです。",
+    "romaji": "kaeranai de hoshii desu",
+    "korean_pron": "카에라나이데 호시이데스",
+    "meaning": "돌아가지 않았으면 좋겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "日本語が上手になってほしいです",
+    "hiragana": "にほんごが じょうずに なって ほしいです",
+    "romaji": "nihongo ga jouzu ni natte hoshii desu",
+    "korean_pron": "니혼고가 조-즈니 낫테 호시이데스",
+    "meaning": "일본어를 잘하게 되었으면 좋겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "背が高くなってほしいです",
+    "hiragana": "せが たかく なって ほしいです",
+    "romaji": "se ga takaku natte hoshii desu",
+    "korean_pron": "세가 타카쿠 낫테 호시이데스",
+    "meaning": "키가 커졌으면 좋겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "현재 문장",
+    "hiragana": "一日しか会えないです。",
+    "romaji": "いちにちしか あえないです",
+    "korean_pron": "ichinichi shika aenai desu",
+    "meaning": "이치니치시카 아에나이데스",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "더 자연스러운 표현",
+    "hiragana": "一日しか会えません。",
+    "romaji": "いちにちしか あえません",
+    "korean_pron": "ichinichi shika aemasen",
+    "meaning": "이치니치시카 아에마센",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "たくさん使ってください",
+    "hiragana": "たくさん つかって ください",
+    "romaji": "takusan tsukatte kudasai",
+    "korean_pron": "타쿠상 츠캇테 쿠다사이",
+    "meaning": "많이 사용해주세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "最近はどんな本を読んでいますか。",
+    "hiragana": "さいきんはどんなほんをよんでいますか。",
+    "romaji": "saikin wa donna hon o yonde imasu ka",
+    "korean_pron": "사이킨와 돈나 혼오 욘데 이마스까",
+    "meaning": "요즘은 어떤 책을 읽고 있나요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "旅行の本を読んでいます。",
+    "hiragana": "りょこうのほんをよんでいます。",
+    "romaji": "ryokō no hon o yonde imasu",
+    "korean_pron": "료코-노 혼오 욘데 이마스",
+    "meaning": "여행 책을 읽고 있어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "来週東京へ行きます。",
+    "hiragana": "らいしゅう とうきょうへ いきます。",
+    "romaji": "raishū Tōkyō e ikimasu",
+    "korean_pron": "라이슈- 도쿄에 이키마스",
+    "meaning": "다음 주에 도쿄에 가요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "電気がついています。",
+    "hiragana": "でんきが ついています。",
+    "romaji": "denki ga tsuite imasu",
+    "korean_pron": "덴키가 츠이테 이마스",
+    "meaning": "전기가 켜져 있어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "夜中には洗濯機を回さないでほしいです",
+    "hiragana": "よなかには せんたくきを まわさないで ほしいです",
+    "romaji": "yonaka ni wa sentakuki o mawasanaide hoshii desu",
+    "korean_pron": "요나카니와 센타쿠키오 마와사나이데 호시이데스",
+    "meaning": "한밤중에는 세탁기를 돌리지 않았으면 좋겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "電気がついている",
+    "hiragana": "でんきが ついている",
+    "romaji": "denki ga tsuite iru",
+    "korean_pron": "덴키가 츠이테 이루",
+    "meaning": "전기가 켜져 있다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "３０センチを超えると粗大ゴミです。",
+    "hiragana": "さんじゅっセンチを こえると そだいごみです",
+    "romaji": "sanju ssenchi o koeru to sodai gomi desu",
+    "korean_pron": "산쥬 센치오 코에루토 소다이 고미데스",
+    "meaning": "30cm를 넘으면 대형 쓰레기입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "前回約束したのにまた忘れてしまいました",
+    "hiragana": "ぜんかい やくそくしたのに また わすれて しまいました",
+    "romaji": "zenkai yakusoku shita noni mata wasurete shimaimashita",
+    "korean_pron": "젠카이 야쿠소쿠 시타 노니 마타 와스레테 시마이마시타",
+    "meaning": "지난번에 약속했는데 또 잊어버렸습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "窓を開けたまま寝てしまいました。",
+    "hiragana": "まどを あけたまま ねて しまいました",
+    "romaji": "mado o aketa mama nete shimaimashita",
+    "korean_pron": "마도오 아케타 마마 네테 시마이마시타",
+    "meaning": "창문을 열어 둔 채로 잠들어버렸습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "これからはルールを守ってほしいです",
+    "hiragana": "これからは るーるを まもって ほしいです",
+    "romaji": "korekara wa rūru o mamotte hoshii desu",
+    "korean_pron": "코레카라와 루우루오 마못테 호시이데스",
+    "meaning": "앞으로는 규칙을 지켜줬으면 좋겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ジブリ美術館に行くつもりです。",
+    "hiragana": "じぶりびじゅつかんに いく つもりです",
+    "romaji": "jiburi bijutsukan ni iku tsumori desu",
+    "korean_pron": "지부리 비쥬츠칸니 이쿠 츠모리데스",
+    "meaning": "지브리 미술관에 갈 생각입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "会ったら伝えてください。",
+    "hiragana": "あったら つたえて ください",
+    "romaji": "attara tsutaete kudasai",
+    "korean_pron": "앗따라 츠타에테 쿠다사이",
+    "meaning": "만나면 전해주세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "タクシーを拾ったら",
+    "hiragana": "たくしーを ひろったら",
+    "romaji": "takushī o hirottara",
+    "korean_pron": "타쿠시이오 히롯따라",
+    "meaning": "택시를 잡으면 / 택시를 얻으면",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "明日キムさんが来るかどうか分かりません。",
+    "hiragana": "あした きむさんが くるかどうか わかりません",
+    "romaji": "ashita kimu-san ga kuru ka dōka wakarimasen",
+    "korean_pron": "아시타 키무상가 쿠루카 도우카 와카리마센",
+    "meaning": "내일 김상이 올지 안 올지 모르겠어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "明日雨が降るかどうか分かりません。",
+    "hiragana": "あした あめが ふるかどうか わかりません",
+    "romaji": "ashita ame ga furu ka dōka wakarimasen",
+    "korean_pron": "아시타 아메가 후루카 도우카 와카리마센",
+    "meaning": "내일 비가 올지 안 올지 모르겠어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "タクシーをひろいます",
+    "hiragana": "たくしーをひろいます",
+    "romaji": "takushii o hiroimasu",
+    "korean_pron": "타쿠시 오 히로이마스",
+    "meaning": "택시를 잡습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "タクシーをひろいたいです",
+    "hiragana": "たくしーをひろいたいです",
+    "romaji": "takushii o hiroitai desu",
+    "korean_pron": "타쿠시 오 히로이타이 데스",
+    "meaning": "택시를 잡고 싶어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ここでタクシーをひろえますか",
+    "hiragana": "ここでたくしーをひろえますか",
+    "romaji": "koko de takushii o hiroemasu ka",
+    "korean_pron": "코코데 타쿠시 오 히로에마스까",
+    "meaning": "여기서 택시 잡을 수 있나요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "東京へ行ったら何をするつもりですか",
+    "hiragana": "とうきょうへいったら なにをするつもりですか",
+    "romaji": "tōkyō e ittara nani o suru tsumori desu ka",
+    "korean_pron": "도쿄에 잇타라 나니오 스루 츠모리데스까",
+    "meaning": "도쿄에 가면 무엇을 할 예정인가요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ジブリ美術館へ行くつもりです",
+    "hiragana": "じぶりびじゅつかんへ いくつもりです",
+    "romaji": "jiburi bijutsukan e iku tsumori desu",
+    "korean_pron": "지부리 비쥬츠칸에 이쿠 츠모리데스",
+    "meaning": "지브리 미술관에 갈 예정입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "あったら伝えてください。",
+    "hiragana": "あったら つたえてください",
+    "romaji": "attara tsutaete kudasai",
+    "korean_pron": "앗타라 츠타에테 쿠다사이",
+    "meaning": "있으면 전해주세요 / 만나면 전해주세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "きれいだし、背も高いし、性格もいいです。",
+    "hiragana": "きれいだし、せもたかいし、せいかくもいいです",
+    "romaji": "kirei dashi se mo takai shi seikaku mo ii desu",
+    "korean_pron": "키레이 다시 세모 타카이 시 세이카쿠모 이이데스",
+    "meaning": "예쁘기도 하고 키도 크고 성격도 좋아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "キムさんが来るかどうかわかりません。",
+    "hiragana": "きむさんがくるかどうかわかりません",
+    "romaji": "kimu-san ga kuru ka dōka wakarimasen",
+    "korean_pron": "키무상가 쿠루카 도-카 와카리마센",
+    "meaning": "김 씨가 올지 안 올지 모르겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "雨が降るかどうかわかりません。",
+    "hiragana": "あめがふるかどうかわかりません",
+    "romaji": "ame ga furu ka dōka wakarimasen",
+    "korean_pron": "아메가 후루카 도-카 와카리마센",
+    "meaning": "비가 올지 안 올지 모르겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "明日カフェに行くつもりです。",
+    "hiragana": "あした かふぇに いくつもりです",
+    "romaji": "ashita kafe ni iku tsumori desu",
+    "korean_pron": "아시타 카페니 이쿠 츠모리데스",
+    "meaning": "내일 카페에 갈 예정입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "そつぎょうしたら",
+    "hiragana": "そつぎょうしたら",
+    "romaji": "sotsugyō shitara",
+    "korean_pron": "소츠교- 시타라",
+    "meaning": "졸업하면",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "おじゃまします。",
+    "hiragana": "おじゃまします",
+    "romaji": "ojama shimasu",
+    "korean_pron": "오자마시마스",
+    "meaning": "실례합니다 / 폐를 끼치겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お口に合うかどうかわかりませんが。",
+    "hiragana": "おくちにあうかどうかわかりませんが",
+    "romaji": "okuchi ni au ka dōka wakarimasen ga",
+    "korean_pron": "오쿠치니 아우카 도-카 와카리마센가",
+    "meaning": "입맛에 맞을지 모르겠습니다만",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "おうちがきれいだし広いし、いいです。",
+    "hiragana": "おうちがきれいだし ひろいし、いいです",
+    "romaji": "ouchi ga kirei dashi hiroi shi ii desu",
+    "korean_pron": "오우치가 키레이 다시 히로이 시 이이데스",
+    "meaning": "집이 깨끗하기도 하고 넓어서 좋아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "おすすめのすしを聞いて食べました。",
+    "hiragana": "おすすめのすしをきいて たべました",
+    "romaji": "osusume no sushi o kiite tabemashita",
+    "korean_pron": "오스스메노 스시 오 키이테 타베마시타",
+    "meaning": "추천 스시를 물어보고 먹었습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "スシ屋で",
+    "hiragana": "すしやで",
+    "romaji": "sushi-ya de",
+    "korean_pron": "스시야 데",
+    "meaning": "스시집에서",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お口に合うかどうかわかりませんが、どうぞ。",
+    "hiragana": "おくちにあうかどうかわかりませんが どうぞ",
+    "romaji": "okuchi ni au ka dōka wakarimasen ga dōzo",
+    "korean_pron": "오쿠치니 아우카 도-카 와카리마센가 도-조",
+    "meaning": "입에 맞을지 모르겠지만 드세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "召し上がる",
+    "hiragana": "めしあがる",
+    "romaji": "meshiagaru",
+    "korean_pron": "메시아가루",
+    "meaning": "드시다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "召し上がってください。",
+    "hiragana": "めしあがってください",
+    "romaji": "meshiagatte kudasai",
+    "korean_pron": "메시아갓테 쿠다사이",
+    "meaning": "드세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "일본 요리",
+    "hiragana": "日本料理",
+    "romaji": "にほんりょうり",
+    "korean_pron": "nihon ryōri",
+    "meaning": "조금 더 격식 있는 표현",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "일식(요리 장르)",
+    "hiragana": "和風料理",
+    "romaji": "わふうりょうり",
+    "korean_pron": "wafū ryōri",
+    "meaning": "일본풍 요리",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "洗濯機を回したり掃除をしたり家事をしました。",
+    "hiragana": "せんたくきを まわしたり そうじを したり かじを しました。",
+    "romaji": "sentakuki o mawashitari sōji o shitari kaji o shimashita",
+    "korean_pron": "센타쿠키오 마와시타리 소오지오 시타리 카지오 시마시타",
+    "meaning": "세탁기를 돌리기도 하고 청소도 하면서 집안일을 했습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "あがってください。",
+    "hiragana": "あがってください。",
+    "romaji": "agatte kudasai",
+    "korean_pron": "아갓테 쿠다사이",
+    "meaning": "(집에) 들어오세요 / 올라오세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お口にあうかどうかわかりませんが、どうぞ召し上がってください。",
+    "hiragana": "おくちに あうか どうか わかりませんが、どうぞ めしあがって ください。",
+    "romaji": "okuchi ni au ka dōka wakarimasen ga, dōzo meshiagatte kudasai",
+    "korean_pron": "오쿠치니 아우카 도오카 와카리마센가 도오조 메시아갓테 쿠다사이",
+    "meaning": "입에 맞을지 모르겠지만 부디 드셔 주세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お庭もきれいだし、リビングも広いし、素敵なおうちですね。",
+    "hiragana": "おにわも きれいだし、りびんぐも ひろいし、すてきな おうちですね。",
+    "romaji": "oni wa mo kirei dashi, ribingu mo hiroi shi, suteki na ouchi desu ne",
+    "korean_pron": "오니와모 키레이 다시 리빙구모 히로이시 스테키나 오우치데스네",
+    "meaning": "정원도 예쁘고 거실도 넓고 멋진 집이네요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "少し狭いので、娘が小学校を卒業したら引っ越すつもりです。",
+    "hiragana": "すこし せまいので、むすめが しょうがっこうを そつぎょうしたら ひっこす つもりです。",
+    "romaji": "sukoshi semai node, musume ga shōgakkō o sotsugyō shitara hikkosu tsumori desu",
+    "korean_pron": "스코시 세마이노데 무스메가 쇼오각코오오 소츠교오시타라 힛코스 츠모리데스",
+    "meaning": "조금 좁아서 딸이 초등학교를 졸업하면 이사할 생각입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "五時半に帰ってきました。",
+    "hiragana": "ごじはんにかえってきました",
+    "romaji": "goji-han ni kaette kimashita",
+    "korean_pron": "고지한 니 카엣테 키마시타",
+    "meaning": "5시 반에 돌아왔어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "いらっしゃい。",
+    "hiragana": "いらっしゃい",
+    "romaji": "irasshai",
+    "korean_pron": "이랏샤이",
+    "meaning": "어서 오세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "どうぞ、上がってください。",
+    "hiragana": "どうぞ、あがってください",
+    "romaji": "dōzo, agatte kudasai",
+    "korean_pron": "도오조 아갓테 쿠다사이",
+    "meaning": "들어오세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お邪魔します。",
+    "hiragana": "おじゃまします",
+    "romaji": "ojama shimasu",
+    "korean_pron": "오자마 시마스",
+    "meaning": "실례하겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "これ、韓国のノリです。",
+    "hiragana": "これ、かんこくののりです",
+    "romaji": "kore, kankoku no nori desu",
+    "korean_pron": "코레 칸코쿠 노 노리 데스",
+    "meaning": "이거 한국 김이에요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "一緒に行くといいですが。",
+    "hiragana": "いっしょにいくといいですが",
+    "romaji": "issho ni iku to ii desu ga",
+    "korean_pron": "잇쇼니 이쿠 토 이이데스가",
+    "meaning": "같이 가면 좋겠지만…",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "忙しくもないし、仕事も多くないし。",
+    "hiragana": "いそがしくもないし、しごとも おおくないし",
+    "romaji": "isogashiku mo nai shi shigoto mo ōku nai shi",
+    "korean_pron": "이소가시쿠모 나이시 시고토모 오오쿠 나이시",
+    "meaning": "바쁘지도 않고 일도 많지 않고",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お茶を入れてきますので",
+    "hiragana": "おちゃをいれてきますので",
+    "romaji": "ocha o irete kimasu node",
+    "korean_pron": "오차오 이레테 키마스 노데",
+    "meaning": "차를 타 오겠습니다만 / 차를 준비해 올게요 그래서",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お庭もきれいだし、リビングも広いし、素敵なおうちですね。",
+    "hiragana": "おにわもきれいだし、りびんぐもひろいし、すてきなおうちですね。",
+    "romaji": "oniwa mo kirei da shi ribingu mo hiroi shi suteki na ouchi desu ne",
+    "korean_pron": "오니와모 키레이 다시 리빙구모 히로이 시 스테키나 오우치데스네",
+    "meaning": "정원도 예쁘고 거실도 넓고 정말 멋진 집이네요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "忙しくないし、仕事も多くないし",
+    "hiragana": "いそがしくないし、しごともおおくないし",
+    "romaji": "isogashikunai shi shigoto mo ookunai shi",
+    "korean_pron": "이소가시쿠 나이 시 시고토모 오오쿠 나이 시",
+    "meaning": "바쁘지도 않고 일도 많지 않고",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "行けるかどうかよくわかりません",
+    "hiragana": "いけるかどうかよくわかりません",
+    "romaji": "ikeru ka douka yoku wakarimasen",
+    "korean_pron": "이케루카 도오카 요쿠 와카리마센",
+    "meaning": "갈 수 있을지 없을지 잘 모르겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "行けるかどうかよくわかりません",
+    "hiragana": "いけるかどうかよくわかりません",
+    "romaji": "ikeru ka douka yoku wakarimasen",
+    "korean_pron": "이케루카 도오카 요쿠 와카리마센",
+    "meaning": "갈 수 있을지 없을지 잘 모르겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "先々週結婚式へ行きました。",
+    "hiragana": "せんせんしゅうけっこんしきへいきました",
+    "romaji": "sensenshuu kekkonshiki e ikimashita",
+    "korean_pron": "센센슈- 켁콘시키 에 이키마시타",
+    "meaning": "지지난주에 결혼식에 갔습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "会社の同僚たちが多かったんですね。",
+    "hiragana": "かいしゃのどうりょうたちがおおかったんですね",
+    "romaji": "kaisha no douryou-tachi ga ookatta n desu ne",
+    "korean_pron": "카이샤노 도-료-타치가 오-캇탄데스네",
+    "meaning": "회사 동료들이 많았군요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "一度行ったことがあります。",
+    "hiragana": "いちどいったことがあります",
+    "romaji": "ichido itta koto ga arimasu",
+    "korean_pron": "이치도 잇타 코토가 아리마스",
+    "meaning": "한 번 가 본 적이 있습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "このバスは一日一回来ます。",
+    "hiragana": "このばすはいちにちいっかいきます",
+    "romaji": "kono basu wa ichinichi ikkai kimasu",
+    "korean_pron": "코노 바스와 이치니치 잇카이 키마스",
+    "meaning": "이 버스는 하루에 한 번 옵니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "どうぞ召し上がってください。",
+    "hiragana": "どうぞめしあがってください",
+    "romaji": "douzo meshiagatte kudasai",
+    "korean_pron": "도-조 메시아갓테 쿠다사이",
+    "meaning": "드세요 / 맛있게 드세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お口に合うかどうかわかりませんが。",
+    "hiragana": "おくちにあうかどうかわかりませんが",
+    "romaji": "okuchi ni au ka douka wakarimasen ga",
+    "korean_pron": "오쿠치니 아우카 도-카 와카리마센가",
+    "meaning": "입에 맞을지 어떨지 모르겠습니다만",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "家庭料理を一度食べてみたかったです。",
+    "hiragana": "かていりょうりをいちどたべてみたかったです",
+    "romaji": "katei ryouri o ichido tabete mitakatta desu",
+    "korean_pron": "카테이료-리오 이치도 타베테 미타캇타 데스",
+    "meaning": "가정요리를 한 번 먹어보고 싶었습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ごちそうさまでした。",
+    "hiragana": "ごちそうさまでした",
+    "romaji": "gochisousama deshita",
+    "korean_pron": "고치소-사마 데시타",
+    "meaning": "잘 먹었습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "テーブルの上に置いたまま食べます。",
+    "hiragana": "てーぶるのうえにおいたままたべます",
+    "romaji": "teeburu no ue ni oita mama tabemasu",
+    "korean_pron": "테-부루노 우에니 오이타 마마 타베마스",
+    "meaning": "테이블 위에 둔 채로 먹어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "日本の焼き鳥を食べてみたいです。",
+    "hiragana": "にほんの やきとりを たべてみたいです",
+    "romaji": "nihon no yakitori o tabete mitai desu",
+    "korean_pron": "니혼노 야키토리오 타베테 미타이데스",
+    "meaning": "일본의 야키토리를 먹어보고 싶어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ほとんど食べません。",
+    "hiragana": "ほとんど たべません",
+    "romaji": "hotondo tabemasen",
+    "korean_pron": "호톤도 타베마센",
+    "meaning": "거의 먹지 않습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "器を手に取って食べません。",
+    "hiragana": "うつわを てに とって たべません",
+    "romaji": "utsuwa o te ni totte tabemasen",
+    "korean_pron": "우츠와오 테니 톳테 타베마센",
+    "meaning": "그릇을 손에 들고 먹지 않습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "一本しか飲めません。",
+    "hiragana": "いっぽん しか のめません",
+    "romaji": "ippon shika nomemasen",
+    "korean_pron": "잇폰 시카 노메마센",
+    "meaning": "한 병밖에 마실 수 없어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "二、三杯しか飲めないです。",
+    "hiragana": "にさんばい しか のめないです",
+    "romaji": "nisanbai shika nomenai desu",
+    "korean_pron": "",
+    "meaning": "2~3잔밖에 못 마셔요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ビールは四、五杯です。",
+    "hiragana": "びーるは よんごはい です",
+    "romaji": "biiru wa yongo-hai desu",
+    "korean_pron": "",
+    "meaning": "맥주는 4~5잔이에요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "忙しくて電話をかけられません。",
+    "hiragana": "いそがしくて でんわを かけられません",
+    "romaji": "isogashikute denwa o kakeraremasen",
+    "korean_pron": "이소가시쿠테 덴와오 카케라레마센",
+    "meaning": "바빠서 전화를 걸 수 없어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "高かったら買わないでください。",
+    "hiragana": "たかかったら かわないで ください",
+    "romaji": "takakattara kawanai de kudasai",
+    "korean_pron": "타카캇타라 카와나이데 쿠다사이",
+    "meaning": "비싸면 사지 마세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "月曜日にポハンへ行きます。",
+    "hiragana": "げつようびに ぽはん へ いきます。",
+    "romaji": "getsuyōbi ni Pohang e ikimasu",
+    "korean_pron": "게츠요-비니 포항에 이키마스",
+    "meaning": "월요일에 포항에 갑니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "来週連休ですから早く食べなければなりません。",
+    "hiragana": "らいしゅう れんきゅう ですから はやく たべなければ なりません。",
+    "romaji": "raishū renkyū desu kara hayaku tabenakereba narimasen",
+    "korean_pron": "라이슈- 렌큐- 데스카라 하야쿠 타베나케레바 나리마셍",
+    "meaning": "다음 주는 연휴이기 때문에 빨리 먹어야 합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "親に会ったほうがいいです。",
+    "hiragana": "おや に あった ほう が いい です。",
+    "romaji": "oya ni atta hō ga ii desu",
+    "korean_pron": "오야 니 앗타 호- 가 이이 데스",
+    "meaning": "부모님을 만나는 게 좋습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "二、三杯しか飲めません。",
+    "hiragana": "に、さんばい しか のめません。",
+    "romaji": "ni, sanbai shika nomemasen",
+    "korean_pron": "니 산바이 시카 노메마셍",
+    "meaning": "두세 잔밖에 마실 수 없습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "おかわりどうですか。",
+    "hiragana": "おかわり どう ですか。",
+    "romaji": "okawari dō desu ka",
+    "korean_pron": "오카와리 도- 데스카",
+    "meaning": "더 드실래요? / 리필 어떠세요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "おいしくて箸が止まらないです。",
+    "hiragana": "おいしくて はし が とまらない です。",
+    "romaji": "oishikute hashi ga tomaranai desu",
+    "korean_pron": "오이시쿠테 하시 가 토마라나이 데스",
+    "meaning": "맛있어서 젓가락이 멈추지 않아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "忙しくてかけられないです。",
+    "hiragana": "いそがしくて かけられない です。",
+    "romaji": "isogashikute kakerarenai desu",
+    "korean_pron": "이소가시쿠테 카케라레나이 데스",
+    "meaning": "바빠서 걸 수 없습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "おかわり自由",
+    "hiragana": "おかわり じゆう",
+    "romaji": "okawari jiyū",
+    "korean_pron": "오카와리 지유-",
+    "meaning": "리필 자유 / 무한 리필",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "妹も結婚しました。",
+    "hiragana": "いもうと も けっこん しました",
+    "romaji": "imōto mo kekkon shimashita",
+    "korean_pron": "이모-토 모 켁콘 시마시타",
+    "meaning": "여동생도 결혼했어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "両方のご両親はお元気でしょうか。",
+    "hiragana": "りょうほうの ごりょうしん は おげんき でしょうか",
+    "romaji": "ryōhō no goryōshin wa ogenki deshō ka",
+    "korean_pron": "료-호-노 고료-신 와 오겐키 데쇼-카",
+    "meaning": "양쪽 부모님은 건강하신가요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "二人兄弟",
+    "hiragana": "ふたりきょうだい",
+    "romaji": "futari kyōdai",
+    "korean_pron": "후타리 쿄-다이",
+    "meaning": "형제가 두 명",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "三時間半かかりました。",
+    "hiragana": "さんじかんはん かかりました",
+    "romaji": "sanjikan han kakarimashita",
+    "korean_pron": "산지칸 한 카카리마시타",
+    "meaning": "세 시간 반 걸렸습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "午前一時に帰りましたが木曜日から出勤でした。",
+    "hiragana": "ごぜんいちじ に かえりました が もくようび から しゅっきん でした",
+    "romaji": "gozen ichiji ni kaerimashita ga mokuyōbi kara shukkin deshita",
+    "korean_pron": "고젠 이치지 니 카에리마시타 가 모쿠요-비 카라 슛킨 데시타",
+    "meaning": "오전 1시에 돌아왔지만 목요일부터 출근이었습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "妹が一人います。",
+    "hiragana": "いもうと が ひとり います",
+    "romaji": "imōto ga hitori imasu",
+    "korean_pron": "이모-토 가 히토리 이마스",
+    "meaning": "여동생이 한 명 있습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "何人兄弟ですか。",
+    "hiragana": "なんにん きょうだい ですか",
+    "romaji": "nannin kyōdai desu ka",
+    "korean_pron": "난닌 쿄-다이 데스카",
+    "meaning": "형제자매가 몇 명입니까?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "一人だけです。",
+    "hiragana": "ひとり だけ です",
+    "romaji": "hitori dake desu",
+    "korean_pron": "히토리 다케 데스",
+    "meaning": "한 명뿐입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "結婚しました。",
+    "hiragana": "けっこん しました",
+    "romaji": "kekkon shimashita",
+    "korean_pron": "켓콘 시마시타",
+    "meaning": "결혼했습니다 (과거에 결혼했다는 사실)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "結婚しています。",
+    "hiragana": "けっこん しています",
+    "romaji": "kekkon shite imasu",
+    "korean_pron": "켓콘 시테 이마스",
+    "meaning": "결혼한 상태입니다 (현재 기혼 상태)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "明日来られるかどうか聞いてみます。",
+    "hiragana": "あした こられる か どうか きいて みます",
+    "romaji": "ashita korareru ka dō ka kiite mimasu",
+    "korean_pron": "아시타 코라레루 카 도-카 키이테 미마스",
+    "meaning": "내일 올 수 있는지 어떤지 물어보겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "キムさんに会えるかどうかよくわかりません。",
+    "hiragana": "きむさん に あえる か どうか よく わかりません",
+    "romaji": "kimu-san ni aeru ka dō ka yoku wakarimasen",
+    "korean_pron": "키무상 니 아에루 카 도-카 요쿠 와카리마센",
+    "meaning": "김상(김 씨)을 만날 수 있을지 없을지 잘 모르겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "結婚するつもりです。",
+    "hiragana": "けっこん する つもり です",
+    "romaji": "kekkon suru tsumori desu",
+    "korean_pron": "켓콘 스루 츠모리 데스",
+    "meaning": "결혼할 생각입니다 / 결혼할 예정입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "髪も切るつもりです。",
+    "hiragana": "かみ も きる つもり です",
+    "romaji": "kami mo kiru tsumori desu",
+    "korean_pron": "카미 모 키루 츠모리 데스",
+    "meaning": "머리도 자를 생각입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "美容室に行く予定です。",
+    "hiragana": "びようしつ に いく よてい です",
+    "romaji": "biyōshitsu ni iku yotei desu",
+    "korean_pron": "비요-시츠 니 이쿠 요테이 데스",
+    "meaning": "미용실에 갈 예정입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "明日来られるかどうか聞いてみます。",
+    "hiragana": "あした こられる か どうか きいてみます。",
+    "romaji": "ashita korareru ka douka kiite mimasu",
+    "korean_pron": "아시타 코라레루 카 도-카 키이테 미마스",
+    "meaning": "내일 올 수 있는지 없는지 물어봐 보겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "田舎で暮らすつもりです。",
+    "hiragana": "いなかで くらす つもりです。",
+    "romaji": "inaka de kurasu tsumori desu",
+    "korean_pron": "이나카데 쿠라스 츠모리데스",
+    "meaning": "시골에서 살 예정입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "持ち帰り用のパスタとサラダを食べました。",
+    "hiragana": "もちかえりよう の パスタ と サラダ を たべました。",
+    "romaji": "mochikaeri you no pasuta to sarada o tabemashita",
+    "korean_pron": "모치카에리요-노 파스타토 사라다오 타베마시타",
+    "meaning": "포장용 파스타와 샐러드를 먹었습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "めんどくさいですね。",
+    "hiragana": "めんどくさい です ね。",
+    "romaji": "mendokusai desu ne",
+    "korean_pron": "멘도쿠사이 데스네",
+    "meaning": "귀찮네요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "宿題が面倒くさいです。",
+    "hiragana": "しゅくだいがめんどうくさいです",
+    "romaji": "shukudai ga mendōkusai desu",
+    "korean_pron": "슈쿠다이가 멘도오쿠사이 데스",
+    "meaning": "숙제가 귀찮아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "面倒くさい",
+    "hiragana": "めんどうくさい",
+    "romaji": "mendōkusai",
+    "korean_pron": "멘도오쿠사이",
+    "meaning": "귀찮다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "持ち帰り用パスタとサラダを食べました",
+    "hiragana": "もちかえりようぱすたとさらだをたべました",
+    "romaji": "mochikaeri yō pasuta to sarada o tabemashita",
+    "korean_pron": "모치카에리 요오 파스타토 사라다오 타베마시타",
+    "meaning": "포장용 파스타와 샐러드를 먹었습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "女の人は韓国のお茶を上げました",
+    "hiragana": "おんなのひとはかんこくのおちゃをあげました",
+    "romaji": "onna no hito wa kankoku no ocha o agemashita",
+    "korean_pron": "온나노 히토와 칸코쿠노 오차오 아게마시타",
+    "meaning": "여자는 한국 차를 주었습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "男の人は家が駅から遠くて引っ越すつもりです。",
+    "hiragana": "おとこのひとはいえがえきからとおくてひっこすつもりです",
+    "romaji": "otoko no hito wa ie ga eki kara tōkute hikkosu tsumori desu",
+    "korean_pron": "오토코노 히토와 이에가 에키카라 토오쿠테 힛코스 츠모리데스",
+    "meaning": "남자는 집이 역에서 멀어서 이사할 예정입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "二つ持ってきました",
+    "hiragana": "ふたつもってきました",
+    "romaji": "futatsu motte kimashita",
+    "korean_pron": "후타츠 못테 키마시타",
+    "meaning": "두 개 가져왔습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "韓国は縦で日本は横です。",
+    "hiragana": "かんこくはたてでにほんはよこです",
+    "romaji": "kankoku wa tate de nihon wa yoko desu",
+    "korean_pron": "칸코쿠와 타테 데 니혼와 요코 데스",
+    "meaning": "한국은 세로이고 일본은 가로입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お箸の方向が違います。",
+    "hiragana": "おはしのほうこうがちがいます",
+    "romaji": "ohashi no hōkō ga chigaimasu",
+    "korean_pron": "오하시노 호-코-가 치가이마스",
+    "meaning": "젓가락의 방향이 다릅니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "韓国では食事の時器をどうやって食べますか。",
+    "hiragana": "かんこくではしょくじのときうつわをどうやってたべますか",
+    "romaji": "kankoku dewa shokuji no toki utsuwa o dōyatte tabemasu ka",
+    "korean_pron": "칸코쿠데와 쇼쿠지노 토키 우츠와오 도얏테 타베마스카",
+    "meaning": "한국에서는 식사할 때 그릇을 어떻게 먹습니까",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "器をテーブルの上に置いたまま食べます。",
+    "hiragana": "うつわをテーブルのうえにおいたままたべます",
+    "romaji": "utsuwa o tēburu no ue ni oita mama tabemasu",
+    "korean_pron": "우츠와오 테에부루노 우에니 오이타 마마 타베마스",
+    "meaning": "그릇을 테이블 위에 둔 채로 먹습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "雨が降っていますね。",
+    "hiragana": "あめがふっていますね",
+    "romaji": "ame ga futte imasu ne",
+    "korean_pron": "아메가 훗테 이마스네",
+    "meaning": "비가 오네요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "先週は暑かったですが、今週は寒いです。",
+    "hiragana": "せんしゅうはあつかったですが こんしゅうはさむいです",
+    "romaji": "senshū wa atsukatta desu ga konshū wa samui desu",
+    "korean_pron": "센슈와 아츠캇타데스가 콘슈와 사무이데스",
+    "meaning": "지난주는 더웠지만 이번주는 춥습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "先週は暑かったのに、今週は寒いですね。",
+    "hiragana": "せんしゅうはあつかったのに こんしゅうはさむいですね",
+    "romaji": "",
+    "korean_pron": "",
+    "meaning": "지난주는 더웠는데 이번주는 춥네요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お茶を入れてきますから、中へどうぞ。",
+    "hiragana": "おちゃをいれてきますから なかへどうぞ",
+    "romaji": "ocha o irete kimasu kara naka e dōzo",
+    "korean_pron": "오차오 이레테 키마스카라 나카에 도오조",
+    "meaning": "차를 준비해 올 테니 안으로 들어오세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お茶を入れてきますから。",
+    "hiragana": "おちゃをいれてきますから。",
+    "romaji": "ocha o irete kimasu kara",
+    "korean_pron": "오챠오 이레테 키마스 카라",
+    "meaning": "차를 타서 가져올게요. / 차를 준비해 올 테니까요.",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ここはきれいな花が飾ってあります。",
+    "hiragana": "ここはきれいなはながかざってあります。",
+    "romaji": "koko wa kirei na hana ga kazatte arimasu",
+    "korean_pron": "코코와 키레이나 하나가 카잣테 아리마스",
+    "meaning": "여기에는 예쁜 꽃이 장식되어 있습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "箸の方向が違います。",
+    "hiragana": "はしのほうこうがちがいます。",
+    "romaji": "hashi no houkou ga chigaimasu",
+    "korean_pron": "하시노 호-코-가 치가이마스",
+    "meaning": "젓가락의 방향이 다릅니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "韓国は縦で、日本は横です。",
+    "hiragana": "かんこくはたてで、にほんはよこです。",
+    "romaji": "kankoku wa tate de, nihon wa yoko desu",
+    "korean_pron": "칸코쿠와 타테데 니혼와 요코 데스",
+    "meaning": "한국은 세로이고 일본은 가로입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "道はちゃんと説明してあげました。",
+    "hiragana": "みちはちゃんとせつめいしてあげました",
+    "romaji": "michi wa chanto setsumei shite agemashita",
+    "korean_pron": "미치와 챤토 세츠메이 시테 아게마시타",
+    "meaning": "길을 제대로 설명해 주었습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "隣に迷惑をかけてはいけません。",
+    "hiragana": "となりにめいわくをかけてはいけません",
+    "romaji": "tonari ni meiwaku o kakete wa ikemasen",
+    "korean_pron": "토나리니 메이와쿠오 카케테와 이케마센",
+    "meaning": "이웃에게 폐를 끼치면 안 됩니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "健康のためには食べすぎないようにしましょう。",
+    "hiragana": "けんこうのためにはたべすぎないようにしましょう",
+    "romaji": "kenkou no tame ni wa tabesuginai you ni shimashou",
+    "korean_pron": "켄코노 타메니와 타베스기나이 요우니 시마쇼",
+    "meaning": "건강을 위해 너무 많이 먹지 않도록 합시다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "日本語が話せますか。",
+    "hiragana": "にほんごがはなせますか",
+    "romaji": "nihongo ga hanasemasu ka",
+    "korean_pron": "니혼고가 하나세마스카",
+    "meaning": "일본어를 말할 수 있습니까",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "金曜日は行けません。",
+    "hiragana": "きんようびはいけません",
+    "romaji": "kinyoubi wa ikemasen",
+    "korean_pron": "킨요오비와 이케마센",
+    "meaning": "금요일은 갈 수 없습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "パクさんは漢字が書けれます。",
+    "hiragana": "ぱくさんはかんじがかけれます",
+    "romaji": "pakusan wa kanji ga kakeremasu",
+    "korean_pron": "파쿠상와 칸지가 카케레마스",
+    "meaning": "박 씨는 한자를 쓸 수 있습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お父さんはお酒が飲めません。",
+    "hiragana": "おとうさんはおさけがのめません",
+    "romaji": "otousan wa osake ga nomemasen",
+    "korean_pron": "오토상와 오사케가 노메마센",
+    "meaning": "아버지는 술을 마실 수 없습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お父さんはお酒が飲めません。",
+    "hiragana": "おとうさんはおさけがのめません",
+    "romaji": "otousan wa osake ga nomemasen",
+    "korean_pron": "오토상와 오사케가 노메마센",
+    "meaning": "아버지는 술을 마실 수 없습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "週末に食べて残った",
+    "hiragana": "しゅうまつにたべてのこった",
+    "romaji": "shuumatsu ni tabete nokotta",
+    "korean_pron": "슈우마츠니 타베테 노콧타",
+    "meaning": "주말에 먹고 남은",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "宝くじに当たる",
+    "hiragana": "たからくじにあたる",
+    "romaji": "takarakuji ni ataru",
+    "korean_pron": "타카라쿠지니 아타루",
+    "meaning": "복권에 당첨되다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ここはテレビでも紹介されました。",
+    "hiragana": "ここはてれびでもしょうかいされました",
+    "romaji": "koko wa terebi demo shoukai saremashita",
+    "korean_pron": "코코와 테레비데모 쇼오카이 사레마시타",
+    "meaning": "이곳은 TV에서도 소개되었습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "電車の中で足をふまれました。",
+    "hiragana": "でんしゃのなかであしをふまれました",
+    "romaji": "densha no naka de ashi o fumaremashita",
+    "korean_pron": "덴샤노 나카데 아시오 후마레마시타",
+    "meaning": "전철 안에서 발을 밟혔습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ヤンさんは7時までには来られます。",
+    "hiragana": "やんさんはしちじまでにはこられます",
+    "romaji": "yan san wa shichiji made ni wa koraremasu",
+    "korean_pron": "얀상와 시치지마데니와 코라레마스",
+    "meaning": "양 씨는 7시까지는 올 수 있습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ヤンさんはいつもお母さんにほめられます。",
+    "hiragana": "やんさんはいつもおかあさんにほめられます",
+    "romaji": "yan san wa itsumo okaasan ni homeraremasu",
+    "korean_pron": "얀상와 이츠모 오카아상니 호메라레마스",
+    "meaning": "양 씨는 항상 어머니에게 칭찬을 받습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "風が強かった。",
+    "hiragana": "かぜがつよかった",
+    "romaji": "kaze ga tsuyokatta",
+    "korean_pron": "카제가 츠요캇타",
+    "meaning": "바람이 강했다 / 바람이 세게 불었다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "午前に天気がいいので",
+    "hiragana": "ごぜんにてんきがいいので",
+    "romaji": "gozen ni tenki ga ii node",
+    "korean_pron": "고젠니 텐키가 이이 노데",
+    "meaning": "오전에 날씨가 좋아서",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "天気が良かったので",
+    "hiragana": "てんきがよかったので",
+    "romaji": "tenki ga yokatta node",
+    "korean_pron": "텐키가 요캇타 노데",
+    "meaning": "날씨가 좋았기 때문에 / 날씨가 좋아서",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "紹介されました。",
+    "hiragana": "しょうかいされました",
+    "romaji": "shōkai saremashita",
+    "korean_pron": "쇼-카이 사레마시타",
+    "meaning": "소개받았습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "踏まれました。",
+    "hiragana": "ふまれました",
+    "romaji": "fumaremashita",
+    "korean_pron": "후마레마시타",
+    "meaning": "밟혔습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "来られます。",
+    "hiragana": "こられます",
+    "romaji": "koraremasu",
+    "korean_pron": "코라레마스",
+    "meaning": "올 수 있습니다 / 오십니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "褒められます。",
+    "hiragana": "ほめられます",
+    "romaji": "homeraremasu",
+    "korean_pron": "호메라레마스",
+    "meaning": "칭찬받습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "休まないで",
+    "hiragana": "やすまないで",
+    "romaji": "yasumanaide",
+    "korean_pron": "야스마나이데",
+    "meaning": "쉬지 말고 / 쉬지 않고",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "親戚の結婚式に参加しました。",
+    "hiragana": "しんせき の けっこんしき に さんか しました",
+    "romaji": "shinseki no kekkonshiki ni sanka shimashita",
+    "korean_pron": "신세키노 켁콘시키니 산카 시마시타",
+    "meaning": "친척의 결혼식에 참석했습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "薬を飲むと少し眠くなります",
+    "hiragana": "くすり を のむ と すこし ねむく なります",
+    "romaji": "kusuri o nomu to sukoshi nemuku narimasu",
+    "korean_pron": "쿠스리오 노무토 스코시 네무쿠 나리마스",
+    "meaning": "약을 먹으면 조금 졸려집니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "パクさんは 日本語のテストのために努力したのに失敗してしまいました。",
+    "hiragana": "パクさん は にほんご の テスト の ため に どりょく した のに しっぱい して しまいました",
+    "romaji": "paku-san wa nihongo no tesuto no tame ni doryoku shita noni shippai shite shimaimashita",
+    "korean_pron": "파쿠상와 니혼고노 테스토노 타메니 도료쿠 시타노니 싯파이 시테 시마이마시타",
+    "meaning": "박 씨는 일본어 시험을 위해 노력했는데 실패해버렸습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "今日は遅く退勤したので食べませんでした。",
+    "hiragana": "きょう は おそく たいきん した ので たべませんでした",
+    "romaji": "kyou wa osoku taikin shita node tabemasen deshita",
+    "korean_pron": "쿄우와 오소쿠 타이킨 시타노데 타베마센데시타",
+    "meaning": "오늘은 늦게 퇴근해서 먹지 않았어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "夜遅く洗濯機を回さないでほしいです。",
+    "hiragana": "よる おそく せんたくき を まわさないで ほしいです",
+    "romaji": "yoru osoku sentakuki o mawasanaide hoshii desu",
+    "korean_pron": "요루 오소쿠 센타쿠키오 마와사나이데 호시이데스",
+    "meaning": "밤늦게 세탁기 돌리지 않았으면 좋겠어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "仕事が遅く終わりました。",
+    "hiragana": "しごとがおそくおわりました",
+    "romaji": "shigoto ga osoku owarimashita",
+    "korean_pron": "시고토가 오소쿠 오와리마시타",
+    "meaning": "일이 늦게 끝났어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "掃除が上手だから",
+    "hiragana": "そうじがじょうずだから",
+    "romaji": "souji ga jouzu dakara",
+    "korean_pron": "소-지가 조-즈 다카라",
+    "meaning": "청소를 잘하기 때문에",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お色直し",
+    "hiragana": "おいろなおし",
+    "romaji": "oironaoshi",
+    "korean_pron": "오이로나오시",
+    "meaning": "(결혼식에서) 의상 갈아입기",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "ご愁傷さまです",
+    "hiragana": "ごしゅうしょうさまです",
+    "romaji": "goshūshō sama desu",
+    "korean_pron": "고슈쇼- 사마 데스",
+    "meaning": "(장례 상황에서) 삼가 고인의 명복을 빕니다 / 애도를 표합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "仕事が遅く終わりました",
+    "hiragana": "しごとがおそくおわりました",
+    "romaji": "shigoto ga osoku owarimashita",
+    "korean_pron": "시고토가 오소쿠 오와리마시타",
+    "meaning": "일이 늦게 끝났습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "勉強時間を替えました",
+    "hiragana": "べんきょうじかんをかえました",
+    "romaji": "benkyou jikan o kaemashita",
+    "korean_pron": "벤쿄- 지칸오 카에마시타",
+    "meaning": "공부 시간을 바꿨습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "トマトも出るんですか",
+    "hiragana": "トマトもでるんですか",
+    "romaji": "tomato mo deru n desu ka",
+    "korean_pron": "토마토모 데룬데스카",
+    "meaning": "토마토도 나오나요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "持ってきたトマトがありました",
+    "hiragana": "もってきたトマトがありました",
+    "romaji": "motte kita tomato ga arimashita",
+    "korean_pron": "못테 키타 토마토가 아리마시타",
+    "meaning": "가져온 토마토가 있었습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "パスタは簡単です",
+    "hiragana": "パスタはかんたんです",
+    "romaji": "pasuta wa kantan desu",
+    "korean_pron": "파스타와 칸탄 데스",
+    "meaning": "파스타는 간단합니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "みたいです",
+    "hiragana": "みたいです",
+    "romaji": "mitai desu",
+    "korean_pron": "미타이 데스",
+    "meaning": "~인 것 같아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お書きください",
+    "hiragana": "おかきください",
+    "romaji": "okaki kudasai",
+    "korean_pron": "오카키 쿠다사이",
+    "meaning": "써 주세요 (공손)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お送りします",
+    "hiragana": "おおくりします",
+    "romaji": "ookuri shimasu",
+    "korean_pron": "오오쿠리 시마스",
+    "meaning": "보내겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "金曜日なので寿司を食べました",
+    "hiragana": "きんようびなので すしをたべました",
+    "romaji": "kinyoubi na node sushi o tabemashita",
+    "korean_pron": "킨요-비 나노데 스시오 타베마시타",
+    "meaning": "금요일이라 초밥을 먹었습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "和気あいあい",
+    "hiragana": "わきあいあい",
+    "romaji": "waki aiai",
+    "korean_pron": "와키 아이아이",
+    "meaning": "화기애애한 분위기",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "正月の休み",
+    "hiragana": "しょうがつのやすみ",
+    "romaji": "shougatsu no yasumi",
+    "korean_pron": "쇼-가츠노 야스미",
+    "meaning": "설날 연휴 / 신정 연휴",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "二人兄弟です",
+    "hiragana": "ふたりきょうだいです",
+    "romaji": "futari kyoudai desu",
+    "korean_pron": "후타리 쿄-다이 데스",
+    "meaning": "두 형제입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お読みします",
+    "hiragana": "およみします",
+    "romaji": "oyomi shimasu",
+    "korean_pron": "오요미 시마스",
+    "meaning": "(제가) 읽겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "和気あいあいな家族",
+    "hiragana": "わきあいあいなかぞく",
+    "romaji": "wakiai ai na kazoku",
+    "korean_pron": "와키아이아이 나 카조쿠",
+    "meaning": "화기애애한 가족",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "正月の休みはどうでしたか。",
+    "hiragana": "しょうがつのやすみはどうでしたか",
+    "romaji": "shougatsu no yasumi wa dou deshita ka",
+    "korean_pron": "쇼-가츠노 야스미와 도-데시타카",
+    "meaning": "설 휴가 어땠어요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "一緒に会うつもりです",
+    "hiragana": "いっしょにあうつもりです",
+    "romaji": "issho ni au tsumori desu",
+    "korean_pron": "잇쇼니 아우 츠모리 데스",
+    "meaning": "함께 만날 예정입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "妹の誕生日なのでたぶん家族と一緒に食事会がある予定です",
+    "hiragana": "いもうとのたんじょうびなのでたぶんかぞくといっしょにしょくじかいがあるよていです",
+    "romaji": "imouto no tanjoubi na node tabun kazoku to issho ni shokujikai ga aru yotei desu",
+    "korean_pron": "이모토노 탄죠비 나노데 타분 카조쿠토 잇쇼니 쇼쿠지카이가 아루 요테이 데스",
+    "meaning": "여동생 생일이라 아마 가족과 함께 식사 모임이 있을 예정입니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お持ちですか",
+    "hiragana": "おもちですか",
+    "romaji": "omochi desu ka",
+    "korean_pron": "오모치 데스까",
+    "meaning": "(가지고) 계신가요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お送りします",
+    "hiragana": "おおくりします",
+    "romaji": "ookuri shimasu",
+    "korean_pron": "오오쿠리 시마스",
+    "meaning": "보내드리겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お読みします",
+    "hiragana": "およみします",
+    "romaji": "oyomi shimasu",
+    "korean_pron": "오요미 시마스",
+    "meaning": "읽어드리겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "本人を確認できるものと印鑑はお持ちですか",
+    "hiragana": "ほんにんをかくにんできるものといんかんはおもちですか",
+    "romaji": "honnin o kakunin dekiru mono to inkan wa omochi desu ka",
+    "korean_pron": "혼닌오 카쿠닌 데키루 모노토 잉칸와 오모치 데스까",
+    "meaning": "본인 확인 가능한 것과 도장은 가지고 계신가요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お読みください",
+    "hiragana": "およみください",
+    "romaji": "oyomi kudasai",
+    "korean_pron": "오요미 쿠다사이",
+    "meaning": "읽어 주세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "妹の誕生日なのでレストランに行きました",
+    "hiragana": "いもうとのたんじょうびなのでれすとらんにいきました",
+    "romaji": "imouto no tanjoubi na node resutoran ni ikimashita",
+    "korean_pron": "이모토노 탄죠비 나노데 레스토란니 이키마시타",
+    "meaning": "여동생 생일이라 레스토랑에 갔어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "家に帰って遊びました",
+    "hiragana": "いえにかえってあそびました",
+    "romaji": "ie ni kaette asobimashita",
+    "korean_pron": "이에니 카엣테 아소비마시타",
+    "meaning": "집에 가서 놀았어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "前に見たものをまた見ました",
+    "hiragana": "まえにみたものをまたみました",
+    "romaji": "mae ni mita mono o mata mimashita",
+    "korean_pron": "마에니 미타 모노오 마타 미마시타",
+    "meaning": "전에 본 것을 다시 봤어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "どうしましたか",
+    "hiragana": "무슨 일이에요? (일반)",
+    "romaji": "",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "どうなさいましたか",
+    "hiragana": "무슨 일이세요? (공손, 병원/서비스)",
+    "romaji": "",
+    "korean_pron": "",
+    "meaning": "",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "画面が動きません",
+    "hiragana": "がめんがうごきません",
+    "romaji": "gamen ga ugokimasen",
+    "korean_pron": "가멘가 우고키마센",
+    "meaning": "화면이 움직이지 않아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "妹のうちに行って一緒に遊びました",
+    "hiragana": "いもうとのうちにいっていっしょにあそびました",
+    "romaji": "imouto no uchi ni itte issho ni asobimashita",
+    "korean_pron": "이모토노 우치니 잇떼 잇쇼니 아소비마시타",
+    "meaning": "여동생 집에 가서 같이 놀았어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "どうしたの。",
+    "hiragana": "どうしたの",
+    "romaji": "doushita no",
+    "korean_pron": "도-시타노",
+    "meaning": "무슨 일이야? (반말)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "どうしましたか。",
+    "hiragana": "どうしましたか",
+    "romaji": "doushimashita ka",
+    "korean_pron": "도-시마시타카",
+    "meaning": "무슨 일이세요? (기본 존댓말)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "どうされましたか。",
+    "hiragana": "どうされましたか",
+    "romaji": "dousaremashita ka",
+    "korean_pron": "도-사레마시타카",
+    "meaning": "무슨 일이 있으셨습니까? (높임말)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "画面が動きません。",
+    "hiragana": "がめんがうごきません",
+    "romaji": "gamen ga ugokimasen",
+    "korean_pron": "가멘가 우고키마센",
+    "meaning": "화면이 움직이지 않습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お金をおろす",
+    "hiragana": "おかねをおろす",
+    "romaji": "okane o orosu",
+    "korean_pron": "오카네오 오로스",
+    "meaning": "돈을 인출하다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "道が混んでいますか。",
+    "hiragana": "みちがこんでいますか",
+    "romaji": "michi ga konde imasu ka",
+    "korean_pron": "미치가 콘데 이마스까",
+    "meaning": "길이 막혀 있나요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "仕事が遅かったので七時半に退勤しました。",
+    "hiragana": "しごとがおそかったのでしちじはんにたいきんしました",
+    "romaji": "shigoto ga osokatta node shichiji han ni taikin shimashita",
+    "korean_pron": "시고토가 오소캇타노데 시치지한니 타이킨시마시타",
+    "meaning": "일이 늦게 끝나서 7시 반에 퇴근했습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "会社で夕食を食べたので",
+    "hiragana": "かいしゃでゆうしょくをたべたので",
+    "romaji": "kaisha de yuushoku o tabeta node",
+    "korean_pron": "카이샤데 유우쇼쿠오 타베타노데",
+    "meaning": "회사에서 저녁을 먹어서",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "それで遅く退勤しました。",
+    "hiragana": "それでおそくたいきんしました",
+    "romaji": "sorede osoku taikin shimashita",
+    "korean_pron": "소레데 오소쿠 타이킨시마시타",
+    "meaning": "그래서 늦게 퇴근했어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "残念です",
+    "hiragana": "ざんねんです",
+    "romaji": "zannen desu",
+    "korean_pron": "잔넨데스",
+    "meaning": "아쉽습니다 / 안타깝습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "急に行けなくなりました。",
+    "hiragana": "きゅうにいけなくなりました",
+    "romaji": "kyuu ni ikenaku narimashita",
+    "korean_pron": "큐-니 이케나쿠 나리마시타",
+    "meaning": "갑자기 갈 수 없게 되었습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "すぐにお持ちします。",
+    "hiragana": "すぐにおもちします",
+    "romaji": "sugu ni omochi shimasu",
+    "korean_pron": "스구니 오모치 시마스",
+    "meaning": "바로 가져다드리겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "春はいつもいいです",
+    "hiragana": "はるは いつも いいです",
+    "romaji": "haru wa itsumo ii desu",
+    "korean_pron": "하루와 이츠모 이이데스",
+    "meaning": "봄은 언제나 좋아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "花見に行く",
+    "hiragana": "はなみに いく",
+    "romaji": "hanami ni iku",
+    "korean_pron": "하나미니 이쿠",
+    "meaning": "꽃구경하러 가다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "先週のほうがよかったです",
+    "hiragana": "せんしゅうのほうがよかったです",
+    "romaji": "senshuu no hou ga yokatta desu",
+    "korean_pron": "센슈우노 호우가 요캇타데스",
+    "meaning": "지난주가 더 좋았어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "読ませてくださいませんか",
+    "hiragana": "よませて くださいませんか",
+    "romaji": "yomasete kudasaimasen ka",
+    "korean_pron": "요마세테 쿠다사이마센카",
+    "meaning": "읽게 해주시겠어요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "お金を下ろそうと思ってカードを入れました",
+    "hiragana": "おかねを おろそうと おもって カードを いれました",
+    "romaji": "okane o orosou to omotte kaado o iremashita",
+    "korean_pron": "오카네오 오로소오토 오못테 카드오 이레마시타",
+    "meaning": "돈을 뽑으려고 카드를 넣었어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "急に行けなくなりました",
+    "hiragana": "きゅうに いけなく なりました",
+    "romaji": "kyuu ni ikenaku narimashita",
+    "korean_pron": "큐우니 이케나쿠 나리마시타",
+    "meaning": "갑자기 못 가게 되었어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "すぐお届けします",
+    "hiragana": "すぐ おとどけします",
+    "romaji": "sugu otodoke shimasu",
+    "korean_pron": "스구 오토도케시마스",
+    "meaning": "바로 전달해드리겠습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "来ていないです",
+    "hiragana": "きていないです",
+    "romaji": "kite inai desu",
+    "korean_pron": "키테 이나이 데스",
+    "meaning": "안 왔어요 (아직 안 온 상태)",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "栄養もいいです",
+    "hiragana": "えいようも いいです",
+    "romaji": "eiyou mo ii desu",
+    "korean_pron": "에이요오모 이이데스",
+    "meaning": "영양도 좋아요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "たまにご飯は食べません",
+    "hiragana": "たまに ごはんは たべません",
+    "romaji": "tamani gohan wa tabemasen",
+    "korean_pron": "타마니 고항와 타베마센",
+    "meaning": "가끔 밥은 안 먹어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "テレビが少し壊れたんです。",
+    "hiragana": "テレビ が すこし こわれた んです。",
+    "romaji": "terebi ga sukoshi kowareta n desu",
+    "korean_pron": "테레비가 스코시 코와레탄 데스",
+    "meaning": "TV가 조금 고장났습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "体に悪いところはありません。",
+    "hiragana": "からだ に わるい ところ は ありません。",
+    "romaji": "karada ni warui tokoro wa arimasen",
+    "korean_pron": "카라다 니 와루이 토코로와 아리마셍",
+    "meaning": "몸에 안 좋은 곳은 없습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "妻は今忙しくて、まだ来ていません。",
+    "hiragana": "つま は いま いそがしくて、まだ きていません。",
+    "romaji": "tsuma wa ima isogashikute, mada kiteimasen",
+    "korean_pron": "츠마 와 이마 이소가시쿠테 마다 키테이마셍",
+    "meaning": "아내는 지금 바빠서 아직 오지 않았습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "三食は全部ご飯ですか。",
+    "hiragana": "さんしょく は ぜんぶ ごはん ですか。",
+    "romaji": "sanshoku wa zenbu gohan desu ka",
+    "korean_pron": "산쇼쿠 와 젠부 고한 데스카",
+    "meaning": "세 끼 다 밥인가요?",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "昼ごはんだけご飯を食べます。",
+    "hiragana": "ひるごはん だけ ごはん を たべます。",
+    "romaji": "hirugohan dake gohan o tabemasu",
+    "korean_pron": "히루고한 다케 고한 오 타베마스",
+    "meaning": "점심만 밥을 먹습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "寒いので中へお入りください。",
+    "hiragana": "さむい ので なか へ おはいり ください。",
+    "romaji": "samui node naka e ohairi kudasai",
+    "korean_pron": "사무이 노데 나카 에 오하이리 쿠다사이",
+    "meaning": "추우니까 안으로 들어와 주세요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "今日は忙しくなかったので、早く帰りました。",
+    "hiragana": "きょう は いそがしく なかった ので、はやく かえりました。",
+    "romaji": "kyou wa isogashiku nakatta node, hayaku kaerimashita",
+    "korean_pron": "쿄-와 이소가시쿠 나캇타 노데 하야쿠 카에리마시타",
+    "meaning": "오늘은 바쁘지 않아서 일찍 돌아왔습니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "今週は忙しいです。",
+    "hiragana": "こんしゅう は いそがしい です。",
+    "romaji": "konshuu wa isogashii desu",
+    "korean_pron": "콘슈- 와 이소가시이 데스",
+    "meaning": "이번 주는 바쁩니다",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "まだありません",
+    "hiragana": "まだありません",
+    "romaji": "mada arimasen",
+    "korean_pron": "마다 아리마센",
+    "meaning": "아직 없어요",
+    "source": "PlayPhrase"
+  },
+  {
+    "japanese": "天気予報を見たらよかったです",
+    "hiragana": "てんきよほうをみたらよかったです",
+    "romaji": "tenki yohou o mitara yokatta desu",
+    "korean_pron": "텐키 요호-오 미타라 요캇타 데스",
+    "meaning": "일기예보를 보니 좋았어요",
+    "source": "PlayPhrase"
+  }
+]
